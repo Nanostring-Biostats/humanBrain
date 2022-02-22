@@ -1,0 +1,25 @@
+"clust_id","X_position","Y_position","type","StructureName","GenesDetected","x_axis"
+1,14218,30294,"Cortical layer I","Layer I",2038,1.237419670843519
+2,14710,30266,"Cortical layer II/III","Layer II/III",4785,1.87063757898286
+2,15471,29933,"Cortical layer II/III","Layer II/III",5169,2.1962765096209478
+3,16990,29671,"Cortical layer IV","Layer IV",4141,3.056549996207468
+4,18124,29251,"Cortical layer V","Layer V",5784,4.24721032523084
+5,21397,27196,"Cortical white matter","Layer V",3562,4.87117732311599
+6,17080,18298,"Hippocampus CA1","CA1",5003,6.233223440486472
+7,25539,13566,"Hippocampus dentate gyrus","Dentate gyrus",5966,7.034644197218586
+7,25335,18447,"Hippocampus dentate gyrus","Dentate gyrus",8229,6.89882133274805
+7,23968,17792,"Hippocampus dentate gyrus","Dentate gyrus",7520,7.166455469769426
+6,18714,21285,"Hippocampus CA1","CA1",5429,5.965293197892606
+6,17531,15014,"Hippocampus CA1","CA1",4873,5.838963499316014
+1,13191,28421,"Cortical layer I","Layer I",1797,0.8474514789530076
+2,14443,27832,"Cortical layer II/III","Layer II/III",5157,1.76293935363647
+3,15666,27377,"Cortical layer IV","Layer IV",4861,2.843546070810407
+4,16694,27034,"Cortical layer V","Layer V",5957,3.844115947419778
+5,19599,25100,"Cortical white matter","Layer V",3681,5.170724043820519
+1,18712,35413,"Cortical layer I","Layer I",1507,1.144514887733385
+2,19580,34754,"Cortical layer II/III","Layer II/III",5780,2.2514687973075
+3,20435,34059,"Cortical layer IV","Layer IV",4755,3.2
+4,21400,33471,"Cortical layer V","Layer V",5256,4.159649840695783
+5,25602,32214,"Cortical white matter","Layer V",4132,5.029807364509907
+2,13662,28221,"Cortical layer II/III","Layer II/III",5389,2.026845161477104
+2,19124,35027,"Cortical layer II/III","Layer II/III",4381,2.045047006045934

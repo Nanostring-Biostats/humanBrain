@@ -1,0 +1,163 @@
+ROI,X_position,Y_position,gene,gene_value,structure,full_gene_name,Order,type
+74 | 001 | Geometric Segment,14218,30294,Astrocyte,0.327187792,Layer I,Astrocyte,C,Cortical layer I
+74 | 001 | Geometric Segment,14218,30294,Capillary,0.114918784,Layer I,Capillary,E,Cortical layer I
+74 | 001 | Geometric Segment,14218,30294,Ependymal,0,Layer I,Ependymal,H,Cortical layer I
+74 | 001 | Geometric Segment,14218,30294,Microglia,0.086092326,Layer I,Microglia,B,Cortical layer I
+74 | 001 | Geometric Segment,14218,30294,Neuron,0.049130946,Layer I,Neuron,A,Cortical layer I
+74 | 001 | Geometric Segment,14218,30294,Oligodendrocytes,0.067537443,Layer I,Oligodendrocytes,G,Cortical layer I
+74 | 001 | Geometric Segment,14218,30294,Macrophage,0.144832,Layer I,PeriMacrophage,D,Cortical layer I
+74 | 001 | Geometric Segment,14218,30294,SMC,0.08585915,Layer I,SMC,F,Cortical layer I
+74 | 001 | Geometric Segment,14218,30294,Tcell,0.111984343,Layer I,Tcell,I,Cortical layer I
+74 | 022 | Geometric Segment,13191,28421,Astrocyte,0.317043357,Layer I,Astrocyte,C,Cortical layer I
+74 | 022 | Geometric Segment,13191,28421,Capillary,0.083817048,Layer I,Capillary,E,Cortical layer I
+74 | 022 | Geometric Segment,13191,28421,Ependymal,0,Layer I,Ependymal,H,Cortical layer I
+74 | 022 | Geometric Segment,13191,28421,Microglia,0.153498462,Layer I,Microglia,B,Cortical layer I
+74 | 022 | Geometric Segment,13191,28421,Neuron,0.032695454,Layer I,Neuron,A,Cortical layer I
+74 | 022 | Geometric Segment,13191,28421,Oligodendrocytes,0.058794902,Layer I,Oligodendrocytes,G,Cortical layer I
+74 | 022 | Geometric Segment,13191,28421,Macrophage,0.177737521,Layer I,PeriMacrophage,D,Cortical layer I
+74 | 022 | Geometric Segment,13191,28421,SMC,0.096961385,Layer I,SMC,F,Cortical layer I
+74 | 022 | Geometric Segment,13191,28421,Tcell,0.079451871,Layer I,Tcell,I,Cortical layer I
+74 | 027 | Geometric Segment,18712,35413,Astrocyte,0.325769156,Layer I,Astrocyte,C,Cortical layer I
+74 | 027 | Geometric Segment,18712,35413,Capillary,0.082352757,Layer I,Capillary,E,Cortical layer I
+74 | 027 | Geometric Segment,18712,35413,Ependymal,0,Layer I,Ependymal,H,Cortical layer I
+74 | 027 | Geometric Segment,18712,35413,Microglia,0.158399861,Layer I,Microglia,B,Cortical layer I
+74 | 027 | Geometric Segment,18712,35413,Neuron,0.021748097,Layer I,Neuron,A,Cortical layer I
+74 | 027 | Geometric Segment,18712,35413,Oligodendrocytes,0.132981238,Layer I,Oligodendrocytes,G,Cortical layer I
+74 | 027 | Geometric Segment,18712,35413,Macrophage,0.102821877,Layer I,PeriMacrophage,D,Cortical layer I
+74 | 027 | Geometric Segment,18712,35413,SMC,0.038439146,Layer I,SMC,F,Cortical layer I
+74 | 027 | Geometric Segment,18712,35413,Tcell,0.128149909,Layer I,Tcell,I,Cortical layer I
+74 | 002 | Geometric Segment,14710,30266,Astrocyte,0.095731077,Layer II/III,Astrocyte,C,Cortical layer II/III
+74 | 002 | Geometric Segment,14710,30266,Capillary,0.018576715,Layer II/III,Capillary,E,Cortical layer II/III
+74 | 002 | Geometric Segment,14710,30266,Ependymal,0,Layer II/III,Ependymal,H,Cortical layer II/III
+74 | 002 | Geometric Segment,14710,30266,Microglia,0.08133183,Layer II/III,Microglia,B,Cortical layer II/III
+74 | 002 | Geometric Segment,14710,30266,Neuron,0.615436367,Layer II/III,Neuron,A,Cortical layer II/III
+74 | 002 | Geometric Segment,14710,30266,Oligodendrocytes,0.010566626,Layer II/III,Oligodendrocytes,G,Cortical layer II/III
+74 | 002 | Geometric Segment,14710,30266,Macrophage,0.061974724,Layer II/III,PeriMacrophage,D,Cortical layer II/III
+74 | 002 | Geometric Segment,14710,30266,SMC,0.034977223,Layer II/III,SMC,F,Cortical layer II/III
+74 | 002 | Geometric Segment,14710,30266,Tcell,0.081405438,Layer II/III,Tcell,I,Cortical layer II/III
+74 | 034 | Geometric Segment,13662,28221,Astrocyte,0.111161762,Layer II/III,Astrocyte,C,Cortical layer II/III
+74 | 034 | Geometric Segment,13662,28221,Capillary,0.020443974,Layer II/III,Capillary,E,Cortical layer II/III
+74 | 034 | Geometric Segment,13662,28221,Ependymal,0,Layer II/III,Ependymal,H,Cortical layer II/III
+74 | 034 | Geometric Segment,13662,28221,Microglia,0.080693141,Layer II/III,Microglia,B,Cortical layer II/III
+74 | 034 | Geometric Segment,13662,28221,Neuron,0.629089365,Layer II/III,Neuron,A,Cortical layer II/III
+74 | 034 | Geometric Segment,13662,28221,Oligodendrocytes,0.003057529,Layer II/III,Oligodendrocytes,G,Cortical layer II/III
+74 | 034 | Geometric Segment,13662,28221,Macrophage,0.033266222,Layer II/III,PeriMacrophage,D,Cortical layer II/III
+74 | 034 | Geometric Segment,13662,28221,SMC,0.00096217,Layer II/III,SMC,F,Cortical layer II/III
+74 | 034 | Geometric Segment,13662,28221,Tcell,0.121325836,Layer II/III,Tcell,I,Cortical layer II/III
+74 | 035 | Geometric Segment,19124,35027,Astrocyte,0.012328791,Layer II/III,Astrocyte,C,Cortical layer II/III
+74 | 035 | Geometric Segment,19124,35027,Capillary,0.010552257,Layer II/III,Capillary,E,Cortical layer II/III
+74 | 035 | Geometric Segment,19124,35027,Ependymal,0,Layer II/III,Ependymal,H,Cortical layer II/III
+74 | 035 | Geometric Segment,19124,35027,Microglia,0.038756094,Layer II/III,Microglia,B,Cortical layer II/III
+74 | 035 | Geometric Segment,19124,35027,Neuron,0.840448989,Layer II/III,Neuron,A,Cortical layer II/III
+74 | 035 | Geometric Segment,19124,35027,Oligodendrocytes,0,Layer II/III,Oligodendrocytes,G,Cortical layer II/III
+74 | 035 | Geometric Segment,19124,35027,Macrophage,0.0208695,Layer II/III,PeriMacrophage,D,Cortical layer II/III
+74 | 035 | Geometric Segment,19124,35027,SMC,0,Layer II/III,SMC,F,Cortical layer II/III
+74 | 035 | Geometric Segment,19124,35027,Tcell,0.077044368,Layer II/III,Tcell,I,Cortical layer II/III
+74 | 003 | Geometric Segment,15471,29933,Astrocyte,0.073562036,Layer II/III,Astrocyte,C,Cortical layer II/III
+74 | 003 | Geometric Segment,15471,29933,Capillary,0.041724189,Layer II/III,Capillary,E,Cortical layer II/III
+74 | 003 | Geometric Segment,15471,29933,Ependymal,0,Layer II/III,Ependymal,H,Cortical layer II/III
+74 | 003 | Geometric Segment,15471,29933,Microglia,0.039892631,Layer II/III,Microglia,B,Cortical layer II/III
+74 | 003 | Geometric Segment,15471,29933,Neuron,0.596416301,Layer II/III,Neuron,A,Cortical layer II/III
+74 | 003 | Geometric Segment,15471,29933,Oligodendrocytes,0.043418126,Layer II/III,Oligodendrocytes,G,Cortical layer II/III
+74 | 003 | Geometric Segment,15471,29933,Macrophage,0.055914487,Layer II/III,PeriMacrophage,D,Cortical layer II/III
+74 | 003 | Geometric Segment,15471,29933,SMC,0,Layer II/III,SMC,F,Cortical layer II/III
+74 | 003 | Geometric Segment,15471,29933,Tcell,0.149072229,Layer II/III,Tcell,I,Cortical layer II/III
+74 | 023 | Geometric Segment,14443,27832,Astrocyte,0.07418912,Layer II/III,Astrocyte,C,Cortical layer II/III
+74 | 023 | Geometric Segment,14443,27832,Capillary,0.031343085,Layer II/III,Capillary,E,Cortical layer II/III
+74 | 023 | Geometric Segment,14443,27832,Ependymal,0,Layer II/III,Ependymal,H,Cortical layer II/III
+74 | 023 | Geometric Segment,14443,27832,Microglia,0.039978204,Layer II/III,Microglia,B,Cortical layer II/III
+74 | 023 | Geometric Segment,14443,27832,Neuron,0.607568967,Layer II/III,Neuron,A,Cortical layer II/III
+74 | 023 | Geometric Segment,14443,27832,Oligodendrocytes,0.075007318,Layer II/III,Oligodendrocytes,G,Cortical layer II/III
+74 | 023 | Geometric Segment,14443,27832,Macrophage,0.058342548,Layer II/III,PeriMacrophage,D,Cortical layer II/III
+74 | 023 | Geometric Segment,14443,27832,SMC,0.004454409,Layer II/III,SMC,F,Cortical layer II/III
+74 | 023 | Geometric Segment,14443,27832,Tcell,0.10911635,Layer II/III,Tcell,I,Cortical layer II/III
+74 | 028 | Geometric Segment,19580,34754,Astrocyte,0.044988788,Layer II/III,Astrocyte,C,Cortical layer II/III
+74 | 028 | Geometric Segment,19580,34754,Capillary,0.015965144,Layer II/III,Capillary,E,Cortical layer II/III
+74 | 028 | Geometric Segment,19580,34754,Ependymal,0,Layer II/III,Ependymal,H,Cortical layer II/III
+74 | 028 | Geometric Segment,19580,34754,Microglia,0.052524956,Layer II/III,Microglia,B,Cortical layer II/III
+74 | 028 | Geometric Segment,19580,34754,Neuron,0.602656261,Layer II/III,Neuron,A,Cortical layer II/III
+74 | 028 | Geometric Segment,19580,34754,Oligodendrocytes,0.128195821,Layer II/III,Oligodendrocytes,G,Cortical layer II/III
+74 | 028 | Geometric Segment,19580,34754,Macrophage,0.030935555,Layer II/III,PeriMacrophage,D,Cortical layer II/III
+74 | 028 | Geometric Segment,19580,34754,SMC,0,Layer II/III,SMC,F,Cortical layer II/III
+74 | 028 | Geometric Segment,19580,34754,Tcell,0.124733474,Layer II/III,Tcell,I,Cortical layer II/III
+74 | 004 | Geometric Segment,16990,29671,Astrocyte,0.111340212,Layer IV,Astrocyte,C,Coritcal layer IV
+74 | 004 | Geometric Segment,16990,29671,Capillary,0.031168798,Layer IV,Capillary,E,Coritcal layer IV
+74 | 004 | Geometric Segment,16990,29671,Ependymal,0,Layer IV,Ependymal,H,Coritcal layer IV
+74 | 004 | Geometric Segment,16990,29671,Microglia,0.047796397,Layer IV,Microglia,B,Coritcal layer IV
+74 | 004 | Geometric Segment,16990,29671,Neuron,0.424887069,Layer IV,Neuron,A,Coritcal layer IV
+74 | 004 | Geometric Segment,16990,29671,Oligodendrocytes,0.181902127,Layer IV,Oligodendrocytes,G,Coritcal layer IV
+74 | 004 | Geometric Segment,16990,29671,Macrophage,0.048161876,Layer IV,PeriMacrophage,D,Coritcal layer IV
+74 | 004 | Geometric Segment,16990,29671,SMC,0.047890162,Layer IV,SMC,F,Coritcal layer IV
+74 | 004 | Geometric Segment,16990,29671,Tcell,0.106853358,Layer IV,Tcell,I,Coritcal layer IV
+74 | 024 | Geometric Segment,15666,27377,Astrocyte,0.07042137,Layer IV,Astrocyte,C,Coritcal layer IV
+74 | 024 | Geometric Segment,15666,27377,Capillary,0.03027773,Layer IV,Capillary,E,Coritcal layer IV
+74 | 024 | Geometric Segment,15666,27377,Ependymal,0,Layer IV,Ependymal,H,Coritcal layer IV
+74 | 024 | Geometric Segment,15666,27377,Microglia,0.052670552,Layer IV,Microglia,B,Coritcal layer IV
+74 | 024 | Geometric Segment,15666,27377,Neuron,0.488896622,Layer IV,Neuron,A,Coritcal layer IV
+74 | 024 | Geometric Segment,15666,27377,Oligodendrocytes,0.213092952,Layer IV,Oligodendrocytes,G,Coritcal layer IV
+74 | 024 | Geometric Segment,15666,27377,Macrophage,0.031817587,Layer IV,PeriMacrophage,D,Coritcal layer IV
+74 | 024 | Geometric Segment,15666,27377,SMC,0.004470473,Layer IV,SMC,F,Coritcal layer IV
+74 | 024 | Geometric Segment,15666,27377,Tcell,0.108352714,Layer IV,Tcell,I,Coritcal layer IV
+74 | 029 | Geometric Segment,20435,34059,Astrocyte,0.189225409,Layer IV,Astrocyte,C,Coritcal layer IV
+74 | 029 | Geometric Segment,20435,34059,Capillary,0.033148801,Layer IV,Capillary,E,Coritcal layer IV
+74 | 029 | Geometric Segment,20435,34059,Ependymal,0,Layer IV,Ependymal,H,Coritcal layer IV
+74 | 029 | Geometric Segment,20435,34059,Microglia,0.061605275,Layer IV,Microglia,B,Coritcal layer IV
+74 | 029 | Geometric Segment,20435,34059,Neuron,0.351076334,Layer IV,Neuron,A,Coritcal layer IV
+74 | 029 | Geometric Segment,20435,34059,Oligodendrocytes,0.176919588,Layer IV,Oligodendrocytes,G,Coritcal layer IV
+74 | 029 | Geometric Segment,20435,34059,Macrophage,0.038816869,Layer IV,PeriMacrophage,D,Coritcal layer IV
+74 | 029 | Geometric Segment,20435,34059,SMC,0.017263471,Layer IV,SMC,F,Coritcal layer IV
+74 | 029 | Geometric Segment,20435,34059,Tcell,0.131944253,Layer IV,Tcell,I,Coritcal layer IV
+74 | 005 | Geometric Segment,18124,29251,Astrocyte,0.061358229,Layer V,Astrocyte,C,Cortical layer V
+74 | 005 | Geometric Segment,18124,29251,Capillary,0.021333781,Layer V,Capillary,E,Cortical layer V
+74 | 005 | Geometric Segment,18124,29251,Ependymal,0,Layer V,Ependymal,H,Cortical layer V
+74 | 005 | Geometric Segment,18124,29251,Microglia,0.055610835,Layer V,Microglia,B,Cortical layer V
+74 | 005 | Geometric Segment,18124,29251,Neuron,0.486848686,Layer V,Neuron,A,Cortical layer V
+74 | 005 | Geometric Segment,18124,29251,Oligodendrocytes,0.224152229,Layer V,Oligodendrocytes,G,Cortical layer V
+74 | 005 | Geometric Segment,18124,29251,Macrophage,0.051015345,Layer V,PeriMacrophage,D,Cortical layer V
+74 | 005 | Geometric Segment,18124,29251,SMC,3.03E-06,Layer V,SMC,F,Cortical layer V
+74 | 005 | Geometric Segment,18124,29251,Tcell,0.09967786,Layer V,Tcell,I,Cortical layer V
+74 | 025 | Geometric Segment,16694,27034,Astrocyte,0.031243564,Layer V,Astrocyte,C,Cortical layer V
+74 | 025 | Geometric Segment,16694,27034,Capillary,0.009155722,Layer V,Capillary,E,Cortical layer V
+74 | 025 | Geometric Segment,16694,27034,Ependymal,0,Layer V,Ependymal,H,Cortical layer V
+74 | 025 | Geometric Segment,16694,27034,Microglia,0.054951708,Layer V,Microglia,B,Cortical layer V
+74 | 025 | Geometric Segment,16694,27034,Neuron,0.603226286,Layer V,Neuron,A,Cortical layer V
+74 | 025 | Geometric Segment,16694,27034,Oligodendrocytes,0.178542229,Layer V,Oligodendrocytes,G,Cortical layer V
+74 | 025 | Geometric Segment,16694,27034,Macrophage,0.02852622,Layer V,PeriMacrophage,D,Cortical layer V
+74 | 025 | Geometric Segment,16694,27034,SMC,0,Layer V,SMC,F,Cortical layer V
+74 | 025 | Geometric Segment,16694,27034,Tcell,0.094354272,Layer V,Tcell,I,Cortical layer V
+74 | 030 | Geometric Segment,21400,33471,Astrocyte,0.043897697,Layer V,Astrocyte,C,Cortical layer V
+74 | 030 | Geometric Segment,21400,33471,Capillary,0.024880356,Layer V,Capillary,E,Cortical layer V
+74 | 030 | Geometric Segment,21400,33471,Ependymal,0,Layer V,Ependymal,H,Cortical layer V
+74 | 030 | Geometric Segment,21400,33471,Microglia,0.056715273,Layer V,Microglia,B,Cortical layer V
+74 | 030 | Geometric Segment,21400,33471,Neuron,0.586571333,Layer V,Neuron,A,Cortical layer V
+74 | 030 | Geometric Segment,21400,33471,Oligodendrocytes,0.174243351,Layer V,Oligodendrocytes,G,Cortical layer V
+74 | 030 | Geometric Segment,21400,33471,Macrophage,0.02540102,Layer V,PeriMacrophage,D,Cortical layer V
+74 | 030 | Geometric Segment,21400,33471,SMC,0,Layer V,SMC,F,Cortical layer V
+74 | 030 | Geometric Segment,21400,33471,Tcell,0.088290969,Layer V,Tcell,I,Cortical layer V
+74 | 006 | Geometric Segment,21397,27196,Astrocyte,0.103175485,WM,Astrocyte,C,Cortical white matter
+74 | 006 | Geometric Segment,21397,27196,Capillary,0.039845576,WM,Capillary,E,Cortical white matter
+74 | 006 | Geometric Segment,21397,27196,Ependymal,0,WM,Ependymal,H,Cortical white matter
+74 | 006 | Geometric Segment,21397,27196,Microglia,0.077436487,WM,Microglia,B,Cortical white matter
+74 | 006 | Geometric Segment,21397,27196,Neuron,0.009062309,WM,Neuron,A,Cortical white matter
+74 | 006 | Geometric Segment,21397,27196,Oligodendrocytes,0.575855205,WM,Oligodendrocytes,G,Cortical white matter
+74 | 006 | Geometric Segment,21397,27196,Macrophage,0.072102871,WM,PeriMacrophage,D,Cortical white matter
+74 | 006 | Geometric Segment,21397,27196,SMC,0.048381155,WM,SMC,F,Cortical white matter
+74 | 006 | Geometric Segment,21397,27196,Tcell,0.074140911,WM,Tcell,I,Cortical white matter
+74 | 026 | Geometric Segment,19599,25100,Astrocyte,0.069278695,WM,Astrocyte,C,Cortical white matter
+74 | 026 | Geometric Segment,19599,25100,Capillary,0.049986849,WM,Capillary,E,Cortical white matter
+74 | 026 | Geometric Segment,19599,25100,Ependymal,7.51E-05,WM,Ependymal,H,Cortical white matter
+74 | 026 | Geometric Segment,19599,25100,Microglia,0.071159327,WM,Microglia,B,Cortical white matter
+74 | 026 | Geometric Segment,19599,25100,Neuron,0,WM,Neuron,A,Cortical white matter
+74 | 026 | Geometric Segment,19599,25100,Oligodendrocytes,0.582353546,WM,Oligodendrocytes,G,Cortical white matter
+74 | 026 | Geometric Segment,19599,25100,Macrophage,0.102575607,WM,PeriMacrophage,D,Cortical white matter
+74 | 026 | Geometric Segment,19599,25100,SMC,0.069163811,WM,SMC,F,Cortical white matter
+74 | 026 | Geometric Segment,19599,25100,Tcell,0.049072096,WM,Tcell,I,Cortical white matter
+74 | 031 | Geometric Segment,25602,32214,Astrocyte,0.08638535,WM,Astrocyte,C,Cortical white matter
+74 | 031 | Geometric Segment,25602,32214,Capillary,0.043114772,WM,Capillary,E,Cortical white matter
+74 | 031 | Geometric Segment,25602,32214,Ependymal,0.001032802,WM,Ependymal,H,Cortical white matter
+74 | 031 | Geometric Segment,25602,32214,Microglia,0.087483543,WM,Microglia,B,Cortical white matter
+74 | 031 | Geometric Segment,25602,32214,Neuron,0.0121267,WM,Neuron,A,Cortical white matter
+74 | 031 | Geometric Segment,25602,32214,Oligodendrocytes,0.591499793,WM,Oligodendrocytes,G,Cortical white matter
+74 | 031 | Geometric Segment,25602,32214,Macrophage,0.063096014,WM,PeriMacrophage,D,Cortical white matter
+74 | 031 | Geometric Segment,25602,32214,SMC,0.038919162,WM,SMC,F,Cortical white matter
+74 | 031 | Geometric Segment,25602,32214,Tcell,0.072412586,WM,Tcell,I,Cortical white matter
