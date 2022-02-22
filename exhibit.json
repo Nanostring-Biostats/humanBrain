@@ -18,8 +18,8 @@
             "Arrows": [], 
             "Overlays": [], 
             "Group": "All markers", 
-            "Masks": ["All structures", "Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Coritcal layer IV", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Cortical white matter", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil", "Hippocampus dentate gyrus"], 
-            "ActiveMasks": ["All structures", "Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Coritcal layer IV", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Cortical white matter", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil", "Hippocampus dentate gyrus"], 
+            "Masks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Cortical white matter", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil", "Hippocampus dentate gyrus"], 
+            "ActiveMasks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Cortical white matter", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil", "Hippocampus dentate gyrus"], 
             "Zoom": 0.4535233902599297, 
             "Pan": [0.5000000000000001, 0.505419348858948]}, 
             {"Name": "Fine Brain Morphology", 
@@ -27,8 +27,8 @@
                 "Arrows": [], 
                 "Overlays": [], 
                 "Group": "All markers", 
-                "Masks": ["All structures", "Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Coritcal layer IV", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Cortical white matter", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil", "Hippocampus dentate gyrus"], 
-                "ActiveMasks": ["All structures", "Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Coritcal layer IV", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Cortical white matter", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil", "Hippocampus dentate gyrus"], 
+                "Masks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Cortical white matter", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil", "Hippocampus dentate gyrus"], 
+                "ActiveMasks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Cortical white matter", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil", "Hippocampus dentate gyrus"], 
                 "Zoom": 0.9736138916015626, 
                 "Pan": [0.3785714285714286, 0.49583333333333335]}, 
             {"Name": "Linking Molecular and Imaging Data 1", 
@@ -36,10 +36,55 @@
                 "Arrows": [], 
                 "Overlays": [], 
                 "Group": "All markers", 
-                "Masks": ["Cortical layer I", "Cortical layer II/III", "Coritcal layer IV", "Cortical layer V", "Cortical white matter", "Hippocampus CA1", "Hippocampus dentate gyrus"], 
-                "ActiveMasks": ["Cortical layer I", "Cortical layer II/III", "Coritcal layer IV", "Cortical layer V", "Cortical white matter", "Hippocampus CA1", "Hippocampus dentate gyrus"], 
+                "Masks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer IV", "Cortical layer V", "Cortical white matter", "Hippocampus CA1", "Hippocampus dentate gyrus"], 
+                "ActiveMasks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer IV", "Cortical layer V", "Cortical white matter", "Hippocampus CA1", "Hippocampus dentate gyrus"], 
                 "Zoom": 0.9606830821037293, 
-                "Pan": [0.3785714285714286, 0.49583333333333335]}, 
+                "Pan": [0.3785714285714286, 0.49583333333333335],
+                "MaskAndPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null}, "width": "container",
+                "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+                "data": {
+                    "url": "data/WPT3_GenesDetected.csv"
+                },
+                "mark": {
+                    "type": "point",
+                    "filled": true,
+                    "stroke": "white",
+                    "strokeWidth": 0.5,
+                    "size": 110
+                },
+                "encoding": {
+                    "x": {
+                        "field": "x_axis",
+                        "type": "quantitative",
+                        "title": null,
+                        "axis": {
+                            "labelExpr": "datum.label == 1 ? 'Layer I' : datum.label == 2 ? 'Layer II/III' : datum.label == 3 ? 'Layer IV' : datum.label == 4 ? 'Layer V' : datum.label == 5 ? 'White matter' : datum.label == 6 ? 'CA1' : datum.label == 7 ? 'Dentate gyrus' : null" ,
+                            "labelAngle": -90,
+                            "tickCount": 7
+                        },
+                        "scale": {"domain": [0, 8]}
+                    },
+                    "y": {
+                        "field": "GenesDetected",
+                        "type": "quantitative",
+                        "title": "Genes Detected,# > LOQ"
+                    },
+                    "color": {
+                        "field": "type",
+                        "title": "ROI Category",
+                        "legend": {
+                            "orient": "bottom",
+                            "direction": "vertical"
+                        },
+                        "scale": {
+                            "domain": ["Cortical layer I", "Cortical layer II/III", "Cortical layer IV", "Cortical layer V", "Hippocampus CA1", "Hippocampus dentate gyrus", "Cortical white matter"],
+                            "range": ["#90CEF0", "#37A7E5", "#005B8E", "#002E48", "#484E4E", "#009E73", "#E69F00"]
+                        }
+                    }
+                }
+            }
+            }, 
+                
             {"Name": "Linking Molecular and Imaging Data 2", 
                 "Description": "(segmented ROIs only, # genes > LOQ)", 
                 "Arrows": [], 
@@ -48,25 +93,308 @@
                 "Masks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
                 "ActiveMasks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
                 "Zoom": 0.9229119842403208, 
-                "Pan": [0.3785714285714286, 0.49583333333333335]}, 
+                "Pan": [0.3785714285714286, 0.49583333333333335],
+                "multipleMasksPanChannel": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null}, "width": "container",
+                    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+                    "data": {
+                        "url": "data/WPT4_GenesDetected_box.csv",
+                        "format": {
+                            "parse": {
+                                "X_position": "number",
+                                "Y_position": "number",
+                                "type":"string",
+                                "GenesDetected":"number",
+                                "ROI_cat_num":"number",
+                                "x_axis":"number",
+                                "channel": "string"
+                            }
+                        }
+                    }, 
+                    "layer": [{
+                        "mark": {
+                            "type": "boxplot", 
+                            "ticks": {
+                                "color": "white"
+                                }, 
+                            "color": "white"
+                            }, 
+                        "encoding": {
+                            "color": {
+                                "legend": null, 
+                                "field": "SegmentType"
+                                }, 
+                            "x": {
+                                "type": "nominal", 
+                                "field": "SegmentType", 
+                                "title": null,
+                                "sort":null
+                            },
+                             "y": {
+                                 "type": "quantitative", 
+                                 "field": "GenesDetected", 
+                                 "title": "Genes Detected,# > LOQ"
+                                }
+                            }
+                        },
+                        {
+                        "mark": {
+                            "type": "point", 
+                            "color": "white", 
+                            "fill": "white", 
+                            "stroke": "red",
+                             "strokeWidth": 1, 
+                             "size": 50
+                            }, 
+                        "encoding": {
+                            "x": {
+                                "field": "x_axis", 
+                                "title" :null, 
+                                "type": "quantitative", 
+                                "axis": {
+                                    "labels":false, 
+                                    "ticks":false
+                                    }
+                                }, 
+                            "y": {
+                                "field": "GenesDetected", 
+                                "type": "quantitative"
+                                },
+                            "shape": {
+                                "field": "Location",
+                                "type": "nominal",
+                                "legend": {
+                                    "orient": "bottom",
+                                    "direction": "vertical",
+                                    "symbolFillColor": "white"
+                                },
+                                "scale": {
+                                    "domain": ["Cortical layer II/III", "Cortical layer V", "Hippocampal hilus", "Hippocampus CA1"],
+                                    "range": ["square", "cross", "diamond", "triangle-up"]
+                                }
+                            }
+                            }
+                        }
+                    ]
+                }
+            }, 
             {"Name": "Cortical Cell Type Deconvolution", 
                 "Description": "(cortical cell type deconvolution)", 
                 "Arrows": [], 
                 "Overlays": [], 
                 "Group": "All markers", 
-                "Masks": ["Cortical layer I", "Cortical layer II/III", "Coritcal layer IV", "Cortical layer V"], 
-                "ActiveMasks": ["Cortical layer I", "Cortical layer II/III", "Coritcal layer IV", "Cortical layer V"], 
+                "Masks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer IV", "Cortical layer V", "Cortical white matter"], 
+                "ActiveMasks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer IV", "Cortical layer V", "Cortical white matter"], 
                 "Zoom": 1.142607445458477, 
-                "Pan": [0.32477380411552853, 0.6296697012868467]}, 
+                "Pan": [0.32477380411552853, 0.6296697012868467],
+                "MaskAndPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null},
+                "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+                "layer": 
+                [{
+                   "mark": "bar",
+                   "data": {"url": "data/hu_brain_decon.csv"},
+                   "width": "container",
+                   "encoding": {
+                         "x": {
+                               "field": "gene_value", 
+                               "type": "quantitative", 
+                               "stack": "normalize", 
+                               "title": "Proportion of Gene Type"
+                         },
+                         "y": {
+                               "field": "ROI", 
+                               "type": "nominal", 
+                               "title": null,
+                               "axis": {
+                                   "labels": false,
+                                   "ticks": false
+                               },
+                               "sort": null
+                         },
+                         "color": {
+                               "field": "gene", 
+                               "type": "nominal",
+                               "legend": {"orient": "bottom", "direction": "vertical", "offset": 350}, 
+                               "title": "Gene Type",
+                               "sort":null
+                               },
+                        "order": {
+                                "field": "Order"
+                            },
+                       "tooltip": {
+                           "field": "full_gene_name", "type":"nominal"
+                           }    
+                         }
+                },
+                {
+                    "data": {
+                        "values": [
+                            {"Sample_ID": "ROI", "order": "A", "name": "Cortical white matter", "type": "Cortical white matter", "percentage": 0.166},
+                            {"Sample_ID": "ROI", "order": "B", "name": "Cortical layer V", "type": "Cortical layer V", "percentage": 0.166},
+                            {"Sample_ID": "ROI", "order": "C", "name": "Cortical layer IV", "type": "Cortical layer IV", "percentage": 0.166},
+                            {"Sample_ID": "ROI", "order": "D", "name": "Cortical layer II/III", "type": "Cortical layer II/III", "percentage": 0.333},
+                            {"Sample_ID": "ROI", "order": "E", "name": "Cortical layer I", "type": "Cortical layer I", "percentage": 0.166}
+                        ]},
+                            "mark": {"type": "bar", "xOffset": -7},
+                            "width": 7,
+                            "height": 360,
+                            "encoding": {
+                                "y": {
+                                        "field": "percentage", 
+                                        "type": "quantitative",
+                                        "axis": {
+                                        "labels": false,
+                                        "ticks": false
+                                        },
+                                        "title": null
+                                },
+                                "x": {
+                                        "field": "Sample_ID", 
+                                        "type": "nominal",     
+                                        "title": null,
+                                        "axis": {
+                                        "labels": false,
+                                        "ticks": false
+                                        }
+                                    },
+                                "color": {
+                                    "field": "name", 
+                                    "type": "nominal",
+                                    "sort": null,
+                                    "legend": {"orient": "top", "direction": "vertical", "title": "Histological Structure"},
+                                    "scale": {
+                                        "domain": ["Cortical layer I", "Cortical layer II/III", "Cortical layer IV", "Cortical layer V", "Cortical white matter"],
+                                        "range": ["#90CEF0", "#37A7E5", "#005B8E", "#002E48", "#E69F00"]
+                                    }
+                                },
+                                "tooltip": {
+                                    "field": "type", "type":"nominal"
+                                },         
+                                "order": {"field": "order"}
+                            }
+                    }],
+                  "resolve": {"scale": {"color": "independent"}}
+                }
+            }, 
             {"Name": "Spatial Mapping of Gene Pathways 1", 
-                "Description": "(heatmap \"with neurons\"", 
+                "Description": "(heatmap \"with neurons\")", 
                 "Arrows": [], 
                 "Overlays": [], 
                 "Group": "Nuclei", 
                 "Masks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
                 "ActiveMasks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
                 "Zoom": 0.9109274489586859, 
-                "Pan": [0.3785714285714286, 0.49583333333333335]}, 
+                "Pan": [0.3785714285714286, 0.49583333333333335],
+                "MaskAndPan": {"config": {"axis": {"domain":false}, "view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null}, "width": "container",
+                "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+                "layer": [{
+                    "data": {"url": "data/WPT6_Neuronal.csv"},
+                    "mark": "rect",
+                    "encoding": {
+                        "x": {
+                            "field": "ROI_Name",
+                            "type": "nominal",
+                            "title": null,
+                            "sort": null,
+                            "axis": {
+                                "labels": false,
+                                "ticks": false
+                            }
+                        },
+                        "y": {
+                            "field": "Gene",
+                            "type": "nominal",
+                            "sort": null,
+                            "title": null
+                        },
+                        "color": {
+                            "field": "Expression",
+                            "bin": {"binned": true},
+                            "scale": {"range": ["#7D26CD", "#6B20AF", "#591B92", "#471575", "#351057", "#230A3A", "#11051D", "#000000", "#212100", "#434300", "#656500", "#888800", "#AAAA00", "#CBCB00", "#EEEE00"]},
+                            "legend": {"orient": "top"}, 
+                            "title": null
+                        },
+                        "tooltip": {
+                            "field": "Gene",
+                            "type": "nominal"
+                        }
+                    }
+                },
+                {
+                "data": {
+                    "values":[
+                        {"bar": "two", "order": "A", "segmentation": "NeuN+", "type": "Cortical layer V - NeuN+", "percentage": 0.077},
+                        {"bar": "two", "order": "B", "segmentation": "NeuN+", "type": "Cortical layer II/III - NeuN+", "percentage": 0.077},
+                        {"bar": "two", "order": "C", "segmentation": "NeuN+", "type": "Hippocampus CA1 - NeuN+", "percentage": 0.0256},
+                        {"bar": "two", "order": "D", "segmentation": "NeuN+", "type": "Hippocampal hilus - NeuN+", "percentage": 0.077},
+                        {"bar": "two", "order": "E", "segmentation": "NeuN+", "type": "Hippocampus CA1 - NeuN+", "percentage": 0.0512},
+                        {"bar": "two", "order": "F", "segmentation": "GFAP+", "type": "Cortical layer II/III - GFAP+", "percentage": 0.0256},
+                        {"bar": "two", "order": "G", "segmentation": "IBA1+", "type": "Cortical layer V - IBA1+", "percentage": 0.0512},
+                        {"bar": "two", "order": "H", "segmentation": "Neuropil", "type": "Cortical layer V - Neuropil", "percentage": 0.0256},
+                        {"bar": "two", "order": "I", "segmentation": "IBA1+", "type": "Hippocampus CA1 - IBA1+", "percentage": 0.0512},
+                        {"bar": "two", "order": "J", "segmentation": "IBA1+", "type": "Cortical layer II/III - IBA1+", "percentage": 0.0256},
+                        {"bar": "two", "order": "K", "segmentation": "IBA1+", "type": "Cortical layer V - IBA1+", "percentage": 0.0256},
+                        {"bar": "two", "order": "L", "segmentation": "Neuropil", "type": "Hippocampal hilus - Neuropil", "percentage": 0.0256},
+                        {"bar": "two", "order": "M", "segmentation": "Neuropil", "type": "Cortical layer II/III - Neuropil", "percentage": 0.0256},
+                        {"bar": "two", "order": "N", "segmentation": "Neuropil", "type": "Cortical layer V - Neuropil", "percentage": 0.0512},
+                        {"bar": "two", "order": "O", "segmentation": "Neuropil", "type": "Hippocampus CA1 - Neuropil", "percentage": 0.0256},
+                        {"bar": "two", "order": "P", "segmentation": "Neuropil", "type": "Cortical layer II/III - Neuropil", "percentage": 0.0512},
+                        {"bar": "two", "order": "Q", "segmentation": "IBA1+", "type": "Cortical layer II/III - IBA1+", "percentage": 0.0256},
+                        {"bar": "two", "order": "R", "segmentation": "Neuropil", "type": "Hippocampus CA1 - Neuropil", "percentage": 0.0512},
+                        {"bar": "two", "order": "S", "segmentation": "IBA1+", "type": "Cortical layer II/III - IBA1+", "percentage": 0.0256},
+                        {"bar": "two", "order": "T", "segmentation": "IBA1+", "type": "Hippocampus CA1 - IBA1+", "percentage": 0.0256},
+                        {"bar": "two", "order": "U", "segmentation": "Neuropil", "type": "Hippocampal hilus - Neuropil", "percentage": 0.0512},
+                        {"bar": "two", "order": "V", "segmentation": "GFAP+", "type": "Cortical layer II/III - GFAP+", "percentage": 0.0256},
+                        {"bar": "two", "order": "W", "segmentation": "GFAP+", "type": "Cortical layer V - GFAP+", "percentage": 0.0256},
+                        {"bar": "two", "order": "X", "segmentation": "GFAP+", "type": "Cortical layer II/III - GFAP+", "percentage": 0.0256},
+                        {"bar": "two", "order": "U", "segmentation": "GFAP+", "type": "Cortical layer V - GFAP+", "percentage": 0.0512}
+                    ]
+                },
+                "mark": {
+                    "type": "bar",
+                    "yOffset": 420
+                },
+                "height": 20,
+                "encoding": {
+                    "x": {
+                        "field": "percentage",
+                        "type": "quantitative",
+                        "axis": {
+                            "labels": false,
+                            "ticks": false
+                        },
+                        "title": null
+                    },
+                    "y": {
+                        "field": "bar",
+                        "type": "nominal",
+                        "title": null,
+                        "axis": {
+                            "labels": false,
+                            "ticks": false
+                        }
+                    },
+                    "tooltip": {"field": "type", "type": "nominal", "title": "ROI cateogry"},
+                    "color": {
+                        "field": "segmentation",
+                        "type": "nominal",
+                        "sort":null,
+                        "legend": {
+                            "title": "Segmentation",
+                            "offset": 440,
+                            "orient": "bottom",
+                            "direction": "vertical"
+                        },
+                        "scale": {
+                            "domain": ["NeuN+", "GFAP+", "Neuropil", "IBA1+"],
+                            "range": ["#F0E442", "#DECAC2", "#D55E00", "#CC79A7"]
+                        }
+                    },
+                    "order": {"field": "order"}
+                    }
+                }],
+                "resolve": {"scale": {"y": "independent"}}
+                }
+            }, 
             {"Name": "Spatial Mapping of Gene Pathways 2", 
                 "Description": "(heatmap, \"w/o neurons\")", 
                 "Arrows": [], 
@@ -75,7 +403,110 @@
                 "Masks": ["Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
                 "ActiveMasks": ["Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
                 "Zoom": 0.9353343941627955, 
-                "Pan": [0.3785714285714286, 0.49583333333333335]}, 
+                "Pan": [0.3785714285714286, 0.49583333333333335],
+                "MaskAndPan": {"config": {"axis": {"domain":false}, "view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null}, "width": "container",
+                "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+                "layer": [{
+                    "data": {"url": "data/WPT7_NonNeuronal.csv"},
+                    "mark": "rect",
+                    "encoding": {
+                        "x": {
+                            "field": "ROI_Name",
+                            "type": "nominal",
+                            "title": null,
+                            "sort": null,
+                            "axis": {
+                                "labels": false,
+                                "ticks": false
+                            }
+                        },
+                        "y": {
+                            "field": "Gene",
+                            "type": "nominal",
+                            "sort": null,
+                            "title": null
+                        },
+                        "color": {
+                            "field": "Expression",
+                            "bin": {"binned": true},
+                            "scale": {"range": ["#7D26CD", "#6B20AF", "#591B92", "#471575", "#351057", "#230A3A", "#11051D", "#000000", "#212100", "#434300", "#656500", "#888800", "#AAAA00", "#CBCB00", "#EEEE00"]},
+                            "legend": {"orient": "top"}, 
+                            "title": null
+                        },
+                        "tooltip": {
+                            "field": "Gene",
+                            "type": "nominal"
+                        }
+                    }
+                },
+            {
+                "data": {
+                    "values":[
+                        {"bar": "two", "order": "A", "segmentation": "IBA1+", "type": "Hippocampus CA1 - IBA1+", "percentage": 0.037},
+                        {"bar": "two", "order": "B", "segmentation": "IBA1+", "type": "Cortical layer V - IBA1+", "percentage": 0.037},
+                        {"bar": "two", "order": "C", "segmentation": "IBA1+", "type": "Hippocampus CA1 - IBA1+", "percentage": 0.037},
+                        {"bar": "two", "order": "D", "segmentation": "IBA1+", "type": "Cortical layer V - IBA1+", "percentage": 0.037},
+                        {"bar": "two", "order": "E", "segmentation": "IBA1+", "type": "Cortical layer II/III - IBA1+", "percentage": 0.037}, 
+                        {"bar": "two", "order": "F", "segmentation": "IBA1+", "type": "Cortical layer V - IBA1+", "percentage": 0.037},
+                        {"bar": "two", "order": "G", "segmentation": "IBA1+", "type": "Hippocampus CA1 - IBA1+", "percentage": 0.037},
+                        {"bar": "two", "order": "H", "segmentation": "IBA1+", "type": "Cortical layer II/III - IBA1+", "percentage": 0.074}, 
+                        {"bar": "two", "order": "I", "segmentation": "Neuropil", "type": "Hippocampal hilus - Neuropil", "percentage": 0.111},
+                        {"bar": "two", "order": "J", "segmentation": "Neuropil", "type": "Cortical layer V - Neuropil", "percentage": 0.037},
+                        {"bar": "two", "order": "K", "segmentation": "Neuropil", "type": "Cortical layer II/III - Neuropil", "percentage": 0.037},
+                        {"bar": "two", "order": "L", "segmentation": "Neuropil", "type": "Cortical layer V - Neuropil", "percentage": 0.074},
+                        {"bar": "two", "order": "M", "segmentation": "Neuropil", "type": "Hippocampus CA1 - Neuropil", "percentage": 0.111},
+                        {"bar": "two", "order": "N", "segmentation": "Neuropil", "type": "Cortical layer II/III - Neuropil", "percentage": 0.074},
+                        {"bar": "two", "order": "O", "segmentation": "GFAP+", "type": "Cortical layer V - GFAP+", "percentage": 0.037},
+                        {"bar": "two", "order": "P", "segmentation": "GFAP+", "type": "Cortical layer II/III - GFAP+", "percentage": 0.111},
+                        {"bar": "two", "order": "Q", "segmentation": "GFAP+", "type": "Cortical layer V - GFAP+", "percentage": 0.074}                 
+                    ]
+                },
+                "mark": {
+                    "type": "bar",
+                    "yOffset": 380
+                },
+                "height": 20,
+                "encoding": {
+                    "x": {
+                        "field": "percentage",
+                        "type": "quantitative",
+                        "axis": {
+                            "labels": false,
+                            "ticks": false
+                        },
+                        "title": null
+                    },
+                    "y": {
+                        "field": "bar",
+                        "type": "nominal",
+                        "title": null,
+                        "axis": {
+                            "labels": false,
+                            "ticks": false
+                        }
+                    },
+                    "tooltip": {"field": "type", "type": "nominal", "title": "ROI cateogry"},
+                    "color": {
+                        "field": "segmentation",
+                        "type": "nominal",
+                        "sort":null,
+                        "legend": {
+                            "title": "Segmentation",
+                            "offset":400,
+                            "orient": "bottom",
+                            "direction": "vertical"
+                        },
+                        "scale": {
+                            "domain": ["NeuN+", "GFAP+", "Neuropil", "IBA1+"],
+                            "range": ["#F0E442", "#DECAC2", "#D55E00", "#CC79A7"]
+                        }
+                    },
+                    "order": {"field": "order"}
+                    }
+            }],
+            "resolve": {"scale": {"y": "independent"}}
+    }
+            }, 
             {"Name": "Differential Gene Expression", 
                 "Description": "(volcano plot)", 
                 "Arrows": [], 
@@ -114,14 +545,13 @@
                 "Pan": [0.5, 0.6344635312553157]}]
             }], 
         "Masks": [
-            {"Path": "All-structures", "Name": "All structures", "Colors": ["ffffff"], "Channels": ["All structures"]}, 
             {"Path": "Cortical-layer-I", "Name": "Cortical layer I", "Colors": ["90cef0"], "Channels": ["Cortical layer I"]}, 
             {"Path": "Cortical-layer-IIIII", "Name": "Cortical layer II/III", "Colors": ["37a7e5"], "Channels": ["Cortical layer II/III"]}, 
             {"Path": "Cortical-layer-IIIII-NeuN", "Name": "Cortical layer II/III - NeuN+", "Colors": ["f0e442"], "Channels": ["Cortical layer II/III - NeuN+"]}, 
             {"Path": "Cortical-layer-IIIII-IBA1", "Name": "Cortical layer II/III - IBA1+", "Colors": ["cc79a7"], "Channels": ["Cortical layer II/III - IBA1+"]}, 
             {"Path": "Cortical-layer-IIIII-GFAP", "Name": "Cortical layer II/III - GFAP+", "Colors": ["decac2"], "Channels": ["Cortical layer II/III - GFAP+"]}, 
             {"Path": "Cortical-layer-IIIII-Neuropil", "Name": "Cortical layer II/III - Neuropil", "Colors": ["d55e00"], "Channels": ["Cortical layer II/III - Neuropil"]}, 
-            {"Path": "Coritcal-layer-IV", "Name": "Coritcal layer IV", "Colors": ["005b8e"], "Channels": ["Coritcal layer IV"]}, 
+            {"Path": "Coritcal-layer-IV", "Name": "Cortical layer IV", "Colors": ["005b8e"], "Channels": ["Cortical layer IV"]}, 
             {"Path": "Cortical-layer-V", "Name": "Cortical layer V", "Colors": ["002e48"], "Channels": ["Cortical layer V"]}, 
             {"Path": "Cortical-layer-V-NeuN", "Name": "Cortical layer V - NeuN+", "Colors": ["f0e442"], "Channels": ["Cortical layer V - NeuN+"]}, 
             {"Path": "Cortical-layer-V-IBA1", "Name": "Cortical layer V - IBA1+", "Colors": ["cc79a7"], "Channels": ["Cortical layer V - IBA1+"]}, 
@@ -138,7 +568,9 @@
             ], 
         "Groups": [
             {"Name": "All markers", "Path": "All-markers_3__NeuN--0__GFAP--1__Nuclei--2__IBA1", "Colors": ["ff0054", "00ff63", "0000ff", "ffff00"], "Channels": ["NeuN", "GFAP", "Nuclei", "IBA1"]}, 
-            {"Name": "GFAP", "Path": "GFAP_0__GFAP", "Colors": ["00ff63"], "Channels": ["GFAP"]}, {"Name": "Nuclei", "Path": "Nuclei_1__Nuclei", "Colors": ["0000ff"], "Channels": ["Nuclei"]}, 
-            {"Name": "IBA1", "Path": "IBA1_2__IBA1", "Colors": ["ffff00"], "Channels": ["IBA1"]}, {"Name": "NeuN", "Path": "NeuN_3__NeuN", "Colors": ["ff0054"], "Channels": ["NeuN"]}
+            {"Name": "NeuN", "Path": "NeuN_3__NeuN", "Colors": ["ff0054"], "Channels": ["NeuN"]},
+            {"Name": "GFAP", "Path": "GFAP_0__GFAP", "Colors": ["00ff63"], "Channels": ["GFAP"]}, 
+            {"Name": "Nuclei", "Path": "Nuclei_1__Nuclei", "Colors": ["0000ff"], "Channels": ["Nuclei"]}, 
+            {"Name": "IBA1", "Path": "IBA1_2__IBA1", "Colors": ["ffff00"], "Channels": ["IBA1"]}
         ]
 }
