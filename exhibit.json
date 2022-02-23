@@ -120,8 +120,16 @@
                             }, 
                         "encoding": {
                             "color": {
-                                "legend": null, 
-                                "field": "SegmentType"
+                                "field": "SegmentType",
+                                "title": "Segmentation",
+                                "legend": {
+                                    "orient": "bottom",
+                                    "direction":"vertical"
+                                },
+                                "scale": {
+                                    "domain": ["NeuN+", "IBA1+", "GFAP+", "Neuopil"],
+                                    "range": ["#F0E442", "#CC79A7", "#DECAC2", "#D55E00"]
+                                }
                                 }, 
                             "x": {
                                 "type": "nominal", 
@@ -515,7 +523,108 @@
                 "Masks": ["Hippocampus dentate gyrus", "Hippocampus CA1 - NeuN+"], 
                 "ActiveMasks": ["Hippocampus dentate gyrus", "Hippocampus CA1 - NeuN+"], 
                 "Zoom": 0.4389563861846924, 
-                "Pan": [0.5, 0.5]}, 
+                "Pan": [0.5, 0.5],
+                "VisBarChart": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null},
+                "width": "container", "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+                "data":{
+                    "url": "data/WPT8_VolcanoPlot.csv"
+                },
+                "layer": [{
+                    "mark": {"type": "point", "filled": true},
+                    "encoding": {
+                        "x": {
+                            "field": "FC",
+                            "type": "quantitative",
+                            "title": "Hippocampus CA1 (NeuN+)←log2(FC)→Hippocampus DG",
+                            "axis": {
+                                "titleFontSize": 9
+                            }
+                        },
+                        "y": {
+                            "field": "Significance",
+                            "type": "quantitative",
+                            "title": "Significance, -log10(P)"
+                        },
+                        "color": {
+                            "field": "Color",
+                            "type": "nominal",
+                            "scale": null
+                        }
+                    }
+                },
+                {
+                    "mark": {"type": "rect", "fillOpacity": 0, "stroke": "red"},
+                    "data": {"values": [{"type": "Hippocampus dentate gyrus - NeuN+"}]},
+                    "encoding": {
+                        "y": {"datum": 1.3},
+                        "y2": {"datum": 6.5},
+                        "x": {"datum": -8},
+                        "x2": {"datum": -0.5}
+                    }
+                },
+                {
+                    "mark": {"type": "rect", "fillOpacity": 0, "stroke": "red"},
+                    "data": {"values": [{"type": "Hippocampus dentate gyrus"}]},
+                    "encoding": {
+                        "y": {"datum": 1.3},
+                        "y2": {"datum": 6.5},
+                        "x": {"datum": 0.5},
+                        "x2": {"datum": 8}
+                    }
+                },
+                {
+                    "mark": {
+                        "type": "text",
+                        "align": "left",
+                        "fontSize": 12,
+                        "color": "white",
+                        "stroke": "black",
+                        "strokeWidth": 0.1,
+                        "baseline": "top",
+                        "angle": 15
+                    },
+                    "encoding": {
+                        "x": {
+                            "field": "FC",
+                            "type": "quantitative"
+                        },
+                        "y": {
+                            "field": "Significance",
+                            "type": "quantitative"
+                        },
+                        "text": {
+                            "field": "GeneName"
+                        }
+                    }
+                },
+                {
+                    "mark": {
+                        "type": "text",
+                        "align": "right",
+                        "fontSize": 12,
+                        "color": "white",
+                        "stroke": "black",
+                        "strokeWidth": 0.2,
+                        "baseline": "bottom",
+                        "angle": 15
+                    },
+                    "encoding": {
+                        "x": {
+                            "field": "FC",
+                            "type": "quantitative"
+                        },
+                        "y": {
+                            "field": "Significance",
+                            "type": "quantitative"
+                        },
+                        "text": {
+                            "field": "GeneName2"
+                        }
+                    }
+                }
+            ]
+        }
+    }, 
             {"Name": "Validating Gene Expression with Protein Expression 1", 
                 "Description": "(NECAB1 expression, NeuN+ showcase)\n\n![image](img/Necab1.jpg)\n\n[*Image credit: Human Protein Atlas.*](https://images.proteinatlas.org/23629/156229_B_8_5_medium.jpg)", 
                 "Arrows": [], 
@@ -524,7 +633,99 @@
                 "Masks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
                 "ActiveMasks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
                 "Zoom": 0.9229119842403208, 
-                "Pan": [0.3785714285714286, 0.49583333333333335]}, 
+                "Pan": [0.3785714285714286, 0.49583333333333335],
+                "MaskAndPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null, "numberFormat": ".0f"}, "width": "container", "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+                    "data": {"url": "data/WPT9_NECAB1.csv",
+                        "format": {
+                            "parse": {
+                                "X_position": "number",
+                                "Y_position": "number",
+                                "type":"string",
+                                "SegmentType": "string",
+                                "NECAB1":"number",
+                                "x_axis":"number",
+                                "LongName": "string"
+                            }
+                        }
+                    }, 
+                    "layer": [{
+                        "mark": {
+                            "type": "boxplot", 
+                            "ticks": {
+                                "color": "white"
+                                },
+                            "color": "white",
+                            "size": 30
+                            }, 
+                        "encoding": {
+                            "color": {
+                                "field": "SegmentType",
+                                "legend": {
+                                    "orient": "bottom",
+                                    "direction":"vertical"
+                                },
+                                "scale": {
+                                    "domain": ["NeuN+", "IBA1+", "GFAP+", "Neuropil"],
+                                    "range": ["#F0E442", "#CC79A7", "#DECAC2", "#D55E00"]
+                                    }
+                                }, 
+                            "x": {
+                                "type": "nominal", 
+                                "field": "SegmentType", 
+                                "title": null,
+                                "sort": ["NeuN+", "IBA1+", "GFAP+", "Neuropil"]
+                                },
+                            "y": {
+                                "type": "quantitative", 
+                                "field": "NECAB1", 
+                                "title": "NECAB1 Expression"
+                            }
+                            }
+                        },
+                        {
+                        "mark": {
+                            "type": "point", 
+                            "color": "white", 
+                            "fill": "white", 
+                            "stroke": "red",
+                                "strokeWidth": 1, 
+                                "size": 50
+                            },
+                        "encoding": {
+                            "x": {
+                                "field": "x_axis", 
+                                "title" :null, 
+                                "type": "quantitative", 
+                                "axis": {
+                                    "labels":false, 
+                                    "ticks":false
+                                    }
+                                },
+                            "y": {
+                                "field": "NECAB1", 
+                                "type": "quantitative"
+                                },
+                            "shape": {
+                                "field": "Histological Structure",
+                                "type": "nominal",
+                                "title": "ROI Category",
+                                "legend": {
+                                    "orient": "bottom",
+                                    "direction": "vertical",
+                                    "symbolFillColor": "white"
+                                },
+                                "scale": {
+                                    "domain": ["Cortical layer II/III", "Cortical layer V", "Hippocampal hilus", "Hippocampus CA1"],
+                                    "range": ["square", "cross", "diamond", "triangle-up"]
+                                }
+                            },
+                            "tooltip": [{"field": "NECAB1", "type": "quantitative", "title": "NECAB1 Expression","format": ".0f" },
+                            {"field": "type", "type": "nominal", "title": "ROI Category"}]
+                            }
+                        }
+                    ]
+                } 
+            }, 
             {"Name": "Validating Gene Expression with Protein Expression 2", 
                 "Description": "(Gja1, GFAP+ showcase)\n\n![image](img/Gja1.jpg)\n\n[*Image credit: Human Protein Atlas.*](https://images.proteinatlas.org/35097/98855_B_8_5_medium.jpg)", 
                 "Arrows": [], 
@@ -533,7 +734,99 @@
                 "Masks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
                 "ActiveMasks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
                 "Zoom": 0.43921875000000005, 
-                "Pan": [0.5, 0.6344635312553157]}, 
+                "Pan": [0.5, 0.6344635312553157],
+                "MaskAndPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null, "numberFormat": ".0f"}, "width": "container", "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+                "data": {"url": "data/WPT10_GJA.csv",
+                    "format": {
+                        "parse": {
+                            "X_position": "number",
+                            "Y_position": "number",
+                            "type":"string",
+                            "SegmentType": "string",
+                            "GJA":"number",
+                            "x_axis":"number",
+                            "LongName": "string"
+                        }
+                    }
+                }, 
+                "layer": [{
+                    "mark": {
+                        "type": "boxplot", 
+                        "ticks": {
+                            "color": "white"
+                            },
+                        "color": "white",
+                        "size": 30
+                        }, 
+                    "encoding": {
+                        "color": {
+                            "field": "SegmentType",
+                            "legend": {
+                                "orient": "bottom",
+                                "direction":"vertical"
+                            },
+                            "scale": {
+                                "domain": ["NeuN+", "IBA1+", "GFAP+", "Neuropil"],
+                                "range": ["#F0E442", "#CC79A7", "#DECAC2", "#D55E00"]
+                                }
+                            }, 
+                        "x": {
+                            "type": "nominal", 
+                            "field": "SegmentType", 
+                            "title": null,
+                            "sort": ["NeuN+", "IBA1+", "GFAP+", "Neuropil"]
+                            },
+                        "y": {
+                            "type": "quantitative", 
+                            "field": "GJA", 
+                            "title": "GJA Expression"
+                        }
+                        }
+                    },
+                    {
+                    "mark": {
+                        "type": "point", 
+                        "color": "white", 
+                        "fill": "white", 
+                        "stroke": "red",
+                            "strokeWidth": 1, 
+                            "size": 50
+                        },
+                    "encoding": {
+                        "x": {
+                            "field": "x_axis", 
+                            "title" :null, 
+                            "type": "quantitative", 
+                            "axis": {
+                                "labels":false, 
+                                "ticks":false
+                                }
+                            },
+                        "y": {
+                            "field": "GJA", 
+                            "type": "quantitative"
+                            },
+                        "shape": {
+                            "field": "Histological Structure",
+                            "type": "nominal",
+                            "title": "ROI Category",
+                            "legend": {
+                                "orient": "bottom",
+                                "direction": "vertical",
+                                "symbolFillColor": "white"
+                            },
+                            "scale": {
+                                "domain": ["Cortical layer II/III", "Cortical layer V", "Hippocampal hilus", "Hippocampus CA1"],
+                                "range": ["square", "cross", "diamond", "triangle-up"]
+                            }
+                        },
+                        "tooltip": [{"field": "GJA", "type": "quantitative", "title": "GJA Expression","format": ".0f" },
+                        {"field": "type", "type": "nominal", "title": "ROI Category"}]
+                        }
+                    }
+                ]
+            }
+            }, 
             {"Name": "Validating Gene Expression with Protein Expression 3", 
                 "Description": "(CD74, Iba1+ showcase)\n\n![image](img/CD74.jpg)\n\n[*Image credit: Human Protein Atlas.*](https://images.proteinatlas.org/10592/26064_B_9_5_medium.jpg)", 
                 "Arrows": [], 
@@ -542,7 +835,99 @@
                 "Masks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
                 "ActiveMasks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
                 "Zoom": 0.4221505055286025, 
-                "Pan": [0.5, 0.6344635312553157]}]
+                "Pan": [0.5, 0.6344635312553157],
+                "MaskAndPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null, "numberFormat": ".0f"}, "width": "container", "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+                    "data": {"url": "data/WPT11_CD74.csv",
+                        "format": {
+                            "parse": {
+                                "X_position": "number",
+                                "Y_position": "number",
+                                "type":"string",
+                                "SegmentType": "string",
+                                "CD74":"number",
+                                "x_axis":"number",
+                                "LongName": "string"
+                            }
+                        }
+                    }, 
+                    "layer": [{
+                        "mark": {
+                            "type": "boxplot", 
+                            "ticks": {
+                                "color": "white"
+                                },
+                            "color": "white",
+                            "size": 30
+                            }, 
+                        "encoding": {
+                            "color": {
+                                "field": "SegmentType",
+                                "legend": {
+                                    "orient": "bottom",
+                                    "direction":"vertical"
+                                },
+                                "scale": {
+                                    "domain": ["NeuN+", "IBA1+", "GFAP+", "Neuropil"],
+                                    "range": ["#F0E442", "#CC79A7", "#DECAC2", "#D55E00"]
+                                    }
+                                }, 
+                            "x": {
+                                "type": "nominal", 
+                                "field": "SegmentType", 
+                                "title": null,
+                                "sort": ["NeuN+", "IBA1+", "GFAP+", "Neuropil"]
+                                },
+                            "y": {
+                                "type": "quantitative", 
+                                "field": "CD74", 
+                                "title": "CD74 Expression"
+                            }
+                            }
+                        },
+                        {
+                        "mark": {
+                            "type": "point", 
+                            "color": "white", 
+                            "fill": "white", 
+                            "stroke": "red",
+                                "strokeWidth": 1, 
+                                "size": 50
+                            },
+                        "encoding": {
+                            "x": {
+                                "field": "x_axis", 
+                                "title" :null, 
+                                "type": "quantitative", 
+                                "axis": {
+                                    "labels":false, 
+                                    "ticks":false
+                                    }
+                                },
+                            "y": {
+                                "field": "CD74", 
+                                "type": "quantitative"
+                                },
+                            "shape": {
+                                "field": "Histological Structure",
+                                "type": "nominal",
+                                "title": "ROI Category",
+                                "legend": {
+                                    "orient": "bottom",
+                                    "direction": "vertical",
+                                    "symbolFillColor": "white"
+                                },
+                                "scale": {
+                                    "domain": ["Cortical layer II/III", "Cortical layer V", "Hippocampal hilus", "Hippocampus CA1"],
+                                    "range": ["square", "cross", "diamond", "triangle-up"]
+                                }
+                            },
+                            "tooltip": [{"field": "CD74", "type": "quantitative", "title": "CD74 Expression","format": ".0f" },
+                            {"field": "type", "type": "nominal", "title": "ROI Category"}]
+                            }
+                        }
+                    ]
+                }
+            }]
             }], 
         "Masks": [
             {"Path": "Cortical-layer-I", "Name": "Cortical layer I", "Colors": ["90cef0"], "Channels": ["Cortical layer I"]}, 
