@@ -1,4 +1,4 @@
-{"Images": 
+{"PixelsPerMicron": 2.502, "Images": 
     [{"Name": "i0", 
         "Description": "", 
         "Path": "images/hu-br-20211206", 
@@ -80,7 +80,8 @@
                             "domain": ["Cortical layer I", "Cortical layer II/III", "Cortical layer IV", "Cortical layer V", "Hippocampus CA1", "Hippocampus dentate gyrus", "Cortical white matter"],
                             "range": ["#90CEF0", "#37A7E5", "#005B8E", "#002E48", "#484E4E", "#009E73", "#E69F00"]
                         }
-                    }
+                    },
+                    "tooltip":[{"field": "ROI category", "type": "nominal"}, {"field": "GenesDetected", "type": "quantitative", "title": "Genes Detected"}]
                 }
             }
             }, 
@@ -127,7 +128,7 @@
                                     "direction":"vertical"
                                 },
                                 "scale": {
-                                    "domain": ["NeuN+", "IBA1+", "GFAP+", "Neuopil"],
+                                    "domain": ["NeuN+", "IBA1+", "GFAP+", "Neuropil"],
                                     "range": ["#F0E442", "#CC79A7", "#DECAC2", "#D55E00"]
                                 }
                                 }, 
@@ -179,7 +180,8 @@
                                     "domain": ["Cortical layer II/III", "Cortical layer V", "Hippocampal hilus", "Hippocampus CA1"],
                                     "range": ["square", "cross", "diamond", "triangle-up"]
                                 }
-                            }
+                            },
+                            "tooltip": {"field": "type", "type": "nominal", "title": "ROI category"}
                             }
                         }
                     ]
@@ -354,7 +356,7 @@
                         {"bar": "two", "order": "V", "segmentation": "GFAP+", "type": "Cortical layer II/III - GFAP+", "percentage": 0.0256},
                         {"bar": "two", "order": "W", "segmentation": "GFAP+", "type": "Cortical layer V - GFAP+", "percentage": 0.0256},
                         {"bar": "two", "order": "X", "segmentation": "GFAP+", "type": "Cortical layer II/III - GFAP+", "percentage": 0.0256},
-                        {"bar": "two", "order": "U", "segmentation": "GFAP+", "type": "Cortical layer V - GFAP+", "percentage": 0.0512}
+                        {"bar": "two", "order": "Y", "segmentation": "GFAP+", "type": "Cortical layer V - GFAP+", "percentage": 0.0512}
                     ]
                 },
                 "mark": {
@@ -554,7 +556,7 @@
                 },
                 {
                     "mark": {"type": "rect", "fillOpacity": 0, "stroke": "red"},
-                    "data": {"values": [{"type": "Hippocampus dentate gyrus - NeuN+"}]},
+                    "data": {"values": [{"type": "Hippocampus CA1 - NeuN+"}]},
                     "encoding": {
                         "y": {"datum": 1.3},
                         "y2": {"datum": 6.5},
