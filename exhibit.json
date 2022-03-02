@@ -6,14 +6,14 @@
         "Height": 49152, 
         "MaxLevel": 6
     }], 
-    "Header": "", 
+    "Header": "![image](img/SOA_logo.png)", 
     "Rotation": 0, 
     "Layout": {"Grid": [["i0"]]}, 
     "Stories": [{
         "Name": "", 
-        "Description": "", 
+        "Description": "Welcome to the [**Spatial Organ Atlas (SOA)**](https://www.nanostring.com/spatial-organ-atlas) Human Brain Demonstration.\n\nThe SOA is a database for whole transcriptome spatial profiles of functional components of tissues from human and mouse generated with the GeoMx® Digital Spatial Profiler using the Whole Transcriptome Atlas (WTA). All the data in the SOA is downloadable, including [**this human brain sample (#001)**](https://nanostring.com/products/geomx-digital-spatial-profiler/spatial-organ-atlas/human-brain/).\n\nUsing [**Minerva**](https://github.com/labsyspharm/minerva-story/wiki), we will show you how the imaging and molecular data combine to give you a comprehensive profile of the tissue architecture and biology.\n\nClick around to explore on your own. \n\nHints:\n* Zoom and pan the image via the mouse/trackpad. Dependent on browser and operating system, keyboard shortcuts are available: + zoom in, - zoom out, pan via arrow keys (tested on Chrome).\n* Open and close the left- and right-hand menus by clicking on < or >.\n* See results in the left-hand menu and click on the selectable regions to zoom to the featured area of the tissue.\n* Turn channels on and off with the right-hand menu.", 
         "Waypoints": [{
-            "Name": "Gross Brain Morphology", 
+            "Name": "Gross Brain Anatomy", 
             "Description": "(gross brain morphology)", 
             "Arrows": [], 
             "Overlays": [], 
@@ -22,7 +22,7 @@
             "ActiveMasks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Cortical white matter", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil", "Hippocampus dentate gyrus"], 
             "Zoom": 0.4535233902599297, 
             "Pan": [0.5000000000000001, 0.505419348858948]}, 
-            {"Name": "Fine Brain Morphology", 
+            {"Name": "Fine Brain Anatomy", 
                 "Description": "(detailed brain morphology)", 
                 "Arrows": [], 
                 "Overlays": [], 
@@ -58,7 +58,7 @@
                         "type": "quantitative",
                         "title": null,
                         "axis": {
-                            "labelExpr": "datum.label == 1 ? 'Layer I' : datum.label == 2 ? 'Layer II/III' : datum.label == 3 ? 'Layer IV' : datum.label == 4 ? 'Layer V' : datum.label == 5 ? 'White matter' : datum.label == 6 ? 'CA1' : datum.label == 7 ? 'Dentate gyrus' : null" ,
+                            "labelExpr": "datum.label == 1 ? 'Cortical layer I' : datum.label == 2 ? 'Cortical layer II/III' : datum.label == 3 ? 'Cortical layer IV' : datum.label == 4 ? 'Cortical layer V' : datum.label == 5 ? 'Cortical white matter' : datum.label == 6 ? 'Hippocampus CA1' : datum.label == 7 ? 'Hippocampus dentate gyrus' : null" ,
                             "labelAngle": -90,
                             "tickCount": 7
                         },
@@ -67,7 +67,7 @@
                     "y": {
                         "field": "GenesDetected",
                         "type": "quantitative",
-                        "title": "Genes Detected,# > LOQ"
+                        "title": "Genes Detected, # > LOQ"
                     },
                     "color": {
                         "field": "type",
@@ -81,7 +81,7 @@
                             "range": ["#90CEF0", "#37A7E5", "#005B8E", "#002E48", "#484E4E", "#009E73", "#E69F00"]
                         }
                     },
-                    "tooltip":[{"field": "ROI category", "type": "nominal"}, {"field": "GenesDetected", "type": "quantitative", "title": "Genes Detected"}]
+                    "tooltip":[{"field": "type", "type": "nominal", "title": "ROI Category"}, {"field": "GenesDetected", "type": "quantitative", "title": "Genes Detected"}]
                 }
             }
             }, 
@@ -141,7 +141,7 @@
                              "y": {
                                  "type": "quantitative", 
                                  "field": "GenesDetected", 
-                                 "title": "Genes Detected,# > LOQ"
+                                 "title": "Genes Detected, # > LOQ"
                                 }
                             }
                         },
@@ -152,7 +152,7 @@
                             "fill": "white", 
                             "stroke": "red",
                              "strokeWidth": 1, 
-                             "size": 50
+                             "size": 60
                             }, 
                         "encoding": {
                             "x": {
@@ -181,7 +181,7 @@
                                     "range": ["square", "cross", "diamond", "triangle-up"]
                                 }
                             },
-                            "tooltip": {"field": "type", "type": "nominal", "title": "ROI category"}
+                            "tooltip": [{"field": "type", "type": "nominal", "title": "ROI category"}, {"field": "GenesDetected", "type": "quantitative", "title": "Genes Detected"}]
                             }
                         }
                     ]
@@ -225,7 +225,7 @@
                                "type": "nominal",
                                "legend": {"orient": "bottom", "direction": "vertical", "offset": 350}, 
                                "title": "Gene Type",
-                               "sort":null
+                               "sort": ["Neuron", "Microglia", "Astrocyte", "Macrophage", "Capillary", "Smooth muscle cell", "Oligodendrocytes", "Ependymal", "T cell"]
                                },
                         "order": {
                                 "field": "Order"
@@ -270,7 +270,7 @@
                                     "field": "name", 
                                     "type": "nominal",
                                     "sort": null,
-                                    "legend": {"orient": "top", "direction": "vertical", "title": "Histological Structure"},
+                                    "legend": {"orient": "bottom", "direction": "vertical", "title": "ROI Category"},
                                     "scale": {
                                         "domain": ["Cortical layer I", "Cortical layer II/III", "Cortical layer IV", "Cortical layer V", "Cortical white matter"],
                                         "range": ["#90CEF0", "#37A7E5", "#005B8E", "#002E48", "#E69F00"]
@@ -507,8 +507,8 @@
                             "direction": "vertical"
                         },
                         "scale": {
-                            "domain": ["NeuN+", "GFAP+", "Neuropil", "IBA1+"],
-                            "range": ["#F0E442", "#DECAC2", "#D55E00", "#CC79A7"]
+                            "domain": ["GFAP+", "Neuropil", "IBA1+"],
+                            "range": ["#DECAC2", "#D55E00", "#CC79A7"]
                         }
                     },
                     "order": {"field": "order"}
@@ -691,7 +691,7 @@
                             "fill": "white", 
                             "stroke": "red",
                                 "strokeWidth": 1, 
-                                "size": 50
+                                "size": 60
                             },
                         "encoding": {
                             "x": {
@@ -792,7 +792,7 @@
                         "fill": "white", 
                         "stroke": "red",
                             "strokeWidth": 1, 
-                            "size": 50
+                            "size": 60
                         },
                     "encoding": {
                         "x": {
@@ -893,7 +893,7 @@
                             "fill": "white", 
                             "stroke": "red",
                                 "strokeWidth": 1, 
-                                "size": 50
+                                "size": 60
                             },
                         "encoding": {
                             "x": {
