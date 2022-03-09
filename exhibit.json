@@ -729,7 +729,7 @@
                 } 
             }, 
             {"Name": "Validating Gene Expression with Protein Expression 2", 
-                "Description": "(Gja1, GFAP+ showcase)\n\n![image](img/Gja1_cropped_rect.png)\n\n[*Image credit: Human Protein Atlas.*](https://www.proteinatlas.org/ENSG00000152661-GJA1/brain/basal+ganglia#img)", 
+                "Description": "(Gja1, GFAP+ showcase)\n\n![image](img/Gja1.png)\n\n[*Image credit: Human Protein Atlas.*](https://www.proteinatlas.org/ENSG00000152661-GJA1/brain/basal+ganglia#img)", 
                 "Arrows": [], 
                 "Overlays": [], 
                 "Group": "Nuclei", 
