@@ -1,14 +1,14 @@
 clust_id,X_position,Y_position,type,SegmentType,Histological Structure,GJA,LongName,x_axis
 1,15150,24659,Cortical layer V - NeuN+,NeuN+,Cortical layer V,6.143359784,Cortical layer V,0.465188519
-2,15150,24659,Cortical layer V - IBA1+,IBA1+,Cortical layer V,61.94554449,Cortical layer V,1.477084335
+2,15150,24659,Cortical layer V - Iba1+,Iba1+,Cortical layer V,61.94554449,Cortical layer V,1.477084335
 3,15150,24659,Cortical layer V - GFAP+,GFAP+,Cortical layer V,101.3654364,Cortical layer V,2.647154064
 4,15150,24659,Cortical layer V - Neuropil,Neuropil,Cortical layer V,48.43015296,Cortical layer V,3.485638248
 1,17781,32538,Cortical layer II/III - NeuN+,NeuN+,Cortical layer II/III,11.8556066,Cortical layer II/III,0.368194805
-2,17781,32538,Cortical layer II/III - IBA1+,IBA1+,Cortical layer II/III,45.05130508,Cortical layer II/III,1.693517508
+2,17781,32538,Cortical layer II/III - Iba1+,Iba1+,Cortical layer II/III,45.05130508,Cortical layer II/III,1.693517508
 3,17781,32538,Cortical layer II/III - GFAP+,GFAP+,Cortical layer II/III,112.6282627,Cortical layer II/III,2.312976393
 4,17781,32538,Cortical layer II/III - Neuropil,Neuropil,Cortical layer II/III,51.30843079,Cortical layer II/III,3.384655699
 1,19978,31299,Cortical layer V - NeuN+,NeuN+,Cortical layer V,8.044875907,Cortical layer V,0.691229074
-2,19978,31299,Cortical layer V - IBA1+,IBA1+,Cortical layer V,36.04104406,Cortical layer V,1.425259911
+2,19978,31299,Cortical layer V - Iba1+,Iba1+,Cortical layer V,36.04104406,Cortical layer V,1.425259911
 3,19978,31299,Cortical layer V - GFAP+,GFAP+,Cortical layer V,153.1744373,Cortical layer V,2.298846471
 4,19978,31299,Cortical layer V - Neuropil,Neuropil,Cortical layer V,30.97277224,Cortical layer V,3.557783508
 1,29808.29492,17616.25391,Hippocampal hilus - NeuN+,NeuN+,Hippocampal hilus,10.60030708,Hippocampal hilus,0.679196514
@@ -18,23 +18,23 @@ clust_id,X_position,Y_position,type,SegmentType,Histological Structure,GJA,LongN
 1,26931.96875,17934.74023,Hippocampal hilus - NeuN+,NeuN+,Hippocampal hilus,15.76795678,Hippocampal hilus,0.279514825
 4,26931.96875,17934.74023,Hippocampal hilus - Neuropil,Neuropil,Hippocampal hilus,83.87211052,Hippocampal hilus,3.497761646
 1,17683,20128,Hippocampus CA1 - NeuN+,NeuN+,Hippocampus CA1,9.177117702,Hippocampus CA1,0.253708762
-2,17683,20128,Hippocampus CA1 - IBA1+,IBA1+,Hippocampus CA1,36.60418538,Hippocampus CA1,1.674146611
+2,17683,20128,Hippocampus CA1 - Iba1+,Iba1+,Hippocampus CA1,36.60418538,Hippocampus CA1,1.674146611
 4,17683,20128,Hippocampus CA1 - Neuropil,Neuropil,Hippocampus CA1,52.31764461,Hippocampus CA1,3.281373166
 1,16563,16483,Hippocampus CA1 - NeuN+,NeuN+,Hippocampus CA1,5.005700564,Hippocampus CA1,0.659922544
-2,16563,16483,Hippocampus CA1 - IBA1+,IBA1+,Hippocampus CA1,45.05130508,Hippocampus CA1,1.519680147
+2,16563,16483,Hippocampus CA1 - Iba1+,Iba1+,Hippocampus CA1,45.05130508,Hippocampus CA1,1.519680147
 4,16563,16483,Hippocampus CA1 - Neuropil,Neuropil,Hippocampus CA1,45.75523172,Hippocampus CA1,3.499510049
 1,19727,22092,Hippocampus CA1 - NeuN+,NeuN+,Hippocampus CA1,11.26282627,Hippocampus CA1,0.26111366
-2,19727,22092,Hippocampus CA1 - IBA1+,IBA1+,Hippocampus CA1,40.95573189,Hippocampus CA1,1.527046567
+2,19727,22092,Hippocampus CA1 - Iba1+,Iba1+,Hippocampus CA1,40.95573189,Hippocampus CA1,1.527046567
 4,19727,22092,Hippocampus CA1 - Neuropil,Neuropil,Hippocampus CA1,43.4978118,Hippocampus CA1,3.609948801
 1,12988,25768,Cortical layer II/III - NeuN+,NeuN+,Cortical layer II/III,14.07853284,Cortical layer II/III,0.617857615
-2,12988,25768,Cortical layer II/III - IBA1+,IBA1+,Cortical layer II/III,67.57695762,Cortical layer II/III,1.655939841
+2,12988,25768,Cortical layer II/III - Iba1+,Iba1+,Cortical layer II/III,67.57695762,Cortical layer II/III,1.655939841
 3,12988,25768,Cortical layer II/III - GFAP+,GFAP+,Cortical layer II/III,123.891089,Cortical layer II/III,2.460736949
 4,12988,25768,Cortical layer II/III - Neuropil,Neuropil,Cortical layer II/III,48.60798706,Cortical layer II/III,3.632455275
 1,14266,22500,Cortical layer V - NeuN+,NeuN+,Cortical layer V,10.01140113,Cortical layer V,0.5325845392
-2,14266,22500,Cortical layer V - IBA1+,IBA1+,Cortical layer V,55.06270621,Cortical layer V,1.347396218
+2,14266,22500,Cortical layer V - Iba1+,Iba1+,Cortical layer V,55.06270621,Cortical layer V,1.347396218
 3,14266,22500,Cortical layer V - GFAP+,GFAP+,Cortical layer V,118.2596758,Cortical layer V,2.333391518
 4,14266,22500,Cortical layer V - Neuropil,Neuropil,Cortical layer V,54.90627807,Cortical layer V,3.667554786
 1,11922,23565,Cortical layer II/III - NeuN+,NeuN+,Cortical layer II/III,4.290600484,Cortical layer II/III,0.52055392
-2,11922,23565,Cortical layer II/III - IBA1+,IBA1+,Cortical layer II/III,76.02407732,Cortical layer II/III,1.384035053
+2,11922,23565,Cortical layer II/III - Iba1+,Iba1+,Cortical layer II/III,76.02407732,Cortical layer II/III,1.384035053
 3,11922,23565,Cortical layer II/III - GFAP+,GFAP+,Cortical layer II/III,157.6795678,Cortical layer II/III,2.649240485
 4,11922,23565,Cortical layer II/III - Neuropil,Neuropil,Cortical layer II/III,60.880142,Cortical layer II/III,3.399464704

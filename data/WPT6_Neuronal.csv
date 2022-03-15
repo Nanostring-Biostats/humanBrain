@@ -12,13 +12,13 @@
 "11","Hipp. CA1, 017, NeuN+",17683,20128,"Hippocampus CA1 - NeuN+","NeuN+","GDI1",1.55367904403406
 "12","Hipp. CA1, 019, NeuN+",16563,16483,"Hippocampus CA1 - NeuN+","NeuN+","GDI1",1.4545470061862
 "13","Cx. II/III, 032, GFAP+",12988,25768,"Cortical layer II/III - GFAP+","GFAP+","GDI1",-0.108802518807234
-"14","Cx. V, 009, IBA1+",19978,31299,"Cortical layer V - IBA1+","IBA1+","GDI1",-1.1029051752732
-"15","Cx. V, 033, IBA1+",14266,22500,"Cortical layer V - IBA1+","IBA1+","GDI1",0.203788999786552
+"14","Cx. V, 009, Iba1+",19978,31299,"Cortical layer V - Iba1+","Iba1+","GDI1",-1.1029051752732
+"15","Cx. V, 033, Iba1+",14266,22500,"Cortical layer V - Iba1+","Iba1+","GDI1",0.203788999786552
 "16","Cx. V, 009, Neuropil",19978,31299,"Cortical layer V - Neuropil","Neuropil","GDI1",-0.602035340428748
-"17","Hipp. CA1, 017, IBA1+",17683,20128,"Hippocampus CA1 - IBA1+","IBA1+","GDI1",-0.0251514586783484
-"18","Hipp. CA1, 019, IBA1+",16563,16483,"Hippocampus CA1 - IBA1+","IBA1+","GDI1",-0.491383617807764
-"19","Cx. II/III, 036, IBA1+",11922,23565,"Cortical layer II/III - IBA1+","IBA1+","GDI1",-0.602035340428748
-"20","Cx. V, 007, IBA1+",15150,24659,"Cortical layer V - IBA1+","IBA1+","GDI1",-0.491383617807765
+"17","Hipp. CA1, 017, Iba1+",17683,20128,"Hippocampus CA1 - Iba1+","Iba1+","GDI1",-0.0251514586783484
+"18","Hipp. CA1, 019, Iba1+",16563,16483,"Hippocampus CA1 - Iba1+","Iba1+","GDI1",-0.491383617807764
+"19","Cx. II/III, 036, Iba1+",11922,23565,"Cortical layer II/III - Iba1+","Iba1+","GDI1",-0.602035340428748
+"20","Cx. V, 007, Iba1+",15150,24659,"Cortical layer V - Iba1+","Iba1+","GDI1",-0.491383617807765
 "21","Hipp. Hilus, 014, Neuropil",29808.294921875,17616.25390625,"Hippocampal hilus - Neuropil","Neuropil","GDI1",-0.81847422182726
 "22","Cx. II/III, 008, Neuropil",17781,32538,"Cortical layer II/III - Neuropil","Neuropil","GDI1",-0.0342470059184008
 "23","Cx. V, 033, Neuropil",14266,22500,"Cortical layer V - Neuropil","Neuropil","GDI1",-1.1337980224873
@@ -26,11 +26,11 @@
 "25","Hipp. CA1, 021, Neuropil",19727,22092,"Hippocampus CA1 - Neuropil","Neuropil","GDI1",-0.462075098413524
 "26","Cx. II/III, 036, Neuropil",11922,23565,"Cortical layer II/III - Neuropil","Neuropil","GDI1",-0.194308102246972
 "27","Cx. II/III, 032, Neuropil",12988,25768,"Cortical layer II/III - Neuropil","Neuropil","GDI1",-1.20926526453015
-"28","Cx. II/III, 032, IBA1+",12988,25768,"Cortical layer II/III - IBA1+","IBA1+","GDI1",-0.602035340428748
+"28","Cx. II/III, 032, Iba1+",12988,25768,"Cortical layer II/III - Iba1+","Iba1+","GDI1",-0.602035340428748
 "29","Hipp. CA1, 017, Neuropil",17683,20128,"Hippocampus CA1 - Neuropil","Neuropil","GDI1",-0.728243289584086
 "30","Hipp. CA1, 019, Neuropil",16563,16483,"Hippocampus CA1 - Neuropil","Neuropil","GDI1",-0.751216923486767
-"31","Cx. II/III, 008, IBA1+",17781,32538,"Cortical layer II/III - IBA1+","IBA1+","GDI1",-0.354149864520404
-"32","Hipp. CA1, 021, IBA1+",19727,22092,"Hippocampus CA1 - IBA1+","IBA1+","GDI1",-0.654793553343532
+"31","Cx. II/III, 008, Iba1+",17781,32538,"Cortical layer II/III - Iba1+","Iba1+","GDI1",-0.354149864520404
+"32","Hipp. CA1, 021, Iba1+",19727,22092,"Hippocampus CA1 - Iba1+","Iba1+","GDI1",-0.654793553343532
 "33","Hipp. Hilus, 015, Neuropil",24204.931640625,16611.033203125,"Hippocampal hilus - Neuropil","Neuropil","GDI1",-0.840455377187769
 "34","Hipp. Hilus, 016, Neuropil",26931.96875,17934.740234375,"Hippocampal hilus - Neuropil","Neuropil","GDI1",-0.924871487400173
 "35","Cx. II/III, 008, GFAP+",17781,32538,"Cortical layer II/III - GFAP+","GFAP+","GDI1",-1.18655623540208
@@ -51,13 +51,13 @@
 "50","Hipp. CA1, 017, NeuN+",17683,20128,"Hippocampus CA1 - NeuN+","NeuN+","APP",1.51988201666974
 "51","Hipp. CA1, 019, NeuN+",16563,16483,"Hippocampus CA1 - NeuN+","NeuN+","APP",1.54345664284038
 "52","Cx. II/III, 032, GFAP+",12988,25768,"Cortical layer II/III - GFAP+","GFAP+","APP",-0.0844818796152483
-"53","Cx. V, 009, IBA1+",19978,31299,"Cortical layer V - IBA1+","IBA1+","APP",-0.177769828366981
-"54","Cx. V, 033, IBA1+",14266,22500,"Cortical layer V - IBA1+","IBA1+","APP",-0.536104596345993
+"53","Cx. V, 009, Iba1+",19978,31299,"Cortical layer V - Iba1+","Iba1+","APP",-0.177769828366981
+"54","Cx. V, 033, Iba1+",14266,22500,"Cortical layer V - Iba1+","Iba1+","APP",-0.536104596345993
 "55","Cx. V, 009, Neuropil",19978,31299,"Cortical layer V - Neuropil","Neuropil","APP",-0.243740909676265
-"56","Hipp. CA1, 017, IBA1+",17683,20128,"Hippocampus CA1 - IBA1+","IBA1+","APP",-0.473468014751685
-"57","Hipp. CA1, 019, IBA1+",16563,16483,"Hippocampus CA1 - IBA1+","IBA1+","APP",-0.726014993564436
-"58","Cx. II/III, 036, IBA1+",11922,23565,"Cortical layer II/III - IBA1+","IBA1+","APP",-0.750378516660218
-"59","Cx. V, 007, IBA1+",15150,24659,"Cortical layer V - IBA1+","IBA1+","APP",-0.331005957827407
+"56","Hipp. CA1, 017, Iba1+",17683,20128,"Hippocampus CA1 - Iba1+","Iba1+","APP",-0.473468014751685
+"57","Hipp. CA1, 019, Iba1+",16563,16483,"Hippocampus CA1 - Iba1+","Iba1+","APP",-0.726014993564436
+"58","Cx. II/III, 036, Iba1+",11922,23565,"Cortical layer II/III - Iba1+","Iba1+","APP",-0.750378516660218
+"59","Cx. V, 007, Iba1+",15150,24659,"Cortical layer V - Iba1+","Iba1+","APP",-0.331005957827407
 "60","Hipp. Hilus, 014, Neuropil",29808.294921875,17616.25390625,"Hippocampal hilus - Neuropil","Neuropil","APP",-0.78843248820505
 "61","Cx. II/III, 008, Neuropil",17781,32538,"Cortical layer II/III - Neuropil","Neuropil","APP",-1.03851015308588
 "62","Cx. V, 033, Neuropil",14266,22500,"Cortical layer V - Neuropil","Neuropil","APP",-0.400361618999422
@@ -65,11 +65,11 @@
 "64","Hipp. CA1, 021, Neuropil",19727,22092,"Hippocampus CA1 - Neuropil","Neuropil","APP",-0.780379660699004
 "65","Cx. II/III, 036, Neuropil",11922,23565,"Cortical layer II/III - Neuropil","Neuropil","APP",-0.538627244370919
 "66","Cx. II/III, 032, Neuropil",12988,25768,"Cortical layer II/III - Neuropil","Neuropil","APP",-0.609210992098256
-"67","Cx. II/III, 032, IBA1+",12988,25768,"Cortical layer II/III - IBA1+","IBA1+","APP",-0.632727044812702
+"67","Cx. II/III, 032, Iba1+",12988,25768,"Cortical layer II/III - Iba1+","Iba1+","APP",-0.632727044812702
 "68","Hipp. CA1, 017, Neuropil",17683,20128,"Hippocampus CA1 - Neuropil","Neuropil","APP",-0.647344905553288
 "69","Hipp. CA1, 019, Neuropil",16563,16483,"Hippocampus CA1 - Neuropil","Neuropil","APP",-0.661194179401645
-"70","Cx. II/III, 008, IBA1+",17781,32538,"Cortical layer II/III - IBA1+","IBA1+","APP",-0.879251123024862
-"71","Hipp. CA1, 021, IBA1+",19727,22092,"Hippocampus CA1 - IBA1+","IBA1+","APP",-0.807439259634916
+"70","Cx. II/III, 008, Iba1+",17781,32538,"Cortical layer II/III - Iba1+","Iba1+","APP",-0.879251123024862
+"71","Hipp. CA1, 021, Iba1+",19727,22092,"Hippocampus CA1 - Iba1+","Iba1+","APP",-0.807439259634916
 "72","Hipp. Hilus, 015, Neuropil",24204.931640625,16611.033203125,"Hippocampal hilus - Neuropil","Neuropil","APP",-1.21703138559571
 "73","Hipp. Hilus, 016, Neuropil",26931.96875,17934.740234375,"Hippocampal hilus - Neuropil","Neuropil","APP",-1.19543372699741
 "74","Cx. II/III, 008, GFAP+",17781,32538,"Cortical layer II/III - GFAP+","GFAP+","APP",-0.791986074873721
@@ -90,13 +90,13 @@
 "89","Hipp. CA1, 017, NeuN+",17683,20128,"Hippocampus CA1 - NeuN+","NeuN+","DKK3",1.4784044113884
 "90","Hipp. CA1, 019, NeuN+",16563,16483,"Hippocampus CA1 - NeuN+","NeuN+","DKK3",1.46145373931739
 "91","Cx. II/III, 032, GFAP+",12988,25768,"Cortical layer II/III - GFAP+","GFAP+","DKK3",-1.01727495677165
-"92","Cx. V, 009, IBA1+",19978,31299,"Cortical layer V - IBA1+","IBA1+","DKK3",-1.28118152080285
-"93","Cx. V, 033, IBA1+",14266,22500,"Cortical layer V - IBA1+","IBA1+","DKK3",-0.937632508884685
+"92","Cx. V, 009, Iba1+",19978,31299,"Cortical layer V - Iba1+","Iba1+","DKK3",-1.28118152080285
+"93","Cx. V, 033, Iba1+",14266,22500,"Cortical layer V - Iba1+","Iba1+","DKK3",-0.937632508884685
 "94","Cx. V, 009, Neuropil",19978,31299,"Cortical layer V - Neuropil","Neuropil","DKK3",-0.843022587834477
-"95","Hipp. CA1, 017, IBA1+",17683,20128,"Hippocampus CA1 - IBA1+","IBA1+","DKK3",-0.587023677092558
-"96","Hipp. CA1, 019, IBA1+",16563,16483,"Hippocampus CA1 - IBA1+","IBA1+","DKK3",-0.876483012405912
-"97","Cx. II/III, 036, IBA1+",11922,23565,"Cortical layer II/III - IBA1+","IBA1+","DKK3",-1.01727495677165
-"98","Cx. V, 007, IBA1+",15150,24659,"Cortical layer V - IBA1+","IBA1+","DKK3",-0.735987493267024
+"95","Hipp. CA1, 017, Iba1+",17683,20128,"Hippocampus CA1 - Iba1+","Iba1+","DKK3",-0.587023677092558
+"96","Hipp. CA1, 019, Iba1+",16563,16483,"Hippocampus CA1 - Iba1+","Iba1+","DKK3",-0.876483012405912
+"97","Cx. II/III, 036, Iba1+",11922,23565,"Cortical layer II/III - Iba1+","Iba1+","DKK3",-1.01727495677165
+"98","Cx. V, 007, Iba1+",15150,24659,"Cortical layer V - Iba1+","Iba1+","DKK3",-0.735987493267024
 "99","Hipp. Hilus, 014, Neuropil",29808.294921875,17616.25390625,"Hippocampal hilus - Neuropil","Neuropil","DKK3",-0.811344572474935
 "100","Cx. II/III, 008, Neuropil",17781,32538,"Cortical layer II/III - Neuropil","Neuropil","DKK3",-0.387728701505373
 "101","Cx. V, 033, Neuropil",14266,22500,"Cortical layer V - Neuropil","Neuropil","DKK3",-1.04812270834509
@@ -104,11 +104,11 @@
 "103","Hipp. CA1, 021, Neuropil",19727,22092,"Hippocampus CA1 - Neuropil","Neuropil","DKK3",-0.442438389886301
 "104","Cx. II/III, 036, Neuropil",11922,23565,"Cortical layer II/III - Neuropil","Neuropil","DKK3",-0.492026831276685
 "105","Cx. II/III, 032, Neuropil",12988,25768,"Cortical layer II/III - Neuropil","Neuropil","DKK3",-0.679586970411424
-"106","Cx. II/III, 032, IBA1+",12988,25768,"Cortical layer II/III - IBA1+","IBA1+","DKK3",-0.684879104125886
+"106","Cx. II/III, 032, Iba1+",12988,25768,"Cortical layer II/III - Iba1+","Iba1+","DKK3",-0.684879104125886
 "107","Hipp. CA1, 017, Neuropil",17683,20128,"Hippocampus CA1 - Neuropil","Neuropil","DKK3",-0.788668692710219
 "108","Hipp. CA1, 019, Neuropil",16563,16483,"Hippocampus CA1 - Neuropil","Neuropil","DKK3",-0.505760780534329
-"109","Cx. II/III, 008, IBA1+",17781,32538,"Cortical layer II/III - IBA1+","IBA1+","DKK3",-0.587023677092559
-"110","Hipp. CA1, 021, IBA1+",19727,22092,"Hippocampus CA1 - IBA1+","IBA1+","DKK3",0.0780671883677155
+"109","Cx. II/III, 008, Iba1+",17781,32538,"Cortical layer II/III - Iba1+","Iba1+","DKK3",-0.587023677092559
+"110","Hipp. CA1, 021, Iba1+",19727,22092,"Hippocampus CA1 - Iba1+","Iba1+","DKK3",0.0780671883677155
 "111","Hipp. Hilus, 015, Neuropil",24204.931640625,16611.033203125,"Hippocampal hilus - Neuropil","Neuropil","DKK3",-0.889176333896572
 "112","Hipp. Hilus, 016, Neuropil",26931.96875,17934.740234375,"Hippocampal hilus - Neuropil","Neuropil","DKK3",-0.901588990369107
 "113","Cx. II/III, 008, GFAP+",17781,32538,"Cortical layer II/III - GFAP+","GFAP+","DKK3",-0.0945108489999324
@@ -129,13 +129,13 @@
 "128","Hipp. CA1, 017, NeuN+",17683,20128,"Hippocampus CA1 - NeuN+","NeuN+","CADM3",1.54073122350266
 "129","Hipp. CA1, 019, NeuN+",16563,16483,"Hippocampus CA1 - NeuN+","NeuN+","CADM3",1.59111038688711
 "130","Cx. II/III, 032, GFAP+",12988,25768,"Cortical layer II/III - GFAP+","GFAP+","CADM3",-1.75401710937814
-"131","Cx. V, 009, IBA1+",19978,31299,"Cortical layer V - IBA1+","IBA1+","CADM3",-1.18976495784353
-"132","Cx. V, 033, IBA1+",14266,22500,"Cortical layer V - IBA1+","IBA1+","CADM3",-0.921875049988618
+"131","Cx. V, 009, Iba1+",19978,31299,"Cortical layer V - Iba1+","Iba1+","CADM3",-1.18976495784353
+"132","Cx. V, 033, Iba1+",14266,22500,"Cortical layer V - Iba1+","Iba1+","CADM3",-0.921875049988618
 "133","Cx. V, 009, Neuropil",19978,31299,"Cortical layer V - Neuropil","Neuropil","CADM3",-0.539562676707113
-"134","Hipp. CA1, 017, IBA1+",17683,20128,"Hippocampus CA1 - IBA1+","IBA1+","CADM3",-1.48612720152323
-"135","Hipp. CA1, 019, IBA1+",16563,16483,"Hippocampus CA1 - IBA1+","IBA1+","CADM3",-1.18976495784353
-"136","Cx. II/III, 036, IBA1+",11922,23565,"Cortical layer II/III - IBA1+","IBA1+","CADM3",-0.780473309346643
-"137","Cx. V, 007, IBA1+",15150,24659,"Cortical layer V - IBA1+","IBA1+","CADM3",-0.33900970045647
+"134","Hipp. CA1, 017, Iba1+",17683,20128,"Hippocampus CA1 - Iba1+","Iba1+","CADM3",-1.48612720152323
+"135","Hipp. CA1, 019, Iba1+",16563,16483,"Hippocampus CA1 - Iba1+","Iba1+","CADM3",-1.18976495784353
+"136","Cx. II/III, 036, Iba1+",11922,23565,"Cortical layer II/III - Iba1+","Iba1+","CADM3",-0.780473309346643
+"137","Cx. V, 007, Iba1+",15150,24659,"Cortical layer V - Iba1+","Iba1+","CADM3",-0.33900970045647
 "138","Hipp. Hilus, 014, Neuropil",29808.294921875,17616.25390625,"Hippocampal hilus - Neuropil","Neuropil","CADM3",-0.373524153734221
 "139","Cx. II/III, 008, Neuropil",17781,32538,"Cortical layer II/III - Neuropil","Neuropil","CADM3",-0.0897329905990918
 "140","Cx. V, 033, Neuropil",14266,22500,"Cortical layer V - Neuropil","Neuropil","CADM3",-0.386095234278785
@@ -143,11 +143,11 @@
 "142","Hipp. CA1, 021, Neuropil",19727,22092,"Hippocampus CA1 - Neuropil","Neuropil","CADM3",-0.368017138470334
 "143","Cx. II/III, 036, Neuropil",11922,23565,"Cortical layer II/III - Neuropil","Neuropil","CADM3",-0.209032350568717
 "144","Cx. II/III, 032, Neuropil",12988,25768,"Cortical layer II/III - Neuropil","Neuropil","CADM3",-0.296043902215361
-"145","Cx. II/III, 032, IBA1+",12988,25768,"Cortical layer II/III - IBA1+","IBA1+","CADM3",-0.33900970045647
+"145","Cx. II/III, 032, Iba1+",12988,25768,"Cortical layer II/III - Iba1+","Iba1+","CADM3",-0.33900970045647
 "146","Hipp. CA1, 017, Neuropil",17683,20128,"Hippocampus CA1 - Neuropil","Neuropil","CADM3",-0.233557592249893
 "147","Hipp. CA1, 019, Neuropil",16563,16483,"Hippocampus CA1 - Neuropil","Neuropil","CADM3",-0.108639321847359
-"148","Cx. II/III, 008, IBA1+",17781,32538,"Cortical layer II/III - IBA1+","IBA1+","CADM3",-0.435103149972868
-"149","Hipp. CA1, 021, IBA1+",19727,22092,"Hippocampus CA1 - IBA1+","IBA1+","CADM3",-0.330643623238622
+"148","Cx. II/III, 008, Iba1+",17781,32538,"Cortical layer II/III - Iba1+","Iba1+","CADM3",-0.435103149972868
+"149","Hipp. CA1, 021, Iba1+",19727,22092,"Hippocampus CA1 - Iba1+","Iba1+","CADM3",-0.330643623238622
 "150","Hipp. Hilus, 015, Neuropil",24204.931640625,16611.033203125,"Hippocampal hilus - Neuropil","Neuropil","CADM3",-0.692508037273597
 "151","Hipp. Hilus, 016, Neuropil",26931.96875,17934.740234375,"Hippocampal hilus - Neuropil","Neuropil","CADM3",-0.532616501751056
 "152","Cx. II/III, 008, GFAP+",17781,32538,"Cortical layer II/III - GFAP+","GFAP+","CADM3",-0.921875049988618
@@ -168,13 +168,13 @@
 "167","Hipp. CA1, 017, NeuN+",17683,20128,"Hippocampus CA1 - NeuN+","NeuN+","YWHAG",1.33922248737115
 "168","Hipp. CA1, 019, NeuN+",16563,16483,"Hippocampus CA1 - NeuN+","NeuN+","YWHAG",1.35201774567462
 "169","Cx. II/III, 032, GFAP+",12988,25768,"Cortical layer II/III - GFAP+","GFAP+","YWHAG",-0.722967935041407
-"170","Cx. V, 009, IBA1+",19978,31299,"Cortical layer V - IBA1+","IBA1+","YWHAG",-0.370135472916371
-"171","Cx. V, 033, IBA1+",14266,22500,"Cortical layer V - IBA1+","IBA1+","YWHAG",-0.105993247002187
+"170","Cx. V, 009, Iba1+",19978,31299,"Cortical layer V - Iba1+","Iba1+","YWHAG",-0.370135472916371
+"171","Cx. V, 033, Iba1+",14266,22500,"Cortical layer V - Iba1+","Iba1+","YWHAG",-0.105993247002187
 "172","Cx. V, 009, Neuropil",19978,31299,"Cortical layer V - Neuropil","Neuropil","YWHAG",-0.378920794559549
-"173","Hipp. CA1, 017, IBA1+",17683,20128,"Hippocampus CA1 - IBA1+","IBA1+","YWHAG",-0.779040288059723
-"174","Hipp. CA1, 019, IBA1+",16563,16483,"Hippocampus CA1 - IBA1+","IBA1+","YWHAG",-0.596171608773139
-"175","Cx. II/III, 036, IBA1+",11922,23565,"Cortical layer II/III - IBA1+","IBA1+","YWHAG",-1.02625975701032
-"176","Cx. V, 007, IBA1+",15150,24659,"Cortical layer V - IBA1+","IBA1+","YWHAG",-0.335486379322468
+"173","Hipp. CA1, 017, Iba1+",17683,20128,"Hippocampus CA1 - Iba1+","Iba1+","YWHAG",-0.779040288059723
+"174","Hipp. CA1, 019, Iba1+",16563,16483,"Hippocampus CA1 - Iba1+","Iba1+","YWHAG",-0.596171608773139
+"175","Cx. II/III, 036, Iba1+",11922,23565,"Cortical layer II/III - Iba1+","Iba1+","YWHAG",-1.02625975701032
+"176","Cx. V, 007, Iba1+",15150,24659,"Cortical layer V - Iba1+","Iba1+","YWHAG",-0.335486379322468
 "177","Hipp. Hilus, 014, Neuropil",29808.294921875,17616.25390625,"Hippocampal hilus - Neuropil","Neuropil","YWHAG",-0.753407279189163
 "178","Cx. II/III, 008, Neuropil",17781,32538,"Cortical layer II/III - Neuropil","Neuropil","YWHAG",-0.433724682037952
 "179","Cx. V, 033, Neuropil",14266,22500,"Cortical layer V - Neuropil","Neuropil","YWHAG",-0.591108156679443
@@ -182,11 +182,11 @@
 "181","Hipp. CA1, 021, Neuropil",19727,22092,"Hippocampus CA1 - Neuropil","Neuropil","YWHAG",-0.59897237208063
 "182","Cx. II/III, 036, Neuropil",11922,23565,"Cortical layer II/III - Neuropil","Neuropil","YWHAG",-0.496390714856642
 "183","Cx. II/III, 032, Neuropil",12988,25768,"Cortical layer II/III - Neuropil","Neuropil","YWHAG",-0.239364507655581
-"184","Cx. II/III, 032, IBA1+",12988,25768,"Cortical layer II/III - IBA1+","IBA1+","YWHAG",-0.897700343326601
+"184","Cx. II/III, 032, Iba1+",12988,25768,"Cortical layer II/III - Iba1+","Iba1+","YWHAG",-0.897700343326601
 "185","Hipp. CA1, 017, Neuropil",17683,20128,"Hippocampus CA1 - Neuropil","Neuropil","YWHAG",-0.492416950345629
 "186","Hipp. CA1, 019, Neuropil",16563,16483,"Hippocampus CA1 - Neuropil","Neuropil","YWHAG",-0.434993147577866
-"187","Cx. II/III, 008, IBA1+",17781,32538,"Cortical layer II/III - IBA1+","IBA1+","YWHAG",-0.225309535425088
-"188","Hipp. CA1, 021, IBA1+",19727,22092,"Hippocampus CA1 - IBA1+","IBA1+","YWHAG",-0.319990572740049
+"187","Cx. II/III, 008, Iba1+",17781,32538,"Cortical layer II/III - Iba1+","Iba1+","YWHAG",-0.225309535425088
+"188","Hipp. CA1, 021, Iba1+",19727,22092,"Hippocampus CA1 - Iba1+","Iba1+","YWHAG",-0.319990572740049
 "189","Hipp. Hilus, 015, Neuropil",24204.931640625,16611.033203125,"Hippocampal hilus - Neuropil","Neuropil","YWHAG",-1.01571134795169
 "190","Hipp. Hilus, 016, Neuropil",26931.96875,17934.740234375,"Hippocampal hilus - Neuropil","Neuropil","YWHAG",-1.13406128110836
 "191","Cx. II/III, 008, GFAP+",17781,32538,"Cortical layer II/III - GFAP+","GFAP+","YWHAG",-0.960640501806393
@@ -207,13 +207,13 @@
 "206","Hipp. CA1, 017, NeuN+",17683,20128,"Hippocampus CA1 - NeuN+","NeuN+","UCHL1",1.46247879804936
 "207","Hipp. CA1, 019, NeuN+",16563,16483,"Hippocampus CA1 - NeuN+","NeuN+","UCHL1",1.41787261149069
 "208","Cx. II/III, 032, GFAP+",12988,25768,"Cortical layer II/III - GFAP+","GFAP+","UCHL1",-1.55229943551516
-"209","Cx. V, 009, IBA1+",19978,31299,"Cortical layer V - IBA1+","IBA1+","UCHL1",-0.477905528351788
-"210","Cx. V, 033, IBA1+",14266,22500,"Cortical layer V - IBA1+","IBA1+","UCHL1",-0.588445662558392
+"209","Cx. V, 009, Iba1+",19978,31299,"Cortical layer V - Iba1+","Iba1+","UCHL1",-0.477905528351788
+"210","Cx. V, 033, Iba1+",14266,22500,"Cortical layer V - Iba1+","Iba1+","UCHL1",-0.588445662558392
 "211","Cx. V, 009, Neuropil",19978,31299,"Cortical layer V - Neuropil","Neuropil","UCHL1",-0.785169294284156
-"212","Hipp. CA1, 017, IBA1+",17683,20128,"Hippocampus CA1 - IBA1+","IBA1+","UCHL1",-0.579987079263258
-"213","Hipp. CA1, 019, IBA1+",16563,16483,"Hippocampus CA1 - IBA1+","IBA1+","UCHL1",-0.423006633425961
-"214","Cx. II/III, 036, IBA1+",11922,23565,"Cortical layer II/III - IBA1+","IBA1+","UCHL1",-1.14151662739618
-"215","Cx. V, 007, IBA1+",15150,24659,"Cortical layer V - IBA1+","IBA1+","UCHL1",-0.190066116640285
+"212","Hipp. CA1, 017, Iba1+",17683,20128,"Hippocampus CA1 - Iba1+","Iba1+","UCHL1",-0.579987079263258
+"213","Hipp. CA1, 019, Iba1+",16563,16483,"Hippocampus CA1 - Iba1+","Iba1+","UCHL1",-0.423006633425961
+"214","Cx. II/III, 036, Iba1+",11922,23565,"Cortical layer II/III - Iba1+","Iba1+","UCHL1",-1.14151662739618
+"215","Cx. V, 007, Iba1+",15150,24659,"Cortical layer V - Iba1+","Iba1+","UCHL1",-0.190066116640285
 "216","Hipp. Hilus, 014, Neuropil",29808.294921875,17616.25390625,"Hippocampal hilus - Neuropil","Neuropil","UCHL1",-0.749611446483452
 "217","Cx. II/III, 008, Neuropil",17781,32538,"Cortical layer II/III - Neuropil","Neuropil","UCHL1",-0.135167221714458
 "218","Cx. V, 033, Neuropil",14266,22500,"Cortical layer V - Neuropil","Neuropil","UCHL1",-0.403007328470499
@@ -221,11 +221,11 @@
 "220","Hipp. CA1, 021, Neuropil",19727,22092,"Hippocampus CA1 - Neuropil","Neuropil","UCHL1",-0.593136319837412
 "221","Cx. II/III, 036, Neuropil",11922,23565,"Cortical layer II/III - Neuropil","Neuropil","UCHL1",-0.54958670923778
 "222","Cx. II/III, 032, Neuropil",12988,25768,"Cortical layer II/III - Neuropil","Neuropil","UCHL1",-0.692588711183154
-"223","Cx. II/III, 032, IBA1+",12988,25768,"Cortical layer II/III - IBA1+","IBA1+","UCHL1",-0.92602866383975
+"223","Cx. II/III, 032, Iba1+",12988,25768,"Cortical layer II/III - Iba1+","Iba1+","UCHL1",-0.92602866383975
 "224","Hipp. CA1, 017, Neuropil",17683,20128,"Hippocampus CA1 - Neuropil","Neuropil","UCHL1",-0.170317334748004
 "225","Hipp. CA1, 019, Neuropil",16563,16483,"Hippocampus CA1 - Neuropil","Neuropil","UCHL1",-0.218417353065155
-"226","Cx. II/III, 008, IBA1+",17781,32538,"Cortical layer II/III - IBA1+","IBA1+","UCHL1",-0.0654243271891411
-"227","Hipp. CA1, 021, IBA1+",19727,22092,"Hippocampus CA1 - IBA1+","IBA1+","UCHL1",-0.154861181815775
+"226","Cx. II/III, 008, Iba1+",17781,32538,"Cortical layer II/III - Iba1+","Iba1+","UCHL1",-0.0654243271891411
+"227","Hipp. CA1, 021, Iba1+",19727,22092,"Hippocampus CA1 - Iba1+","Iba1+","UCHL1",-0.154861181815775
 "228","Hipp. Hilus, 015, Neuropil",24204.931640625,16611.033203125,"Hippocampal hilus - Neuropil","Neuropil","UCHL1",-1.07535190251705
 "229","Hipp. Hilus, 016, Neuropil",26931.96875,17934.740234375,"Hippocampal hilus - Neuropil","Neuropil","UCHL1",-1.10462385545769
 "230","Cx. II/III, 008, GFAP+",17781,32538,"Cortical layer II/III - GFAP+","GFAP+","UCHL1",-0.770427084333983
@@ -246,13 +246,13 @@
 "245","Hipp. CA1, 017, NeuN+",17683,20128,"Hippocampus CA1 - NeuN+","NeuN+","SNAP25",1.59489556982795
 "246","Hipp. CA1, 019, NeuN+",16563,16483,"Hippocampus CA1 - NeuN+","NeuN+","SNAP25",1.47567055203385
 "247","Cx. II/III, 032, GFAP+",12988,25768,"Cortical layer II/III - GFAP+","GFAP+","SNAP25",-0.852628089272693
-"248","Cx. V, 009, IBA1+",19978,31299,"Cortical layer V - IBA1+","IBA1+","SNAP25",-0.447934593414721
-"249","Cx. V, 033, IBA1+",14266,22500,"Cortical layer V - IBA1+","IBA1+","SNAP25",-0.747785158546672
+"248","Cx. V, 009, Iba1+",19978,31299,"Cortical layer V - Iba1+","Iba1+","SNAP25",-0.447934593414721
+"249","Cx. V, 033, Iba1+",14266,22500,"Cortical layer V - Iba1+","Iba1+","SNAP25",-0.747785158546672
 "250","Cx. V, 009, Neuropil",19978,31299,"Cortical layer V - Neuropil","Neuropil","SNAP25",-0.0430080749188853
-"251","Hipp. CA1, 017, IBA1+",17683,20128,"Hippocampus CA1 - IBA1+","IBA1+","SNAP25",-0.712903331400599
-"252","Hipp. CA1, 019, IBA1+",16563,16483,"Hippocampus CA1 - IBA1+","IBA1+","SNAP25",-0.570039495738693
-"253","Cx. II/III, 036, IBA1+",11922,23565,"Cortical layer II/III - IBA1+","IBA1+","SNAP25",-0.981018341651943
-"254","Cx. V, 007, IBA1+",15150,24659,"Cortical layer V - IBA1+","IBA1+","SNAP25",-0.36299357410528
+"251","Hipp. CA1, 017, Iba1+",17683,20128,"Hippocampus CA1 - Iba1+","Iba1+","SNAP25",-0.712903331400599
+"252","Hipp. CA1, 019, Iba1+",16563,16483,"Hippocampus CA1 - Iba1+","Iba1+","SNAP25",-0.570039495738693
+"253","Cx. II/III, 036, Iba1+",11922,23565,"Cortical layer II/III - Iba1+","Iba1+","SNAP25",-0.981018341651943
+"254","Cx. V, 007, Iba1+",15150,24659,"Cortical layer V - Iba1+","Iba1+","SNAP25",-0.36299357410528
 "255","Hipp. Hilus, 014, Neuropil",29808.294921875,17616.25390625,"Hippocampal hilus - Neuropil","Neuropil","SNAP25",-0.869242817875259
 "256","Cx. II/III, 008, Neuropil",17781,32538,"Cortical layer II/III - Neuropil","Neuropil","SNAP25",-0.0324771450787704
 "257","Cx. V, 033, Neuropil",14266,22500,"Cortical layer V - Neuropil","Neuropil","SNAP25",-0.498129664105594
@@ -260,11 +260,11 @@
 "259","Hipp. CA1, 021, Neuropil",19727,22092,"Hippocampus CA1 - Neuropil","Neuropil","SNAP25",-0.421006791978732
 "260","Cx. II/III, 036, Neuropil",11922,23565,"Cortical layer II/III - Neuropil","Neuropil","SNAP25",-0.532590112967332
 "261","Cx. II/III, 032, Neuropil",12988,25768,"Cortical layer II/III - Neuropil","Neuropil","SNAP25",-0.507629876370374
-"262","Cx. II/III, 032, IBA1+",12988,25768,"Cortical layer II/III - IBA1+","IBA1+","SNAP25",-0.627076936250434
+"262","Cx. II/III, 032, Iba1+",12988,25768,"Cortical layer II/III - Iba1+","Iba1+","SNAP25",-0.627076936250434
 "263","Hipp. CA1, 017, Neuropil",17683,20128,"Hippocampus CA1 - Neuropil","Neuropil","SNAP25",-0.293908547335763
 "264","Hipp. CA1, 019, Neuropil",16563,16483,"Hippocampus CA1 - Neuropil","Neuropil","SNAP25",-0.130699132437869
-"265","Cx. II/III, 008, IBA1+",17781,32538,"Cortical layer II/III - IBA1+","IBA1+","SNAP25",-0.340302558421467
-"266","Hipp. CA1, 021, IBA1+",19727,22092,"Hippocampus CA1 - IBA1+","IBA1+","SNAP25",-0.45325543415921
+"265","Cx. II/III, 008, Iba1+",17781,32538,"Cortical layer II/III - Iba1+","Iba1+","SNAP25",-0.340302558421467
+"266","Hipp. CA1, 021, Iba1+",19727,22092,"Hippocampus CA1 - Iba1+","Iba1+","SNAP25",-0.45325543415921
 "267","Hipp. Hilus, 015, Neuropil",24204.931640625,16611.033203125,"Hippocampal hilus - Neuropil","Neuropil","SNAP25",-1.36356172674795
 "268","Hipp. Hilus, 016, Neuropil",26931.96875,17934.740234375,"Hippocampal hilus - Neuropil","Neuropil","SNAP25",-1.18634722091834
 "269","Cx. II/III, 008, GFAP+",17781,32538,"Cortical layer II/III - GFAP+","GFAP+","SNAP25",-0.788766565809794
@@ -285,13 +285,13 @@
 "284","Hipp. CA1, 017, NeuN+",17683,20128,"Hippocampus CA1 - NeuN+","NeuN+","RTN3",1.51944084156942
 "285","Hipp. CA1, 019, NeuN+",16563,16483,"Hippocampus CA1 - NeuN+","NeuN+","RTN3",1.3675119958827
 "286","Cx. II/III, 032, GFAP+",12988,25768,"Cortical layer II/III - GFAP+","GFAP+","RTN3",-1.01893050504889
-"287","Cx. V, 009, IBA1+",19978,31299,"Cortical layer V - IBA1+","IBA1+","RTN3",-0.304736641869201
-"288","Cx. V, 033, IBA1+",14266,22500,"Cortical layer V - IBA1+","IBA1+","RTN3",-0.331389792849113
+"287","Cx. V, 009, Iba1+",19978,31299,"Cortical layer V - Iba1+","Iba1+","RTN3",-0.304736641869201
+"288","Cx. V, 033, Iba1+",14266,22500,"Cortical layer V - Iba1+","Iba1+","RTN3",-0.331389792849113
 "289","Cx. V, 009, Neuropil",19978,31299,"Cortical layer V - Neuropil","Neuropil","RTN3",-0.218490336452841
-"290","Hipp. CA1, 017, IBA1+",17683,20128,"Hippocampus CA1 - IBA1+","IBA1+","RTN3",-0.473198740174555
-"291","Hipp. CA1, 019, IBA1+",16563,16483,"Hippocampus CA1 - IBA1+","IBA1+","RTN3",-0.566059015368144
-"292","Cx. II/III, 036, IBA1+",11922,23565,"Cortical layer II/III - IBA1+","IBA1+","RTN3",-1.10579549130411
-"293","Cx. V, 007, IBA1+",15150,24659,"Cortical layer V - IBA1+","IBA1+","RTN3",-0.365466046903333
+"290","Hipp. CA1, 017, Iba1+",17683,20128,"Hippocampus CA1 - Iba1+","Iba1+","RTN3",-0.473198740174555
+"291","Hipp. CA1, 019, Iba1+",16563,16483,"Hippocampus CA1 - Iba1+","Iba1+","RTN3",-0.566059015368144
+"292","Cx. II/III, 036, Iba1+",11922,23565,"Cortical layer II/III - Iba1+","Iba1+","RTN3",-1.10579549130411
+"293","Cx. V, 007, Iba1+",15150,24659,"Cortical layer V - Iba1+","Iba1+","RTN3",-0.365466046903333
 "294","Hipp. Hilus, 014, Neuropil",29808.294921875,17616.25390625,"Hippocampal hilus - Neuropil","Neuropil","RTN3",-0.698902466487512
 "295","Cx. II/III, 008, Neuropil",17781,32538,"Cortical layer II/III - Neuropil","Neuropil","RTN3",-0.550130543771258
 "296","Cx. V, 033, Neuropil",14266,22500,"Cortical layer V - Neuropil","Neuropil","RTN3",-0.590310845209324
@@ -299,11 +299,11 @@
 "298","Hipp. CA1, 021, Neuropil",19727,22092,"Hippocampus CA1 - Neuropil","Neuropil","RTN3",-1.01893050504889
 "299","Cx. II/III, 036, Neuropil",11922,23565,"Cortical layer II/III - Neuropil","Neuropil","RTN3",-0.801099480515716
 "300","Cx. II/III, 032, Neuropil",12988,25768,"Cortical layer II/III - Neuropil","Neuropil","RTN3",-0.449790495532561
-"301","Cx. II/III, 032, IBA1+",12988,25768,"Cortical layer II/III - IBA1+","IBA1+","RTN3",-0.652924001623363
+"301","Cx. II/III, 032, Iba1+",12988,25768,"Cortical layer II/III - Iba1+","Iba1+","RTN3",-0.652924001623363
 "302","Hipp. CA1, 017, Neuropil",17683,20128,"Hippocampus CA1 - Neuropil","Neuropil","RTN3",-0.642626016105522
 "303","Hipp. CA1, 019, Neuropil",16563,16483,"Hippocampus CA1 - Neuropil","Neuropil","RTN3",-0.473198740174556
-"304","Cx. II/III, 008, IBA1+",17781,32538,"Cortical layer II/III - IBA1+","IBA1+","RTN3",-0.718592642076612
-"305","Hipp. CA1, 021, IBA1+",19727,22092,"Hippocampus CA1 - IBA1+","IBA1+","RTN3",-0.901818400014125
+"304","Cx. II/III, 008, Iba1+",17781,32538,"Cortical layer II/III - Iba1+","Iba1+","RTN3",-0.718592642076612
+"305","Hipp. CA1, 021, Iba1+",19727,22092,"Hippocampus CA1 - Iba1+","Iba1+","RTN3",-0.901818400014125
 "306","Hipp. Hilus, 015, Neuropil",24204.931640625,16611.033203125,"Hippocampal hilus - Neuropil","Neuropil","RTN3",-0.916658022678903
 "307","Hipp. Hilus, 016, Neuropil",26931.96875,17934.740234375,"Hippocampal hilus - Neuropil","Neuropil","RTN3",-1.0625864446772
 "308","Cx. II/III, 008, GFAP+",17781,32538,"Cortical layer II/III - GFAP+","GFAP+","RTN3",-1.01893050504889
@@ -324,13 +324,13 @@
 "323","Hipp. CA1, 017, NeuN+",17683,20128,"Hippocampus CA1 - NeuN+","NeuN+","ALDOA",1.5304225900924
 "324","Hipp. CA1, 019, NeuN+",16563,16483,"Hippocampus CA1 - NeuN+","NeuN+","ALDOA",1.25339669182987
 "325","Cx. II/III, 032, GFAP+",12988,25768,"Cortical layer II/III - GFAP+","GFAP+","ALDOA",-1.47008159077471
-"326","Cx. V, 009, IBA1+",19978,31299,"Cortical layer V - IBA1+","IBA1+","ALDOA",-0.866575515370492
-"327","Cx. V, 033, IBA1+",14266,22500,"Cortical layer V - IBA1+","IBA1+","ALDOA",-0.220107464231181
+"326","Cx. V, 009, Iba1+",19978,31299,"Cortical layer V - Iba1+","Iba1+","ALDOA",-0.866575515370492
+"327","Cx. V, 033, Iba1+",14266,22500,"Cortical layer V - Iba1+","Iba1+","ALDOA",-0.220107464231181
 "328","Cx. V, 009, Neuropil",19978,31299,"Cortical layer V - Neuropil","Neuropil","ALDOA",-0.594816563612923
-"329","Hipp. CA1, 017, IBA1+",17683,20128,"Hippocampus CA1 - IBA1+","IBA1+","ALDOA",-0.713031165086517
-"330","Hipp. CA1, 019, IBA1+",16563,16483,"Hippocampus CA1 - IBA1+","IBA1+","ALDOA",-0.664762279881333
-"331","Cx. II/III, 036, IBA1+",11922,23565,"Cortical layer II/III - IBA1+","IBA1+","ALDOA",-0.713031165086517
-"332","Cx. V, 007, IBA1+",15150,24659,"Cortical layer V - IBA1+","IBA1+","ALDOA",-0.840010144296351
+"329","Hipp. CA1, 017, Iba1+",17683,20128,"Hippocampus CA1 - Iba1+","Iba1+","ALDOA",-0.713031165086517
+"330","Hipp. CA1, 019, Iba1+",16563,16483,"Hippocampus CA1 - Iba1+","Iba1+","ALDOA",-0.664762279881333
+"331","Cx. II/III, 036, Iba1+",11922,23565,"Cortical layer II/III - Iba1+","Iba1+","ALDOA",-0.713031165086517
+"332","Cx. V, 007, Iba1+",15150,24659,"Cortical layer V - Iba1+","Iba1+","ALDOA",-0.840010144296351
 "333","Hipp. Hilus, 014, Neuropil",29808.294921875,17616.25390625,"Hippocampal hilus - Neuropil","Neuropil","ALDOA",-0.720778422195658
 "334","Cx. II/III, 008, Neuropil",17781,32538,"Cortical layer II/III - Neuropil","Neuropil","ALDOA",-0.230336940057154
 "335","Cx. V, 033, Neuropil",14266,22500,"Cortical layer V - Neuropil","Neuropil","ALDOA",-0.470900019734053
@@ -338,11 +338,11 @@
 "337","Hipp. CA1, 021, Neuropil",19727,22092,"Hippocampus CA1 - Neuropil","Neuropil","ALDOA",-0.646803322498341
 "338","Cx. II/III, 036, Neuropil",11922,23565,"Cortical layer II/III - Neuropil","Neuropil","ALDOA",-0.561188805892647
 "339","Cx. II/III, 032, Neuropil",12988,25768,"Cortical layer II/III - Neuropil","Neuropil","ALDOA",-0.674811763889132
-"340","Cx. II/III, 032, IBA1+",12988,25768,"Cortical layer II/III - IBA1+","IBA1+","ALDOA",-0.431509040978854
+"340","Cx. II/III, 032, Iba1+",12988,25768,"Cortical layer II/III - Iba1+","Iba1+","ALDOA",-0.431509040978854
 "341","Hipp. CA1, 017, Neuropil",17683,20128,"Hippocampus CA1 - Neuropil","Neuropil","ALDOA",-0.598505331693288
 "342","Hipp. CA1, 019, Neuropil",16563,16483,"Hippocampus CA1 - Neuropil","Neuropil","ALDOA",-0.330689838780066
-"343","Cx. II/III, 008, IBA1+",17781,32538,"Cortical layer II/III - IBA1+","IBA1+","ALDOA",-0.52030777644115
-"344","Hipp. CA1, 021, IBA1+",19727,22092,"Hippocampus CA1 - IBA1+","IBA1+","ALDOA",-0.563943077682545
+"343","Cx. II/III, 008, Iba1+",17781,32538,"Cortical layer II/III - Iba1+","Iba1+","ALDOA",-0.52030777644115
+"344","Hipp. CA1, 021, Iba1+",19727,22092,"Hippocampus CA1 - Iba1+","Iba1+","ALDOA",-0.563943077682545
 "345","Hipp. Hilus, 015, Neuropil",24204.931640625,16611.033203125,"Hippocampal hilus - Neuropil","Neuropil","ALDOA",-1.13996448224392
 "346","Hipp. Hilus, 016, Neuropil",26931.96875,17934.740234375,"Hippocampal hilus - Neuropil","Neuropil","ALDOA",-1.02022667367783
 "347","Cx. II/III, 008, GFAP+",17781,32538,"Cortical layer II/III - GFAP+","GFAP+","ALDOA",-0.347086443441016
@@ -363,13 +363,13 @@
 "362","Hipp. CA1, 017, NeuN+",17683,20128,"Hippocampus CA1 - NeuN+","NeuN+","TUBA4A",1.53623050017841
 "363","Hipp. CA1, 019, NeuN+",16563,16483,"Hippocampus CA1 - NeuN+","NeuN+","TUBA4A",1.37264204003385
 "364","Cx. II/III, 032, GFAP+",12988,25768,"Cortical layer II/III - GFAP+","GFAP+","TUBA4A",-0.525929690724871
-"365","Cx. V, 009, IBA1+",19978,31299,"Cortical layer V - IBA1+","IBA1+","TUBA4A",-1.48264222982369
-"366","Cx. V, 033, IBA1+",14266,22500,"Cortical layer V - IBA1+","IBA1+","TUBA4A",-0.175083625455052
+"365","Cx. V, 009, Iba1+",19978,31299,"Cortical layer V - Iba1+","Iba1+","TUBA4A",-1.48264222982369
+"366","Cx. V, 033, Iba1+",14266,22500,"Cortical layer V - Iba1+","Iba1+","TUBA4A",-0.175083625455052
 "367","Cx. V, 009, Neuropil",19978,31299,"Cortical layer V - Neuropil","Neuropil","TUBA4A",-0.291319673680463
-"368","Hipp. CA1, 017, IBA1+",17683,20128,"Hippocampus CA1 - IBA1+","IBA1+","TUBA4A",-0.658356876005337
-"369","Hipp. CA1, 019, IBA1+",16563,16483,"Hippocampus CA1 - IBA1+","IBA1+","TUBA4A",-0.427705125247288
-"370","Cx. II/III, 036, IBA1+",11922,23565,"Cortical layer II/III - IBA1+","IBA1+","TUBA4A",-0.404108489335343
-"371","Cx. V, 007, IBA1+",15150,24659,"Cortical layer V - IBA1+","IBA1+","TUBA4A",-0.658356876005337
+"368","Hipp. CA1, 017, Iba1+",17683,20128,"Hippocampus CA1 - Iba1+","Iba1+","TUBA4A",-0.658356876005337
+"369","Hipp. CA1, 019, Iba1+",16563,16483,"Hippocampus CA1 - Iba1+","Iba1+","TUBA4A",-0.427705125247288
+"370","Cx. II/III, 036, Iba1+",11922,23565,"Cortical layer II/III - Iba1+","Iba1+","TUBA4A",-0.404108489335343
+"371","Cx. V, 007, Iba1+",15150,24659,"Cortical layer V - Iba1+","Iba1+","TUBA4A",-0.658356876005337
 "372","Hipp. Hilus, 014, Neuropil",29808.294921875,17616.25390625,"Hippocampal hilus - Neuropil","Neuropil","TUBA4A",-0.60821743488518
 "373","Cx. II/III, 008, Neuropil",17781,32538,"Cortical layer II/III - Neuropil","Neuropil","TUBA4A",-0.417172539756651
 "374","Cx. V, 033, Neuropil",14266,22500,"Cortical layer V - Neuropil","Neuropil","TUBA4A",-0.729158131460316
@@ -377,11 +377,11 @@
 "376","Hipp. CA1, 021, Neuropil",19727,22092,"Hippocampus CA1 - Neuropil","Neuropil","TUBA4A",-0.508535758210398
 "377","Cx. II/III, 036, Neuropil",11922,23565,"Cortical layer II/III - Neuropil","Neuropil","TUBA4A",-0.194564883816114
 "378","Cx. II/III, 032, Neuropil",12988,25768,"Cortical layer II/III - Neuropil","Neuropil","TUBA4A",-0.397959177821406
-"379","Cx. II/III, 032, IBA1+",12988,25768,"Cortical layer II/III - IBA1+","IBA1+","TUBA4A",-0.291319673680463
+"379","Cx. II/III, 032, Iba1+",12988,25768,"Cortical layer II/III - Iba1+","Iba1+","TUBA4A",-0.291319673680463
 "380","Hipp. CA1, 017, Neuropil",17683,20128,"Hippocampus CA1 - Neuropil","Neuropil","TUBA4A",-0.477609679025484
 "381","Hipp. CA1, 019, Neuropil",16563,16483,"Hippocampus CA1 - Neuropil","Neuropil","TUBA4A",-0.318742983703067
-"382","Cx. II/III, 008, IBA1+",17781,32538,"Cortical layer II/III - IBA1+","IBA1+","TUBA4A",-0.365575987439293
-"383","Hipp. CA1, 021, IBA1+",19727,22092,"Hippocampus CA1 - IBA1+","IBA1+","TUBA4A",-0.572762694461097
+"382","Cx. II/III, 008, Iba1+",17781,32538,"Cortical layer II/III - Iba1+","Iba1+","TUBA4A",-0.365575987439293
+"383","Hipp. CA1, 021, Iba1+",19727,22092,"Hippocampus CA1 - Iba1+","Iba1+","TUBA4A",-0.572762694461097
 "384","Hipp. Hilus, 015, Neuropil",24204.931640625,16611.033203125,"Hippocampal hilus - Neuropil","Neuropil","TUBA4A",-0.552867606857467
 "385","Hipp. Hilus, 016, Neuropil",26931.96875,17934.740234375,"Hippocampal hilus - Neuropil","Neuropil","TUBA4A",-1.07960447183507
 "386","Cx. II/III, 008, GFAP+",17781,32538,"Cortical layer II/III - GFAP+","GFAP+","TUBA4A",-1.14302833752142
@@ -402,13 +402,13 @@
 "401","Hipp. CA1, 017, NeuN+",17683,20128,"Hippocampus CA1 - NeuN+","NeuN+","ATP6V0C",1.41198049454743
 "402","Hipp. CA1, 019, NeuN+",16563,16483,"Hippocampus CA1 - NeuN+","NeuN+","ATP6V0C",1.38843612519363
 "403","Cx. II/III, 032, GFAP+",12988,25768,"Cortical layer II/III - GFAP+","GFAP+","ATP6V0C",-1.00499981812143
-"404","Cx. V, 009, IBA1+",19978,31299,"Cortical layer V - IBA1+","IBA1+","ATP6V0C",-1.55083868194374
-"405","Cx. V, 033, IBA1+",14266,22500,"Cortical layer V - IBA1+","IBA1+","ATP6V0C",-0.697902652270873
+"404","Cx. V, 009, Iba1+",19978,31299,"Cortical layer V - Iba1+","Iba1+","ATP6V0C",-1.55083868194374
+"405","Cx. V, 033, Iba1+",14266,22500,"Cortical layer V - Iba1+","Iba1+","ATP6V0C",-0.697902652270873
 "406","Cx. V, 009, Neuropil",19978,31299,"Cortical layer V - Neuropil","Neuropil","ATP6V0C",-0.742008120547826
-"407","Hipp. CA1, 017, IBA1+",17683,20128,"Hippocampus CA1 - IBA1+","IBA1+","ATP6V0C",-0.262001076419371
-"408","Hipp. CA1, 019, IBA1+",16563,16483,"Hippocampus CA1 - IBA1+","IBA1+","ATP6V0C",-0.384494740065363
-"409","Cx. II/III, 036, IBA1+",11922,23565,"Cortical layer II/III - IBA1+","IBA1+","ATP6V0C",-0.5176529334365
-"410","Cx. V, 007, IBA1+",15150,24659,"Cortical layer V - IBA1+","IBA1+","ATP6V0C",-0.588845017182948
+"407","Hipp. CA1, 017, Iba1+",17683,20128,"Hippocampus CA1 - Iba1+","Iba1+","ATP6V0C",-0.262001076419371
+"408","Hipp. CA1, 019, Iba1+",16563,16483,"Hippocampus CA1 - Iba1+","Iba1+","ATP6V0C",-0.384494740065363
+"409","Cx. II/III, 036, Iba1+",11922,23565,"Cortical layer II/III - Iba1+","Iba1+","ATP6V0C",-0.5176529334365
+"410","Cx. V, 007, Iba1+",15150,24659,"Cortical layer V - Iba1+","Iba1+","ATP6V0C",-0.588845017182948
 "411","Hipp. Hilus, 014, Neuropil",29808.294921875,17616.25390625,"Hippocampal hilus - Neuropil","Neuropil","ATP6V0C",-0.472915218167523
 "412","Cx. II/III, 008, Neuropil",17781,32538,"Cortical layer II/III - Neuropil","Neuropil","ATP6V0C",-0.502272363546371
 "413","Cx. V, 033, Neuropil",14266,22500,"Cortical layer V - Neuropil","Neuropil","ATP6V0C",-1.26500545850876
@@ -416,11 +416,11 @@
 "415","Hipp. CA1, 021, Neuropil",19727,22092,"Hippocampus CA1 - Neuropil","Neuropil","ATP6V0C",-0.493852238742458
 "416","Cx. II/III, 036, Neuropil",11922,23565,"Cortical layer II/III - Neuropil","Neuropil","ATP6V0C",-0.426424864944855
 "417","Cx. II/III, 032, Neuropil",12988,25768,"Cortical layer II/III - Neuropil","Neuropil","ATP6V0C",-0.615931632652443
-"418","Cx. II/III, 032, IBA1+",12988,25768,"Cortical layer II/III - IBA1+","IBA1+","ATP6V0C",-0.5176529334365
+"418","Cx. II/III, 032, Iba1+",12988,25768,"Cortical layer II/III - Iba1+","Iba1+","ATP6V0C",-0.5176529334365
 "419","Hipp. CA1, 017, Neuropil",17683,20128,"Hippocampus CA1 - Neuropil","Neuropil","ATP6V0C",-0.33590799824241
 "420","Hipp. CA1, 019, Neuropil",16563,16483,"Hippocampus CA1 - Neuropil","Neuropil","ATP6V0C",-0.204245021230989
-"421","Cx. II/III, 008, IBA1+",17781,32538,"Cortical layer II/III - IBA1+","IBA1+","ATP6V0C",-0.148589657961251
-"422","Hipp. CA1, 021, IBA1+",19727,22092,"Hippocampus CA1 - IBA1+","IBA1+","ATP6V0C",-0.294447955941466
+"421","Cx. II/III, 008, Iba1+",17781,32538,"Cortical layer II/III - Iba1+","Iba1+","ATP6V0C",-0.148589657961251
+"422","Hipp. CA1, 021, Iba1+",19727,22092,"Hippocampus CA1 - Iba1+","Iba1+","ATP6V0C",-0.294447955941466
 "423","Hipp. Hilus, 015, Neuropil",24204.931640625,16611.033203125,"Hippocampal hilus - Neuropil","Neuropil","ATP6V0C",-0.757631357904024
 "424","Hipp. Hilus, 016, Neuropil",26931.96875,17934.740234375,"Hippocampal hilus - Neuropil","Neuropil","ATP6V0C",-0.941225847893782
 "425","Cx. II/III, 008, GFAP+",17781,32538,"Cortical layer II/III - GFAP+","GFAP+","ATP6V0C",-1.00499981812143
@@ -441,13 +441,13 @@
 "440","Hipp. CA1, 017, NeuN+",17683,20128,"Hippocampus CA1 - NeuN+","NeuN+","ATP1B1",1.46770904792206
 "441","Hipp. CA1, 019, NeuN+",16563,16483,"Hippocampus CA1 - NeuN+","NeuN+","ATP1B1",1.59468470692004
 "442","Cx. II/III, 032, GFAP+",12988,25768,"Cortical layer II/III - GFAP+","GFAP+","ATP1B1",-1.07211755718498
-"443","Cx. V, 009, IBA1+",19978,31299,"Cortical layer V - IBA1+","IBA1+","ATP1B1",-1.1925692631173
-"444","Cx. V, 033, IBA1+",14266,22500,"Cortical layer V - IBA1+","IBA1+","ATP1B1",-0.696560594261667
+"443","Cx. V, 009, Iba1+",19978,31299,"Cortical layer V - Iba1+","Iba1+","ATP1B1",-1.1925692631173
+"444","Cx. V, 033, Iba1+",14266,22500,"Cortical layer V - Iba1+","Iba1+","ATP1B1",-0.696560594261667
 "445","Cx. V, 009, Neuropil",19978,31299,"Cortical layer V - Neuropil","Neuropil","ATP1B1",-0.517068597057408
-"446","Hipp. CA1, 017, IBA1+",17683,20128,"Hippocampus CA1 - IBA1+","IBA1+","ATP1B1",-0.70805047822046
-"447","Hipp. CA1, 019, IBA1+",16563,16483,"Hippocampus CA1 - IBA1+","IBA1+","ATP1B1",-0.279688250633627
-"448","Cx. II/III, 036, IBA1+",11922,23565,"Cortical layer II/III - IBA1+","IBA1+","ATP1B1",-0.432345856158051
-"449","Cx. V, 007, IBA1+",15150,24659,"Cortical layer V - IBA1+","IBA1+","ATP1B1",-0.761233733904392
+"446","Hipp. CA1, 017, Iba1+",17683,20128,"Hippocampus CA1 - Iba1+","Iba1+","ATP1B1",-0.70805047822046
+"447","Hipp. CA1, 019, Iba1+",16563,16483,"Hippocampus CA1 - Iba1+","Iba1+","ATP1B1",-0.279688250633627
+"448","Cx. II/III, 036, Iba1+",11922,23565,"Cortical layer II/III - Iba1+","Iba1+","ATP1B1",-0.432345856158051
+"449","Cx. V, 007, Iba1+",15150,24659,"Cortical layer V - Iba1+","Iba1+","ATP1B1",-0.761233733904392
 "450","Hipp. Hilus, 014, Neuropil",29808.294921875,17616.25390625,"Hippocampal hilus - Neuropil","Neuropil","ATP1B1",-0.38025712792088
 "451","Cx. II/III, 008, Neuropil",17781,32538,"Cortical layer II/III - Neuropil","Neuropil","ATP1B1",-0.2483648164121
 "452","Cx. V, 033, Neuropil",14266,22500,"Cortical layer V - Neuropil","Neuropil","ATP1B1",-0.495292056150918
@@ -455,11 +455,11 @@
 "454","Hipp. CA1, 021, Neuropil",19727,22092,"Hippocampus CA1 - Neuropil","Neuropil","ATP1B1",-0.54469169786188
 "455","Cx. II/III, 036, Neuropil",11922,23565,"Cortical layer II/III - Neuropil","Neuropil","ATP1B1",-0.578088086107062
 "456","Cx. II/III, 032, Neuropil",12988,25768,"Cortical layer II/III - Neuropil","Neuropil","ATP1B1",-0.904515505773561
-"457","Cx. II/III, 032, IBA1+",12988,25768,"Cortical layer II/III - IBA1+","IBA1+","ATP1B1",-0.657231719410051
+"457","Cx. II/III, 032, Iba1+",12988,25768,"Cortical layer II/III - Iba1+","Iba1+","ATP1B1",-0.657231719410051
 "458","Hipp. CA1, 017, Neuropil",17683,20128,"Hippocampus CA1 - Neuropil","Neuropil","ATP1B1",-0.525610857205376
 "459","Hipp. CA1, 019, Neuropil",16563,16483,"Hippocampus CA1 - Neuropil","Neuropil","ATP1B1",-0.218817320330309
-"460","Cx. II/III, 008, IBA1+",17781,32538,"Cortical layer II/III - IBA1+","IBA1+","ATP1B1",-1.07211755718498
-"461","Hipp. CA1, 021, IBA1+",19727,22092,"Hippocampus CA1 - IBA1+","IBA1+","ATP1B1",-0.110905782152118
+"460","Cx. II/III, 008, Iba1+",17781,32538,"Cortical layer II/III - Iba1+","Iba1+","ATP1B1",-1.07211755718498
+"461","Hipp. CA1, 021, Iba1+",19727,22092,"Hippocampus CA1 - Iba1+","Iba1+","ATP1B1",-0.110905782152118
 "462","Hipp. Hilus, 015, Neuropil",24204.931640625,16611.033203125,"Hippocampal hilus - Neuropil","Neuropil","ATP1B1",-0.82911012558206
 "463","Hipp. Hilus, 016, Neuropil",26931.96875,17934.740234375,"Hippocampal hilus - Neuropil","Neuropil","ATP1B1",-0.584507158730979
 "464","Cx. II/III, 008, GFAP+",17781,32538,"Cortical layer II/III - GFAP+","GFAP+","ATP1B1",-0.608576128379969
@@ -480,13 +480,13 @@
 "479","Hipp. CA1, 017, NeuN+",17683,20128,"Hippocampus CA1 - NeuN+","NeuN+","STXBP1",1.23765268376478
 "480","Hipp. CA1, 019, NeuN+",16563,16483,"Hippocampus CA1 - NeuN+","NeuN+","STXBP1",1.4093556368562
 "481","Cx. II/III, 032, GFAP+",12988,25768,"Cortical layer II/III - GFAP+","GFAP+","STXBP1",-0.282835022844992
-"482","Cx. V, 009, IBA1+",19978,31299,"Cortical layer V - IBA1+","IBA1+","STXBP1",-1.08214580533004
-"483","Cx. V, 033, IBA1+",14266,22500,"Cortical layer V - IBA1+","IBA1+","STXBP1",-0.671243562406027
+"482","Cx. V, 009, Iba1+",19978,31299,"Cortical layer V - Iba1+","Iba1+","STXBP1",-1.08214580533004
+"483","Cx. V, 033, Iba1+",14266,22500,"Cortical layer V - Iba1+","Iba1+","STXBP1",-0.671243562406027
 "484","Cx. V, 009, Neuropil",19978,31299,"Cortical layer V - Neuropil","Neuropil","STXBP1",-0.913913864016703
-"485","Hipp. CA1, 017, IBA1+",17683,20128,"Hippocampus CA1 - IBA1+","IBA1+","STXBP1",-1.27287145000635
-"486","Hipp. CA1, 019, IBA1+",16563,16483,"Hippocampus CA1 - IBA1+","IBA1+","STXBP1",-0.70740551020487
-"487","Cx. II/III, 036, IBA1+",11922,23565,"Cortical layer II/III - IBA1+","IBA1+","STXBP1",-0.693737265769002
-"488","Cx. V, 007, IBA1+",15150,24659,"Cortical layer V - IBA1+","IBA1+","STXBP1",-0.836688535725352
+"485","Hipp. CA1, 017, Iba1+",17683,20128,"Hippocampus CA1 - Iba1+","Iba1+","STXBP1",-1.27287145000635
+"486","Hipp. CA1, 019, Iba1+",16563,16483,"Hippocampus CA1 - Iba1+","Iba1+","STXBP1",-0.70740551020487
+"487","Cx. II/III, 036, Iba1+",11922,23565,"Cortical layer II/III - Iba1+","Iba1+","STXBP1",-0.693737265769002
+"488","Cx. V, 007, Iba1+",15150,24659,"Cortical layer V - Iba1+","Iba1+","STXBP1",-0.836688535725352
 "489","Hipp. Hilus, 014, Neuropil",29808.294921875,17616.25390625,"Hippocampal hilus - Neuropil","Neuropil","STXBP1",-1.03046965495606
 "490","Cx. II/III, 008, Neuropil",17781,32538,"Cortical layer II/III - Neuropil","Neuropil","STXBP1",0.273445543539945
 "491","Cx. V, 033, Neuropil",14266,22500,"Cortical layer V - Neuropil","Neuropil","STXBP1",-0.184291080227546
@@ -494,11 +494,11 @@
 "493","Hipp. CA1, 021, Neuropil",19727,22092,"Hippocampus CA1 - Neuropil","Neuropil","STXBP1",-0.919396867463025
 "494","Cx. II/III, 036, Neuropil",11922,23565,"Cortical layer II/III - Neuropil","Neuropil","STXBP1",-0.542146141543563
 "495","Cx. II/III, 032, Neuropil",12988,25768,"Cortical layer II/III - Neuropil","Neuropil","STXBP1",-0.315421698079263
-"496","Cx. II/III, 032, IBA1+",12988,25768,"Cortical layer II/III - IBA1+","IBA1+","STXBP1",-0.627291767089408
+"496","Cx. II/III, 032, Iba1+",12988,25768,"Cortical layer II/III - Iba1+","Iba1+","STXBP1",-0.627291767089408
 "497","Hipp. CA1, 017, Neuropil",17683,20128,"Hippocampus CA1 - Neuropil","Neuropil","STXBP1",-0.565805057839466
 "498","Hipp. CA1, 019, Neuropil",16563,16483,"Hippocampus CA1 - Neuropil","Neuropil","STXBP1",-0.430492460629872
-"499","Cx. II/III, 008, IBA1+",17781,32538,"Cortical layer II/III - IBA1+","IBA1+","STXBP1",-0.216389524165398
-"500","Hipp. CA1, 021, IBA1+",19727,22092,"Hippocampus CA1 - IBA1+","IBA1+","STXBP1",-0.301506146804623
+"499","Cx. II/III, 008, Iba1+",17781,32538,"Cortical layer II/III - Iba1+","Iba1+","STXBP1",-0.216389524165398
+"500","Hipp. CA1, 021, Iba1+",19727,22092,"Hippocampus CA1 - Iba1+","Iba1+","STXBP1",-0.301506146804623
 "501","Hipp. Hilus, 015, Neuropil",24204.931640625,16611.033203125,"Hippocampal hilus - Neuropil","Neuropil","STXBP1",-1.28365127961811
 "502","Hipp. Hilus, 016, Neuropil",26931.96875,17934.740234375,"Hippocampal hilus - Neuropil","Neuropil","STXBP1",-1.1602155443133
 "503","Cx. II/III, 008, GFAP+",17781,32538,"Cortical layer II/III - GFAP+","GFAP+","STXBP1",-0.671243562406028
@@ -519,13 +519,13 @@
 "518","Hipp. CA1, 017, NeuN+",17683,20128,"Hippocampus CA1 - NeuN+","NeuN+","ENC1",1.38600819584458
 "519","Hipp. CA1, 019, NeuN+",16563,16483,"Hippocampus CA1 - NeuN+","NeuN+","ENC1",1.40165791054393
 "520","Cx. II/III, 032, GFAP+",12988,25768,"Cortical layer II/III - GFAP+","GFAP+","ENC1",-0.634153526719469
-"521","Cx. V, 009, IBA1+",19978,31299,"Cortical layer V - IBA1+","IBA1+","ENC1",-0.835622475477405
-"522","Cx. V, 033, IBA1+",14266,22500,"Cortical layer V - IBA1+","IBA1+","ENC1",-1.03756812660918
+"521","Cx. V, 009, Iba1+",19978,31299,"Cortical layer V - Iba1+","Iba1+","ENC1",-0.835622475477405
+"522","Cx. V, 033, Iba1+",14266,22500,"Cortical layer V - Iba1+","Iba1+","ENC1",-1.03756812660918
 "523","Cx. V, 009, Neuropil",19978,31299,"Cortical layer V - Neuropil","Neuropil","ENC1",-0.52306451411686
-"524","Hipp. CA1, 017, IBA1+",17683,20128,"Hippocampus CA1 - IBA1+","IBA1+","ENC1",-0.596006993621526
-"525","Hipp. CA1, 019, IBA1+",16563,16483,"Hippocampus CA1 - IBA1+","IBA1+","ENC1",-0.262124514805342
-"526","Cx. II/III, 036, IBA1+",11922,23565,"Cortical layer II/III - IBA1+","IBA1+","ENC1",-0.488142077785237
-"527","Cx. V, 007, IBA1+",15150,24659,"Cortical layer V - IBA1+","IBA1+","ENC1",-1.15631690961803
+"524","Hipp. CA1, 017, Iba1+",17683,20128,"Hippocampus CA1 - Iba1+","Iba1+","ENC1",-0.596006993621526
+"525","Hipp. CA1, 019, Iba1+",16563,16483,"Hippocampus CA1 - Iba1+","Iba1+","ENC1",-0.262124514805342
+"526","Cx. II/III, 036, Iba1+",11922,23565,"Cortical layer II/III - Iba1+","Iba1+","ENC1",-0.488142077785237
+"527","Cx. V, 007, Iba1+",15150,24659,"Cortical layer V - Iba1+","Iba1+","ENC1",-1.15631690961803
 "528","Hipp. Hilus, 014, Neuropil",29808.294921875,17616.25390625,"Hippocampal hilus - Neuropil","Neuropil","ENC1",-0.694310776989286
 "529","Cx. II/III, 008, Neuropil",17781,32538,"Cortical layer II/III - Neuropil","Neuropil","ENC1",0.0297094242169508
 "530","Cx. V, 033, Neuropil",14266,22500,"Cortical layer V - Neuropil","Neuropil","ENC1",-0.558999334749652
@@ -533,11 +533,11 @@
 "532","Hipp. CA1, 021, Neuropil",19727,22092,"Hippocampus CA1 - Neuropil","Neuropil","ENC1",-0.455332406358518
 "533","Cx. II/III, 036, Neuropil",11922,23565,"Cortical layer II/III - Neuropil","Neuropil","ENC1",-0.224241232017222
 "534","Cx. II/III, 032, Neuropil",12988,25768,"Cortical layer II/III - Neuropil","Neuropil","ENC1",0.0502263006765554
-"535","Cx. II/III, 032, IBA1+",12988,25768,"Cortical layer II/III - IBA1+","IBA1+","ENC1",-0.080907245263964
+"535","Cx. II/III, 032, Iba1+",12988,25768,"Cortical layer II/III - Iba1+","Iba1+","ENC1",-0.080907245263964
 "536","Hipp. CA1, 017, Neuropil",17683,20128,"Hippocampus CA1 - Neuropil","Neuropil","ENC1",-0.272535675645084
 "537","Hipp. CA1, 019, Neuropil",16563,16483,"Hippocampus CA1 - Neuropil","Neuropil","ENC1",-0.0996430856421173
-"538","Cx. II/III, 008, IBA1+",17781,32538,"Cortical layer II/III - IBA1+","IBA1+","ENC1",-0.534927422901531
-"539","Hipp. CA1, 021, IBA1+",19727,22092,"Hippocampus CA1 - IBA1+","IBA1+","ENC1",-0.606294724928845
+"538","Cx. II/III, 008, Iba1+",17781,32538,"Cortical layer II/III - Iba1+","Iba1+","ENC1",-0.534927422901531
+"539","Hipp. CA1, 021, Iba1+",19727,22092,"Hippocampus CA1 - Iba1+","Iba1+","ENC1",-0.606294724928845
 "540","Hipp. Hilus, 015, Neuropil",24204.931640625,16611.033203125,"Hippocampal hilus - Neuropil","Neuropil","ENC1",-1.52648316459581
 "541","Hipp. Hilus, 016, Neuropil",26931.96875,17934.740234375,"Hippocampal hilus - Neuropil","Neuropil","ENC1",-1.06319253021673
 "542","Cx. II/III, 008, GFAP+",17781,32538,"Cortical layer II/III - GFAP+","GFAP+","ENC1",-1.13679423042712
@@ -558,13 +558,13 @@
 "557","Hipp. CA1, 017, NeuN+",17683,20128,"Hippocampus CA1 - NeuN+","NeuN+","MDH1",1.44715972048021
 "558","Hipp. CA1, 019, NeuN+",16563,16483,"Hippocampus CA1 - NeuN+","NeuN+","MDH1",1.42688800923299
 "559","Cx. II/III, 032, GFAP+",12988,25768,"Cortical layer II/III - GFAP+","GFAP+","MDH1",-1.8276405229341
-"560","Cx. V, 009, IBA1+",19978,31299,"Cortical layer V - IBA1+","IBA1+","MDH1",-0.0397196091970413
-"561","Cx. V, 033, IBA1+",14266,22500,"Cortical layer V - IBA1+","IBA1+","MDH1",-0.222581427741565
+"560","Cx. V, 009, Iba1+",19978,31299,"Cortical layer V - Iba1+","Iba1+","MDH1",-0.0397196091970413
+"561","Cx. V, 033, Iba1+",14266,22500,"Cortical layer V - Iba1+","Iba1+","MDH1",-0.222581427741565
 "562","Cx. V, 009, Neuropil",19978,31299,"Cortical layer V - Neuropil","Neuropil","MDH1",-0.642881411343935
-"563","Hipp. CA1, 017, IBA1+",17683,20128,"Hippocampus CA1 - IBA1+","IBA1+","MDH1",-0.72638915374486
-"564","Hipp. CA1, 019, IBA1+",16563,16483,"Hippocampus CA1 - IBA1+","IBA1+","MDH1",-0.0397196091970413
-"565","Cx. II/III, 036, IBA1+",11922,23565,"Cortical layer II/III - IBA1+","IBA1+","MDH1",-0.563889863418641
-"566","Cx. V, 007, IBA1+",15150,24659,"Cortical layer V - IBA1+","IBA1+","MDH1",-1.01004871233454
+"563","Hipp. CA1, 017, Iba1+",17683,20128,"Hippocampus CA1 - Iba1+","Iba1+","MDH1",-0.72638915374486
+"564","Hipp. CA1, 019, Iba1+",16563,16483,"Hippocampus CA1 - Iba1+","Iba1+","MDH1",-0.0397196091970413
+"565","Cx. II/III, 036, Iba1+",11922,23565,"Cortical layer II/III - Iba1+","Iba1+","MDH1",-0.563889863418641
+"566","Cx. V, 007, Iba1+",15150,24659,"Cortical layer V - Iba1+","Iba1+","MDH1",-1.01004871233454
 "567","Hipp. Hilus, 014, Neuropil",29808.294921875,17616.25390625,"Hippocampal hilus - Neuropil","Neuropil","MDH1",-1.1506144968944
 "568","Cx. II/III, 008, Neuropil",17781,32538,"Cortical layer II/III - Neuropil","Neuropil","MDH1",-0.942083539385485
 "569","Cx. V, 033, Neuropil",14266,22500,"Cortical layer V - Neuropil","Neuropil","MDH1",-0.642881411343935
@@ -572,11 +572,11 @@
 "571","Hipp. CA1, 021, Neuropil",19727,22092,"Hippocampus CA1 - Neuropil","Neuropil","MDH1",-0.582569413304966
 "572","Cx. II/III, 036, Neuropil",11922,23565,"Cortical layer II/III - Neuropil","Neuropil","MDH1",-0.209478310767458
 "573","Cx. II/III, 032, Neuropil",12988,25768,"Cortical layer II/III - Neuropil","Neuropil","MDH1",-0.535831623148807
-"574","Cx. II/III, 032, IBA1+",12988,25768,"Cortical layer II/III - IBA1+","IBA1+","MDH1",-0.284760503030802
+"574","Cx. II/III, 032, Iba1+",12988,25768,"Cortical layer II/III - Iba1+","Iba1+","MDH1",-0.284760503030802
 "575","Hipp. CA1, 017, Neuropil",17683,20128,"Hippocampus CA1 - Neuropil","Neuropil","MDH1",-0.658676027333048
 "576","Hipp. CA1, 019, Neuropil",16563,16483,"Hippocampus CA1 - Neuropil","Neuropil","MDH1",-0.400379158895227
-"577","Cx. II/III, 008, IBA1+",17781,32538,"Cortical layer II/III - IBA1+","IBA1+","MDH1",-0.306089170142491
-"578","Hipp. CA1, 021, IBA1+",19727,22092,"Hippocampus CA1 - IBA1+","IBA1+","MDH1",-0.570897012340089
+"577","Cx. II/III, 008, Iba1+",17781,32538,"Cortical layer II/III - Iba1+","Iba1+","MDH1",-0.306089170142491
+"578","Hipp. CA1, 021, Iba1+",19727,22092,"Hippocampus CA1 - Iba1+","Iba1+","MDH1",-0.570897012340089
 "579","Hipp. Hilus, 015, Neuropil",24204.931640625,16611.033203125,"Hippocampal hilus - Neuropil","Neuropil","MDH1",-1.03590757764807
 "580","Hipp. Hilus, 016, Neuropil",26931.96875,17934.740234375,"Hippocampal hilus - Neuropil","Neuropil","MDH1",-0.996787007816232
 "581","Cx. II/III, 008, GFAP+",17781,32538,"Cortical layer II/III - GFAP+","GFAP+","MDH1",-0.814960983536648
@@ -597,13 +597,13 @@
 "596","Hipp. CA1, 017, NeuN+",17683,20128,"Hippocampus CA1 - NeuN+","NeuN+","DNM1",1.38311527771087
 "597","Hipp. CA1, 019, NeuN+",16563,16483,"Hippocampus CA1 - NeuN+","NeuN+","DNM1",1.56273289705277
 "598","Cx. II/III, 032, GFAP+",12988,25768,"Cortical layer II/III - GFAP+","GFAP+","DNM1",-0.63703733233581
-"599","Cx. V, 009, IBA1+",19978,31299,"Cortical layer V - IBA1+","IBA1+","DNM1",-0.206657260502797
-"600","Cx. V, 033, IBA1+",14266,22500,"Cortical layer V - IBA1+","IBA1+","DNM1",-0.958492447867296
+"599","Cx. V, 009, Iba1+",19978,31299,"Cortical layer V - Iba1+","Iba1+","DNM1",-0.206657260502797
+"600","Cx. V, 033, Iba1+",14266,22500,"Cortical layer V - Iba1+","Iba1+","DNM1",-0.958492447867296
 "601","Cx. V, 009, Neuropil",19978,31299,"Cortical layer V - Neuropil","Neuropil","DNM1",-0.229704647028467
-"602","Hipp. CA1, 017, IBA1+",17683,20128,"Hippocampus CA1 - IBA1+","IBA1+","DNM1",-0.902627877416129
-"603","Hipp. CA1, 019, IBA1+",16563,16483,"Hippocampus CA1 - IBA1+","IBA1+","DNM1",0.0416867939161134
-"604","Cx. II/III, 036, IBA1+",11922,23565,"Cortical layer II/III - IBA1+","IBA1+","DNM1",-0.719588254343837
-"605","Cx. V, 007, IBA1+",15150,24659,"Cortical layer V - IBA1+","IBA1+","DNM1",-0.41722446853665
+"602","Hipp. CA1, 017, Iba1+",17683,20128,"Hippocampus CA1 - Iba1+","Iba1+","DNM1",-0.902627877416129
+"603","Hipp. CA1, 019, Iba1+",16563,16483,"Hippocampus CA1 - Iba1+","Iba1+","DNM1",0.0416867939161134
+"604","Cx. II/III, 036, Iba1+",11922,23565,"Cortical layer II/III - Iba1+","Iba1+","DNM1",-0.719588254343837
+"605","Cx. V, 007, Iba1+",15150,24659,"Cortical layer V - Iba1+","Iba1+","DNM1",-0.41722446853665
 "606","Hipp. Hilus, 014, Neuropil",29808.294921875,17616.25390625,"Hippocampal hilus - Neuropil","Neuropil","DNM1",-0.956570440975616
 "607","Cx. II/III, 008, Neuropil",17781,32538,"Cortical layer II/III - Neuropil","Neuropil","DNM1",-0.191519860807155
 "608","Cx. V, 033, Neuropil",14266,22500,"Cortical layer V - Neuropil","Neuropil","DNM1",-0.41722446853665
@@ -611,11 +611,11 @@
 "610","Hipp. CA1, 021, Neuropil",19727,22092,"Hippocampus CA1 - Neuropil","Neuropil","DNM1",-0.414905165370387
 "611","Cx. II/III, 036, Neuropil",11922,23565,"Cortical layer II/III - Neuropil","Neuropil","DNM1",-0.444812065867808
 "612","Cx. II/III, 032, Neuropil",12988,25768,"Cortical layer II/III - Neuropil","Neuropil","DNM1",-0.779305524532304
-"613","Cx. II/III, 032, IBA1+",12988,25768,"Cortical layer II/III - IBA1+","IBA1+","DNM1",-0.719588254343837
+"613","Cx. II/III, 032, Iba1+",12988,25768,"Cortical layer II/III - Iba1+","Iba1+","DNM1",-0.719588254343837
 "614","Hipp. CA1, 017, Neuropil",17683,20128,"Hippocampus CA1 - Neuropil","Neuropil","DNM1",-0.722341959058084
 "615","Hipp. CA1, 019, Neuropil",16563,16483,"Hippocampus CA1 - Neuropil","Neuropil","DNM1",-0.902627877416129
-"616","Cx. II/III, 008, IBA1+",17781,32538,"Cortical layer II/III - IBA1+","IBA1+","DNM1",-0.870243987059078
-"617","Hipp. CA1, 021, IBA1+",19727,22092,"Hippocampus CA1 - IBA1+","IBA1+","DNM1",-0.118408799694581
+"616","Cx. II/III, 008, Iba1+",17781,32538,"Cortical layer II/III - Iba1+","Iba1+","DNM1",-0.870243987059078
+"617","Hipp. CA1, 021, Iba1+",19727,22092,"Hippocampus CA1 - Iba1+","Iba1+","DNM1",-0.118408799694581
 "618","Hipp. Hilus, 015, Neuropil",24204.931640625,16611.033203125,"Hippocampal hilus - Neuropil","Neuropil","DNM1",-1.26085623367448
 "619","Hipp. Hilus, 016, Neuropil",26931.96875,17934.740234375,"Hippocampal hilus - Neuropil","Neuropil","DNM1",-1.19014491607403
 "620","Cx. II/III, 008, GFAP+",17781,32538,"Cortical layer II/III - GFAP+","GFAP+","DNM1",-0.870243987059079
@@ -636,13 +636,13 @@
 "635","Hipp. CA1, 017, NeuN+",17683,20128,"Hippocampus CA1 - NeuN+","NeuN+","PMP2",-1.34484730053833
 "636","Hipp. CA1, 019, NeuN+",16563,16483,"Hippocampus CA1 - NeuN+","NeuN+","PMP2",-1.74895355656192
 "637","Cx. II/III, 032, GFAP+",12988,25768,"Cortical layer II/III - GFAP+","GFAP+","PMP2",0.761774724843955
-"638","Cx. V, 009, IBA1+",19978,31299,"Cortical layer V - IBA1+","IBA1+","PMP2",-0.0423813936781011
-"639","Cx. V, 033, IBA1+",14266,22500,"Cortical layer V - IBA1+","IBA1+","PMP2",0.333956705496083
+"638","Cx. V, 009, Iba1+",19978,31299,"Cortical layer V - Iba1+","Iba1+","PMP2",-0.0423813936781011
+"639","Cx. V, 033, Iba1+",14266,22500,"Cortical layer V - Iba1+","Iba1+","PMP2",0.333956705496083
 "640","Cx. V, 009, Neuropil",19978,31299,"Cortical layer V - Neuropil","Neuropil","PMP2",0.716868838786798
-"641","Hipp. CA1, 017, IBA1+",17683,20128,"Hippocampus CA1 - IBA1+","IBA1+","PMP2",0.193063852397249
-"642","Hipp. CA1, 019, IBA1+",16563,16483,"Hippocampus CA1 - IBA1+","IBA1+","PMP2",0.688978341040702
-"643","Cx. II/III, 036, IBA1+",11922,23565,"Cortical layer II/III - IBA1+","IBA1+","PMP2",0.193063852397249
-"644","Cx. V, 007, IBA1+",15150,24659,"Cortical layer V - IBA1+","IBA1+","PMP2",0.761774724843956
+"641","Hipp. CA1, 017, Iba1+",17683,20128,"Hippocampus CA1 - Iba1+","Iba1+","PMP2",0.193063852397249
+"642","Hipp. CA1, 019, Iba1+",16563,16483,"Hippocampus CA1 - Iba1+","Iba1+","PMP2",0.688978341040702
+"643","Cx. II/III, 036, Iba1+",11922,23565,"Cortical layer II/III - Iba1+","Iba1+","PMP2",0.193063852397249
+"644","Cx. V, 007, Iba1+",15150,24659,"Cortical layer V - Iba1+","Iba1+","PMP2",0.761774724843956
 "645","Hipp. Hilus, 014, Neuropil",29808.294921875,17616.25390625,"Hippocampal hilus - Neuropil","Neuropil","PMP2",1.3982927919957
 "646","Cx. II/III, 008, Neuropil",17781,32538,"Cortical layer II/III - Neuropil","Neuropil","PMP2",0.592592534809856
 "647","Cx. V, 033, Neuropil",14266,22500,"Cortical layer V - Neuropil","Neuropil","PMP2",0.761774724843955
@@ -650,11 +650,11 @@
 "649","Hipp. CA1, 021, Neuropil",19727,22092,"Hippocampus CA1 - Neuropil","Neuropil","PMP2",0.619147887686204
 "650","Cx. II/III, 036, Neuropil",11922,23565,"Cortical layer II/III - Neuropil","Neuropil","PMP2",0.789913167383199
 "651","Cx. II/III, 032, Neuropil",12988,25768,"Cortical layer II/III - Neuropil","Neuropil","PMP2",0.535544638325205
-"652","Cx. II/III, 032, IBA1+",12988,25768,"Cortical layer II/III - IBA1+","IBA1+","PMP2",0.515280905957676
+"652","Cx. II/III, 032, Iba1+",12988,25768,"Cortical layer II/III - Iba1+","Iba1+","PMP2",0.515280905957676
 "653","Hipp. CA1, 017, Neuropil",17683,20128,"Hippocampus CA1 - Neuropil","Neuropil","PMP2",0.562572613409851
 "654","Hipp. CA1, 019, Neuropil",16563,16483,"Hippocampus CA1 - Neuropil","Neuropil","PMP2",0.515280905957676
-"655","Cx. II/III, 008, IBA1+",17781,32538,"Cortical layer II/III - IBA1+","IBA1+","PMP2",0.818822621328607
-"656","Hipp. CA1, 021, IBA1+",19727,22092,"Hippocampus CA1 - IBA1+","IBA1+","PMP2",0.729306653486882
+"655","Cx. II/III, 008, Iba1+",17781,32538,"Cortical layer II/III - Iba1+","Iba1+","PMP2",0.818822621328607
+"656","Hipp. CA1, 021, Iba1+",19727,22092,"Hippocampus CA1 - Iba1+","Iba1+","PMP2",0.729306653486882
 "657","Hipp. Hilus, 015, Neuropil",24204.931640625,16611.033203125,"Hippocampal hilus - Neuropil","Neuropil","PMP2",0.786171859457289
 "658","Hipp. Hilus, 016, Neuropil",26931.96875,17934.740234375,"Hippocampal hilus - Neuropil","Neuropil","PMP2",0.881885492173409
 "659","Cx. II/III, 008, GFAP+",17781,32538,"Cortical layer II/III - GFAP+","GFAP+","PMP2",0.637498420867013
@@ -675,13 +675,13 @@
 "674","Hipp. CA1, 017, NeuN+",17683,20128,"Hippocampus CA1 - NeuN+","NeuN+","NDRG2",-1.63821239153194
 "675","Hipp. CA1, 019, NeuN+",16563,16483,"Hippocampus CA1 - NeuN+","NeuN+","NDRG2",-2.20812779358892
 "676","Cx. II/III, 032, GFAP+",12988,25768,"Cortical layer II/III - GFAP+","GFAP+","NDRG2",0.568684548206816
-"677","Cx. V, 009, IBA1+",19978,31299,"Cortical layer V - IBA1+","IBA1+","NDRG2",0.347654183541017
-"678","Cx. V, 033, IBA1+",14266,22500,"Cortical layer V - IBA1+","IBA1+","NDRG2",0.636356803672403
+"677","Cx. V, 009, Iba1+",19978,31299,"Cortical layer V - Iba1+","Iba1+","NDRG2",0.347654183541017
+"678","Cx. V, 033, Iba1+",14266,22500,"Cortical layer V - Iba1+","Iba1+","NDRG2",0.636356803672403
 "679","Cx. V, 009, Neuropil",19978,31299,"Cortical layer V - Neuropil","Neuropil","NDRG2",0.0849565186856896
-"680","Hipp. CA1, 017, IBA1+",17683,20128,"Hippocampus CA1 - IBA1+","IBA1+","NDRG2",0.221798562801594
-"681","Hipp. CA1, 019, IBA1+",16563,16483,"Hippocampus CA1 - IBA1+","IBA1+","NDRG2",0.148883855048379
-"682","Cx. II/III, 036, IBA1+",11922,23565,"Cortical layer II/III - IBA1+","IBA1+","NDRG2",0.42346942022727
-"683","Cx. V, 007, IBA1+",15150,24659,"Cortical layer V - IBA1+","IBA1+","NDRG2",0.675295941704639
+"680","Hipp. CA1, 017, Iba1+",17683,20128,"Hippocampus CA1 - Iba1+","Iba1+","NDRG2",0.221798562801594
+"681","Hipp. CA1, 019, Iba1+",16563,16483,"Hippocampus CA1 - Iba1+","Iba1+","NDRG2",0.148883855048379
+"682","Cx. II/III, 036, Iba1+",11922,23565,"Cortical layer II/III - Iba1+","Iba1+","NDRG2",0.42346942022727
+"683","Cx. V, 007, Iba1+",15150,24659,"Cortical layer V - Iba1+","Iba1+","NDRG2",0.675295941704639
 "684","Hipp. Hilus, 014, Neuropil",29808.294921875,17616.25390625,"Hippocampal hilus - Neuropil","Neuropil","NDRG2",0.804579255618265
 "685","Cx. II/III, 008, Neuropil",17781,32538,"Cortical layer II/III - Neuropil","Neuropil","NDRG2",0.708427121255761
 "686","Cx. V, 033, Neuropil",14266,22500,"Cortical layer V - Neuropil","Neuropil","NDRG2",0.789714912872616
@@ -689,11 +689,11 @@
 "688","Hipp. CA1, 021, Neuropil",19727,22092,"Hippocampus CA1 - Neuropil","Neuropil","NDRG2",0.460519381962406
 "689","Cx. II/III, 036, Neuropil",11922,23565,"Cortical layer II/III - Neuropil","Neuropil","NDRG2",0.866938152529199
 "690","Cx. II/III, 032, Neuropil",12988,25768,"Cortical layer II/III - Neuropil","Neuropil","NDRG2",0.814982516227812
-"691","Cx. II/III, 032, IBA1+",12988,25768,"Cortical layer II/III - IBA1+","IBA1+","NDRG2",0.522605080709409
+"691","Cx. II/III, 032, Iba1+",12988,25768,"Cortical layer II/III - Iba1+","Iba1+","NDRG2",0.522605080709409
 "692","Hipp. CA1, 017, Neuropil",17683,20128,"Hippocampus CA1 - Neuropil","Neuropil","NDRG2",0.605744666462723
 "693","Hipp. CA1, 019, Neuropil",16563,16483,"Hippocampus CA1 - Neuropil","Neuropil","NDRG2",0.649699428973938
-"694","Cx. II/III, 008, IBA1+",17781,32538,"Cortical layer II/III - IBA1+","IBA1+","NDRG2",0.405937459488676
-"695","Hipp. CA1, 021, IBA1+",19727,22092,"Hippocampus CA1 - IBA1+","IBA1+","NDRG2",0.474276963159247
+"694","Cx. II/III, 008, Iba1+",17781,32538,"Cortical layer II/III - Iba1+","Iba1+","NDRG2",0.405937459488676
+"695","Hipp. CA1, 021, Iba1+",19727,22092,"Hippocampus CA1 - Iba1+","Iba1+","NDRG2",0.474276963159247
 "696","Hipp. Hilus, 015, Neuropil",24204.931640625,16611.033203125,"Hippocampal hilus - Neuropil","Neuropil","NDRG2",0.779871450680078
 "697","Hipp. Hilus, 016, Neuropil",26931.96875,17934.740234375,"Hippocampal hilus - Neuropil","Neuropil","NDRG2",0.644277916839092
 "698","Cx. II/III, 008, GFAP+",17781,32538,"Cortical layer II/III - GFAP+","GFAP+","NDRG2",0.897673050184754
@@ -714,13 +714,13 @@
 "713","Hipp. CA1, 017, NeuN+",17683,20128,"Hippocampus CA1 - NeuN+","NeuN+","S100A1",-1.96621266824739
 "714","Hipp. CA1, 019, NeuN+",16563,16483,"Hippocampus CA1 - NeuN+","NeuN+","S100A1",-1.30355772063872
 "715","Cx. II/III, 032, GFAP+",12988,25768,"Cortical layer II/III - GFAP+","GFAP+","S100A1",1.11569680309295
-"716","Cx. V, 009, IBA1+",19978,31299,"Cortical layer V - IBA1+","IBA1+","S100A1",0.510815500150015
-"717","Cx. V, 033, IBA1+",14266,22500,"Cortical layer V - IBA1+","IBA1+","S100A1",0.976226986471058
+"716","Cx. V, 009, Iba1+",19978,31299,"Cortical layer V - Iba1+","Iba1+","S100A1",0.510815500150015
+"717","Cx. V, 033, Iba1+",14266,22500,"Cortical layer V - Iba1+","Iba1+","S100A1",0.976226986471058
 "718","Cx. V, 009, Neuropil",19978,31299,"Cortical layer V - Neuropil","Neuropil","S100A1",0.079032536660178
-"719","Hipp. CA1, 017, IBA1+",17683,20128,"Hippocampus CA1 - IBA1+","IBA1+","S100A1",0.839067658047904
-"720","Hipp. CA1, 019, IBA1+",16563,16483,"Hippocampus CA1 - IBA1+","IBA1+","S100A1",0.510815500150015
-"721","Cx. II/III, 036, IBA1+",11922,23565,"Cortical layer II/III - IBA1+","IBA1+","S100A1",0.635575502438077
-"722","Cx. V, 007, IBA1+",15150,24659,"Cortical layer V - IBA1+","IBA1+","S100A1",0.477457665358887
+"719","Hipp. CA1, 017, Iba1+",17683,20128,"Hippocampus CA1 - Iba1+","Iba1+","S100A1",0.839067658047904
+"720","Hipp. CA1, 019, Iba1+",16563,16483,"Hippocampus CA1 - Iba1+","Iba1+","S100A1",0.510815500150015
+"721","Cx. II/III, 036, Iba1+",11922,23565,"Cortical layer II/III - Iba1+","Iba1+","S100A1",0.635575502438077
+"722","Cx. V, 007, Iba1+",15150,24659,"Cortical layer V - Iba1+","Iba1+","S100A1",0.477457665358887
 "723","Hipp. Hilus, 014, Neuropil",29808.294921875,17616.25390625,"Hippocampal hilus - Neuropil","Neuropil","S100A1",0.496884459159719
 "724","Cx. II/III, 008, Neuropil",17781,32538,"Cortical layer II/III - Neuropil","Neuropil","S100A1",0.789574640317292
 "725","Cx. V, 033, Neuropil",14266,22500,"Cortical layer V - Neuropil","Neuropil","S100A1",0.929044456939187
@@ -728,11 +728,11 @@
 "727","Hipp. CA1, 021, Neuropil",19727,22092,"Hippocampus CA1 - Neuropil","Neuropil","S100A1",0.550959169134732
 "728","Cx. II/III, 036, Neuropil",11922,23565,"Cortical layer II/III - Neuropil","Neuropil","S100A1",0.968198990798038
 "729","Cx. II/III, 032, Neuropil",12988,25768,"Cortical layer II/III - Neuropil","Neuropil","S100A1",0.538195328659017
-"730","Cx. II/III, 032, IBA1+",12988,25768,"Cortical layer II/III - IBA1+","IBA1+","S100A1",0.294924018405096
+"730","Cx. II/III, 032, Iba1+",12988,25768,"Cortical layer II/III - Iba1+","Iba1+","S100A1",0.294924018405096
 "731","Hipp. CA1, 017, Neuropil",17683,20128,"Hippocampus CA1 - Neuropil","Neuropil","S100A1",0.427298997587605
 "732","Hipp. CA1, 019, Neuropil",16563,16483,"Hippocampus CA1 - Neuropil","Neuropil","S100A1",0.559153837315052
-"733","Cx. II/III, 008, IBA1+",17781,32538,"Cortical layer II/III - IBA1+","IBA1+","S100A1",0.155454201783201
-"734","Hipp. CA1, 021, IBA1+",19727,22092,"Hippocampus CA1 - IBA1+","IBA1+","S100A1",0.833388391400134
+"733","Cx. II/III, 008, Iba1+",17781,32538,"Cortical layer II/III - Iba1+","Iba1+","S100A1",0.155454201783201
+"734","Hipp. CA1, 021, Iba1+",19727,22092,"Hippocampus CA1 - Iba1+","Iba1+","S100A1",0.833388391400134
 "735","Hipp. Hilus, 015, Neuropil",24204.931640625,16611.033203125,"Hippocampal hilus - Neuropil","Neuropil","S100A1",0.77273483086123
 "736","Hipp. Hilus, 016, Neuropil",26931.96875,17934.740234375,"Hippocampal hilus - Neuropil","Neuropil","S100A1",0.610109470919317
 "737","Cx. II/III, 008, GFAP+",17781,32538,"Cortical layer II/III - GFAP+","GFAP+","S100A1",0.419684020693158
@@ -753,13 +753,13 @@
 "752","Hipp. CA1, 017, NeuN+",17683,20128,"Hippocampus CA1 - NeuN+","NeuN+","ATP5MC2",-1.34667304926023
 "753","Hipp. CA1, 019, NeuN+",16563,16483,"Hippocampus CA1 - NeuN+","NeuN+","ATP5MC2",-1.43765266013773
 "754","Cx. II/III, 032, GFAP+",12988,25768,"Cortical layer II/III - GFAP+","GFAP+","ATP5MC2",0.257218317712584
-"755","Cx. V, 009, IBA1+",19978,31299,"Cortical layer V - IBA1+","IBA1+","ATP5MC2",0.50020132776487
-"756","Cx. V, 033, IBA1+",14266,22500,"Cortical layer V - IBA1+","IBA1+","ATP5MC2",0.468935530756717
+"755","Cx. V, 009, Iba1+",19978,31299,"Cortical layer V - Iba1+","Iba1+","ATP5MC2",0.50020132776487
+"756","Cx. V, 033, Iba1+",14266,22500,"Cortical layer V - Iba1+","Iba1+","ATP5MC2",0.468935530756717
 "757","Cx. V, 009, Neuropil",19978,31299,"Cortical layer V - Neuropil","Neuropil","ATP5MC2",0.739251584226378
-"758","Hipp. CA1, 017, IBA1+",17683,20128,"Hippocampus CA1 - IBA1+","IBA1+","ATP5MC2",0.536502748315255
-"759","Hipp. CA1, 019, IBA1+",16563,16483,"Hippocampus CA1 - IBA1+","IBA1+","ATP5MC2",0.530829002525107
-"760","Cx. II/III, 036, IBA1+",11922,23565,"Cortical layer II/III - IBA1+","IBA1+","ATP5MC2",0.478776247814942
-"761","Cx. V, 007, IBA1+",15150,24659,"Cortical layer V - IBA1+","IBA1+","ATP5MC2",0.48855285551229
+"758","Hipp. CA1, 017, Iba1+",17683,20128,"Hippocampus CA1 - Iba1+","Iba1+","ATP5MC2",0.536502748315255
+"759","Hipp. CA1, 019, Iba1+",16563,16483,"Hippocampus CA1 - Iba1+","Iba1+","ATP5MC2",0.530829002525107
+"760","Cx. II/III, 036, Iba1+",11922,23565,"Cortical layer II/III - Iba1+","Iba1+","ATP5MC2",0.478776247814942
+"761","Cx. V, 007, Iba1+",15150,24659,"Cortical layer V - Iba1+","Iba1+","ATP5MC2",0.48855285551229
 "762","Hipp. Hilus, 014, Neuropil",29808.294921875,17616.25390625,"Hippocampal hilus - Neuropil","Neuropil","ATP5MC2",0.389550820625102
 "763","Cx. II/III, 008, Neuropil",17781,32538,"Cortical layer II/III - Neuropil","Neuropil","ATP5MC2",1.05976308527071
 "764","Cx. V, 033, Neuropil",14266,22500,"Cortical layer V - Neuropil","Neuropil","ATP5MC2",0.946840310556921
@@ -767,11 +767,11 @@
 "766","Hipp. CA1, 021, Neuropil",19727,22092,"Hippocampus CA1 - Neuropil","Neuropil","ATP5MC2",0.931660189014104
 "767","Cx. II/III, 036, Neuropil",11922,23565,"Cortical layer II/III - Neuropil","Neuropil","ATP5MC2",1.01271369184221
 "768","Cx. II/III, 032, Neuropil",12988,25768,"Cortical layer II/III - Neuropil","Neuropil","ATP5MC2",0.996279735962494
-"769","Cx. II/III, 032, IBA1+",12988,25768,"Cortical layer II/III - IBA1+","IBA1+","ATP5MC2",0.747474640274328
+"769","Cx. II/III, 032, Iba1+",12988,25768,"Cortical layer II/III - Iba1+","Iba1+","ATP5MC2",0.747474640274328
 "770","Hipp. CA1, 017, Neuropil",17683,20128,"Hippocampus CA1 - Neuropil","Neuropil","ATP5MC2",1.00164898667725
 "771","Hipp. CA1, 019, Neuropil",16563,16483,"Hippocampus CA1 - Neuropil","Neuropil","ATP5MC2",1.03062228665898
-"772","Cx. II/III, 008, IBA1+",17781,32538,"Cortical layer II/III - IBA1+","IBA1+","ATP5MC2",0.582967883320631
-"773","Hipp. CA1, 021, IBA1+",19727,22092,"Hippocampus CA1 - IBA1+","IBA1+","ATP5MC2",0.682729843058282
+"772","Cx. II/III, 008, Iba1+",17781,32538,"Cortical layer II/III - Iba1+","Iba1+","ATP5MC2",0.582967883320631
+"773","Hipp. CA1, 021, Iba1+",19727,22092,"Hippocampus CA1 - Iba1+","Iba1+","ATP5MC2",0.682729843058282
 "774","Hipp. Hilus, 015, Neuropil",24204.931640625,16611.033203125,"Hippocampal hilus - Neuropil","Neuropil","ATP5MC2",0.763644479577419
 "775","Hipp. Hilus, 016, Neuropil",26931.96875,17934.740234375,"Hippocampal hilus - Neuropil","Neuropil","ATP5MC2",0.706259954268285
 "776","Cx. II/III, 008, GFAP+",17781,32538,"Cortical layer II/III - GFAP+","GFAP+","ATP5MC2",0.0804608480423303
@@ -792,13 +792,13 @@
 "791","Hipp. CA1, 017, NeuN+",17683,20128,"Hippocampus CA1 - NeuN+","NeuN+","CST3",-1.16066115480344
 "792","Hipp. CA1, 019, NeuN+",16563,16483,"Hippocampus CA1 - NeuN+","NeuN+","CST3",-0.790125067552827
 "793","Cx. II/III, 032, GFAP+",12988,25768,"Cortical layer II/III - GFAP+","GFAP+","CST3",0.368320996285682
-"794","Cx. V, 009, IBA1+",19978,31299,"Cortical layer V - IBA1+","IBA1+","CST3",0.43637448207767
-"795","Cx. V, 033, IBA1+",14266,22500,"Cortical layer V - IBA1+","IBA1+","CST3",0.341958046927255
+"794","Cx. V, 009, Iba1+",19978,31299,"Cortical layer V - Iba1+","Iba1+","CST3",0.43637448207767
+"795","Cx. V, 033, Iba1+",14266,22500,"Cortical layer V - Iba1+","Iba1+","CST3",0.341958046927255
 "796","Cx. V, 009, Neuropil",19978,31299,"Cortical layer V - Neuropil","Neuropil","CST3",-0.15097725986819
-"797","Hipp. CA1, 017, IBA1+",17683,20128,"Hippocampus CA1 - IBA1+","IBA1+","CST3",0.735597535193498
-"798","Hipp. CA1, 019, IBA1+",16563,16483,"Hippocampus CA1 - IBA1+","IBA1+","CST3",0.788029060453775
-"799","Cx. II/III, 036, IBA1+",11922,23565,"Cortical layer II/III - IBA1+","IBA1+","CST3",0.795868970540736
-"800","Cx. V, 007, IBA1+",15150,24659,"Cortical layer V - IBA1+","IBA1+","CST3",0.671671111614084
+"797","Hipp. CA1, 017, Iba1+",17683,20128,"Hippocampus CA1 - Iba1+","Iba1+","CST3",0.735597535193498
+"798","Hipp. CA1, 019, Iba1+",16563,16483,"Hippocampus CA1 - Iba1+","Iba1+","CST3",0.788029060453775
+"799","Cx. II/III, 036, Iba1+",11922,23565,"Cortical layer II/III - Iba1+","Iba1+","CST3",0.795868970540736
+"800","Cx. V, 007, Iba1+",15150,24659,"Cortical layer V - Iba1+","Iba1+","CST3",0.671671111614084
 "801","Hipp. Hilus, 014, Neuropil",29808.294921875,17616.25390625,"Hippocampal hilus - Neuropil","Neuropil","CST3",0.992223289499241
 "802","Cx. II/III, 008, Neuropil",17781,32538,"Cortical layer II/III - Neuropil","Neuropil","CST3",0.636932716719706
 "803","Cx. V, 033, Neuropil",14266,22500,"Cortical layer V - Neuropil","Neuropil","CST3",0.368320996285682
@@ -806,11 +806,11 @@
 "805","Hipp. CA1, 021, Neuropil",19727,22092,"Hippocampus CA1 - Neuropil","Neuropil","CST3",0.593060726215339
 "806","Cx. II/III, 036, Neuropil",11922,23565,"Cortical layer II/III - Neuropil","Neuropil","CST3",0.532223414936657
 "807","Cx. II/III, 032, Neuropil",12988,25768,"Cortical layer II/III - Neuropil","Neuropil","CST3",0.355915405559879
-"808","Cx. II/III, 032, IBA1+",12988,25768,"Cortical layer II/III - IBA1+","IBA1+","CST3",0.671671111614084
+"808","Cx. II/III, 032, Iba1+",12988,25768,"Cortical layer II/III - Iba1+","Iba1+","CST3",0.671671111614084
 "809","Hipp. CA1, 017, Neuropil",17683,20128,"Hippocampus CA1 - Neuropil","Neuropil","CST3",0.634162315336734
 "810","Hipp. CA1, 019, Neuropil",16563,16483,"Hippocampus CA1 - Neuropil","Neuropil","CST3",0.878015511349169
-"811","Cx. II/III, 008, IBA1+",17781,32538,"Cortical layer II/III - IBA1+","IBA1+","CST3",0.834217307506733
-"812","Hipp. CA1, 021, IBA1+",19727,22092,"Hippocampus CA1 - IBA1+","IBA1+","CST3",0.777965942027677
+"811","Cx. II/III, 008, Iba1+",17781,32538,"Cortical layer II/III - Iba1+","Iba1+","CST3",0.834217307506733
+"812","Hipp. CA1, 021, Iba1+",19727,22092,"Hippocampus CA1 - Iba1+","Iba1+","CST3",0.777965942027677
 "813","Hipp. Hilus, 015, Neuropil",24204.931640625,16611.033203125,"Hippocampal hilus - Neuropil","Neuropil","CST3",0.870581705883271
 "814","Hipp. Hilus, 016, Neuropil",26931.96875,17934.740234375,"Hippocampal hilus - Neuropil","Neuropil","CST3",0.900967935209665
 "815","Cx. II/III, 008, GFAP+",17781,32538,"Cortical layer II/III - GFAP+","GFAP+","CST3",0.611399676266846

@@ -9,30 +9,34 @@
     "Header": "![image](img/SOA_logo.png)", 
     "Rotation": 0, 
     "Layout": {"Grid": [["i0"]]}, 
+    "Appendix": "For more information on NanoString GeoMx technology visit our [**website**](https://www.nanostring.com/products/geomx-digital-spatial-profiler/geomx-dsp-overview/).\n\nDetails of the performance of WTA have been [**published**](https://doi.org/10.1101/2021.09.29.462442).\n\nMinerva is an open-source software package that was developed by Laboratory of Systems Pharmacology at Harvard University and is available [**here**](https://github.com/labsyspharm/minerva-story/wiki).\n\nWe would like to thank Jeremy Muhlich and John Thomas Hoffer for assistance in enabling Minerva features to support the Spatial Organ Atlas.\n\nSources:\n* Rashid R, Chen YA, Hoffer J, et al. Narrative online guides for the interpretation of digital-pathology images and tissue-atlas data. Nat Biomed Eng. Published online November 8, 2021:1-12. [doi:10.1038/s41551-021-00789-8](https://doi.org/10.1038/s41551-021-00789-8)\n* Hoffer J, Rashid R, Muhlich JL, et al. Minerva: a light-weight, narrative image browser for multiplexed tissue images. J Open Source Softw. 2020;5(54):2579. [doi:10.21105/joss.02579](https://doi.org/10.21105/joss.02579)\n* Azevedo FAC, Carvalho LRB, Grinberg LT, et al. Equal numbers of neuronal and nonneuronal cells make the human brain an isometrically scaled-up primate brain. J Comp Neurol. 2009;513(5):532-541. [doi:10.1002/cne.21974](https://doi.org/10.1002/cne.21974)\n* Darmanis S, Sloan SA, Zhang Y, et al. A survey of human brain transcriptome diversity at the single cell level. Proc Natl Acad Sci. 2015;112(23):7285-7290. [doi:10.1073/pnas.1507125112](https://doi.org/10.1073/pnas.1507125112)\n* Zeisel A, Muñoz-Manchado AB, Codeluppi S, et al. Cell types in the mouse cortex and hippocampus revealed by single-cell RNA-seq. Science. 2015;347(6226):1138-1142. [doi:10.1126/science.aaa1934](https://doi.org/10.1126/science.aaa1934)\n* Tasic B, Menon V, Nguyen TN, et al. Adult mouse cortical cell taxonomy revealed by single cell transcriptomics. Nat Neurosci. 2016;19(2):335-346. [doi:10.1038/nn.4216](https://doi.org/10.1038/nn.4216)\n* DeFelipe J, Alonso-Nanclares L, Arellano JI. Microstructure of the neocortex: Comparative aspects. J Neurocytol. 2002;31(3):299-316. [doi:10.1023/A:1024130211265](https://doi.org/10.1023/A:1024130211265)\n* Takata N, Hirase H. Cortical Layer 1 and Layer 2/3 Astrocytes Exhibit Distinct Calcium Dynamics In Vivo. PLOS ONE. 2008;3(6):e2525. [doi:10.1371/journal.pone.0002525](https://doi.org/10.1371/journal.pone.0002525)\n* Vasile F, Dossi E, Rouach N. Human astrocytes: structure and functions in the healthy brain. Brain Struct Funct. 2017;222(5):2017-2029. [doi:10.1007/s00429-017-1383-5](https://doi.org/10.1007/s00429-017-1383-5)\n* Tomassy GS, Berger DR, Chen HH, et al. Distinct Profiles of Myelin Distribution Along Single Axons of Pyramidal Neurons in the Neocortex. Science. 2014;344(6181):319-324. [doi:10.1126/science.1249766](https://doi.org/10.1126/science.1249766)\n* McKenzie AT, Wang M, Hauberg ME, et al. Brain Cell Type Specific Gene Expression and Co-expression Network Architectures. Sci Rep. 2018;8(1):8868. [doi:10.1038/s41598-018-27293-5](https://doi.org/10.1038/s41598-018-27293-5)\n* Cajigas IJ, Tushev G, Will TJ, tom Dieck S, Fuerst N, Schuman EM. The Local Transcriptome in the Synaptic Neuropil Revealed by Deep Sequencing and High-Resolution Imaging. Neuron. 2012;74(3):453-466. [doi:10.1016/j.neuron.2012.02.036](https://doi.org/10.1016/j.neuron.2012.02.036)\n* Weiss LA, Arking DE. A genome-wide linkage and association scan reveals novel loci for autism. Nature. 2009;461(7265):802-808. [doi:10.1038/nature08490](https://doi.org/10.1038/nature08490)\n* Geschwind DH, Levitt P. Autism spectrum disorders: developmental disconnection syndromes. Curr Opin Neurobiol. 2007;17(1):103-111. [doi:10.1016/j.conb.2007.01.009](https://doi.org/10.1016/j.conb.2007.01.009)\n* Campbell DB, D'Oronzio R, Garbett K, et al. Disruption of cerebral cortex MET signaling in autism spectrum disorder. Ann Neurol. 2007;62(3):243-250. [doi:10.1002/ana.21180](https://doi.org/10.1002/ana.21180)\n* Duan Y, Wang SH, Song J, et al. Semaphorin 5A inhibits synaptogenesis in early postnatal- and adult-born hippocampal dentate granule cells. Miller F, ed. eLife. 2014;3:e04390. [doi:10.7554/eLife.04390](https://doi.org/10.7554/eLife.04390)\n* Judson MC, Bergman MY, Campbell DB, Eagleson KL, Levitt P. Dynamic gene and protein expression patterns of the autism-associated met receptor tyrosine kinase in the developing mouse forebrain. J Comp Neurol. 2009;513(5):511-531. [doi:10.1002/cne.21969](https://doi.org/10.1002/cne.21969)\n* Judson MC, Amaral DG, Levitt P. Conserved Subcortical and Divergent Cortical Expression of Proteins Encoded by Orthologs of the Autism Risk Gene MET. Cereb Cortex. 2011;21(7):1613-1626. [doi:10.1093/cercor/bhq223](https://doi.org/10.1093/cercor/bhq223)\n* Ma X, Chen K, Lu Z, et al. Disruption of MET Receptor Tyrosine Kinase, an Autism Risk Factor, Impairs Developmental Synaptic Plasticity in the Hippocampus. Dev Neurobiol. 2019;79(1):36-50. [doi:10.1002/dneu.22645](https://doi.org/10.1002/dneu.22645)\n* Sugita S, Ho A, Südhof TC. NECABs: a family of neuronal Ca2+-binding proteins with an unusual domain structure and a restricted expression pattern. Neuroscience. 2002;112(1):51-63. [doi:10.1016/S0306-4522(02)00063-5](https://doi.org/10.1016/S0306-4522(02)00063-5)\n* Droguerre M, Tsurugizawa T, Duchêne A, et al. A New Tool for In Vivo Study of Astrocyte Connexin 43 in Brain. Sci Rep. 2019;9(1):18292. [doi:10.1038/s41598-019-54858-9](https://doi.org/10.1038/s41598-019-54858-9)\n\nIllustrations by Dave Carlson/[CarlsonStockArt.com](https://www.carlsonstockart.com/).\n\nFOR RESEARCH USE ONLY. Not for use in diagnostic procedures.",
     "Stories": [{
         "Name": "", 
-        "Description": "Welcome to the [**Spatial Organ Atlas (SOA)**](https://www.nanostring.com/spatial-organ-atlas) Human Brain Demonstration.\n\nThe SOA is a database for whole transcriptome spatial profiles of functional components of tissues from human and mouse generated with the GeoMx® Digital Spatial Profiler using the Whole Transcriptome Atlas (WTA). All the data in the SOA is downloadable, including [**this human brain sample (#001)**](https://nanostring.com/products/geomx-digital-spatial-profiler/spatial-organ-atlas/human-brain/).\n\nUsing [**Minerva**](https://github.com/labsyspharm/minerva-story/wiki), we will show you how the imaging and molecular data combine to give you a comprehensive profile of the tissue architecture and biology.\n\nClick around to explore on your own. \n\nHints:\n* Zoom and pan the image via the mouse/trackpad. Dependent on browser and operating system, keyboard shortcuts are available: + zoom in, - zoom out, pan via arrow keys (tested on Chrome).\n* Open and close the left- and right-hand menus by clicking on < or >.\n* See results in the left-hand menu and click on the selectable regions to zoom to the featured area of the tissue.\n* Turn channels on and off with the right-hand menu.", 
+        "Description": "Welcome to the [**Spatial Organ Atlas (SOA)**](https://www.nanostring.com/spatial-organ-atlas) Human Brain Demonstration.\n\nThe SOA is a database for whole transcriptome spatial profiles of functional components of tissues from human and mouse generated with the GeoMx® Digital Spatial Profiler. All the data in the SOA is downloadable, including [**this human brain sample (#001)**](https://nanostring.com/products/geomx-digital-spatial-profiler/spatial-organ-atlas/human-brain/).\n\nUsing [**Minerva**](https://github.com/labsyspharm/minerva-story/wiki), we will show you how the imaging and molecular data combine to give you a comprehensive profile of the tissue architecture and biology.\n\nClick around to explore on your own. \n\nHints:\n* Zoom and pan the image via the mouse/trackpad. Dependent on browser and operating system, keyboard shortcuts are available: + zoom in, - zoom out, pan via arrow keys (tested on Chrome).\n* Open and close the left- and right-hand menus by clicking on < or >.\n* See results in the left-hand menu and click on the selectable regions to zoom to the featured area of the tissue.\n* Turn channels on and off with the right-hand menu.", 
         "Waypoints": [{
             "Name": "Gross Brain Anatomy", 
-            "Description": "(gross brain morphology)", 
+            "Description": "The brain is the most complex organ in the human body, containing about 170 billion cells which work collectively to regulate the body, interpret information from the outside world, and drive behavior. [**(Azevedo et al. 2009)**](https://doi.org/10.1002/cne.21974)\n\nThis section through the medial temporal lobe contains the hippocampus, along with surrounding areas of cerebral cortex and subcortical white matter. The hippocampus is part of the limbic system with important roles in learning and memory. The cerebral cortex is associated with higher order cognitive functions including decision making, thought and emotion and the subcortical white matter enables communication between different regions of the brain. If you select a region on the cartoon, it will be highlighted on the image.\n\nWith GeoMx DSP, regions of interest (ROIs) are selected by the user and then molecularly profiled. These ROIs can be either profiled in entirety (i.e., geometric profiling) or subdivided based on the visible morphology markers into compartments and profiled separately (i.e., segmented profiling). The segmented profiling we have carried out is:\n\n* NeuN+ (Neuronal nuclei and perinuclear cytoplasm)\n* NeuN- (Neuropil)\n* Iba1+ (Microglia)\n* GFAP (Astrocytes)\n* Syto83 (Nuclei)\n\nUsing these morphology markers, we assessed eight different structures and collected 20 total ROI types, a subset of which were segmented using those markers.", 
+            "Footer": "Hints:\n* You can toggle the ROIs that were molecularly profiled by clicking on the respective data layers (left-hand side of screen).\n* Because of the large number of ROIs, there is a new category, “All data layers”. Selecting this allows you to toggle between selecting all data layers and selecting no data layers. Thus, a single click can unselect all data layers, allowing easy selection of a single data layer.\n* You can change the morphology markers being displayed by selecting channel groups - all markers or individual markers can be displayed. Switching to an individual marker can make it easier to see small or complex ROIs.",
             "Arrows": [], 
             "Overlays": [], 
             "Group": "All markers", 
-            "Masks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Cortical white matter", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil", "Hippocampus dentate gyrus"], 
-            "ActiveMasks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Cortical white matter", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil", "Hippocampus dentate gyrus"], 
+            "Masks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Iba1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Iba1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Cortical white matter", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - Iba1+", "Hippocampus CA1 - Neuropil", "Hippocampus dentate gyrus"], 
+            "ActiveMasks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Iba1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Iba1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Cortical white matter", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - Iba1+", "Hippocampus CA1 - Neuropil", "Hippocampus dentate gyrus"], 
             "Zoom": 0.4535233902599297, 
             "Pan": [0.5000000000000001, 0.505419348858948]}, 
-            {"Name": "Fine Brain Anatomy", 
-                "Description": "(detailed brain morphology)", 
+            {"Name": "Detailed Brain Anatomy", 
+                "Description": "With GeoMx DSP, regions of interest (ROIs) are selected by the user and then molecularly profiled. These ROIs can be either profiled whole (i.e., geometric profiling) or subdivided based on the visible morphology markers into compartments and profiled separately (i.e., segmented profiling). In the cartoon below, the layers of the cortex profiled are highlighted with red outlines. Selecting each layer will show a typical ROI from the respective layer in the tissue image. In cortical layer V, select the features outlined in red within the cartoon to see an example of each segment type: NeuN+ (orange in cartoon), Iba1+ (purple in cartoon), and GFAP+ (cyan in cartoon).",
+                "Footer": "Hints:\n\n* Select a single layer on the diagram to see an example of the corresponding ROIs.\n* Adding Cortical layer V data layers in combination from the list on the left will allow you to see how the segmented profiling strategy can be used to optically dissect an ROI.", 
                 "Arrows": [], 
                 "Overlays": [], 
                 "Group": "All markers", 
-                "Masks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Cortical white matter", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil", "Hippocampus dentate gyrus"], 
-                "ActiveMasks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Cortical white matter", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil", "Hippocampus dentate gyrus"], 
+                "Masks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Iba1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Iba1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Cortical white matter", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - Iba1+", "Hippocampus CA1 - Neuropil", "Hippocampus dentate gyrus"], 
+                "ActiveMasks": ["Cortical layer I", "Cortical layer II/III", "Cortical layer II/III - NeuN+", "Cortical layer II/III - Iba1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer IV", "Cortical layer V", "Cortical layer V - NeuN+", "Cortical layer V - Iba1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Cortical white matter", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - Iba1+", "Hippocampus CA1 - Neuropil", "Hippocampus dentate gyrus"], 
                 "Zoom": 0.9736138916015626, 
                 "Pan": [0.3785714285714286, 0.49583333333333335]}, 
             {"Name": "Linking Molecular and Imaging Data 1", 
-                "Description": "(geometric ROIs only, # genes> LOQ)", 
+                "Description": "One of the key aspects of spatial biology is the ability to link molecular and spatial (image) data. In this figure, the average number of genes detected per ROI by structure is shown. We show the number of genes per geometric ROI. The number of genes seen per ROI tracks with neural density, with the lowest number observed in cortical layer I, which is defined by its absence of neural cells.",
+                "Footer": "Hint:\n* Select a data point to see its corresponding ROI.", 
                 "Arrows": [], 
                 "Overlays": [], 
                 "Group": "All markers", 
@@ -77,8 +81,8 @@
                             "direction": "vertical"
                         },
                         "scale": {
-                            "domain": ["Cortical layer I", "Cortical layer II/III", "Cortical layer IV", "Cortical layer V", "Hippocampus CA1", "Hippocampus dentate gyrus", "Cortical white matter"],
-                            "range": ["#90CEF0", "#37A7E5", "#005B8E", "#002E48", "#484E4E", "#009E73", "#E69F00"]
+                            "domain": ["Cortical layer I", "Cortical layer II/III", "Cortical layer IV", "Cortical layer V", "Cortical white matter", "Hippocampus CA1", "Hippocampus dentate gyrus"],
+                            "range": ["#90CEF0", "#37A7E5", "#005B8E", "#002E48", "#E69F00", "#484E4E", "#009E73"]
                         }
                     },
                     "tooltip":[{"field": "type", "type": "nominal", "title": "ROI Category"}, {"field": "GenesDetected", "type": "quantitative", "title": "Genes Detected"}]
@@ -87,15 +91,16 @@
             }, 
                 
             {"Name": "Linking Molecular and Imaging Data 2", 
-                "Description": "(segmented ROIs only, # genes > LOQ)", 
+                "Description": "In this analysis we only assess segmented ROI. All data are separated by segmentation marker and coded by ROI location.  Here, the neuron segments (NeuN+) express considerably more genes than glial cells (GFAP+ and Iba1+) and the neuropil (NeuN-) segments. This is consistent with single cell RNA-seq datasets showing that neurons express higher numbers of genes compared to other cell types in human cortex [**(Darmanis et al. 2015)**](https://doi.org/10.1073/pnas.1507125112). This has also been demonstrated for the mouse cortex and hippocampus [**(Zeisel et al. 2015,**](https://doi.org/10.1126/science.aaa1934) [**Tasic et al. 2016).**](https://doi.org/10.1038/nn.4216)", 
+                "Footer": "Hints:\n* Select a single data point to be taken to that ROI.\n* If you hover your mouse over the boxplot, a summary of the distribution metrics for that ROI type will be displayed.",
                 "Arrows": [], 
                 "Overlays": [], 
                 "Group": "Nuclei", 
-                "Masks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
-                "ActiveMasks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
+                "Masks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - Iba1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - Iba1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - Iba1+", "Hippocampus CA1 - Neuropil"], 
+                "ActiveMasks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - Iba1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - Iba1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - Iba1+", "Hippocampus CA1 - Neuropil"], 
                 "Zoom": 0.9229119842403208, 
                 "Pan": [0.3785714285714286, 0.49583333333333335],
-                "multipleMasksPanChannel": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null}, "width": "container",
+                "multipleMasksPanChannel": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null, "numberFormat": ".0f"}, "width": "container",
                     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
                     "data": {
                         "url": "data/WPT4_GenesDetected_box.csv",
@@ -117,7 +122,8 @@
                             "ticks": {
                                 "color": "white"
                                 }, 
-                            "color": "white"
+                            "color": "white",
+                            "size": 30
                             }, 
                         "encoding": {
                             "color": {
@@ -128,7 +134,7 @@
                                     "direction":"vertical"
                                 },
                                 "scale": {
-                                    "domain": ["NeuN+", "IBA1+", "GFAP+", "Neuropil"],
+                                    "domain": ["NeuN+", "Iba1+", "GFAP+", "Neuropil"],
                                     "range": ["#F0E442", "#CC79A7", "#DECAC2", "#D55E00"]
                                 }
                                 }, 
@@ -188,7 +194,8 @@
                 }
             }, 
             {"Name": "Cortical Cell Type Deconvolution", 
-                "Description": "(cortical cell type deconvolution)", 
+                "Description": "Here we are measuring the relative abundance of different cell types within each non-segmented ROI using a cell type deconvolution algorithm to align our spatial data with single cell RNA-seq from a comparable experiment. In this graph, each row is a single ROI, and each structure has a unique composition of cell types.\n\nWe observe that the layers have clearly distinct deconvolution patterns. Consistent with previous reports [**(DeFelipe et al. 2002,**](https://doi.org/10.1023/A:1024130211265) [**Takata and Hirase 2008,**](https://doi.org/10.1371/journal.pone.0002525) [**Vasile et al. 2017)**](https://doi.org/10.1007/s00429-017-1383-5), cortical layer I has few neurons but a large astrocyte population. Starting with cortical layer II, the number of oligodendrocytes increases across successive cortical layers until they dominate in white matter that is free of neuronal somata. This increase in the quantity of oligodendrocytes, the myelinating cells of the central nervous system, corresponds with the presence of more highly myelinated pyramidal neurons in cortical layers III and beyond [**(Tomassy et al. 2014).**](https://doi.org/10.1126/science.1249766)", 
+                "Footer": "Hint:\n* Select a single row of the figure to be taken to that ROI in the image.",
                 "Arrows": [], 
                 "Overlays": [], 
                 "Group": "All markers", 
@@ -285,13 +292,14 @@
                   "resolve": {"scale": {"color": "independent"}}
                 }
             }, 
-            {"Name": "Spatial Mapping of Gene Pathways 1", 
-                "Description": "(heatmap \"with neurons\")", 
+            {"Name": "Spatial Mapping of Genes", 
+                "Description": "Whole transcriptome profiling allows us to spatially map functional gene expression. This heatmap shows relative expression of various genes in different segmented ROIs. The expression profiles of the NeuN+ segments are strikingly distinct from the glial and neuropil segments in this heatmap of top differentially expressed genes.\n\nNearly all genes we identified as neuron-enriched relative to glia in this experiment (*CADM3*, *YWHAG*, *UCHL1*, *SNAP25*, etc.) were also present within the top ranked neuron-enriched genes from a meta-analysis of human and murine brain RNA-seq datasets [**(McKenzie et al. 2018)**](https://doi.org/10.1038/s41598-018-27293-5). The enrichment of genes, such as *NDRG2* and *CST3*, in non-neuronal cell types is also consistent with previous datasets [**(McKenzie et al. 2018).**](https://doi.org/10.1038/s41598-018-27293-5)", 
+                "Footer": "Hints:\n* Hold mouse over the main body of heatmap to show the gene that a row corresponds to.\n* Hold mouse over the bottom key bar to identify a specific ROI.\n* Click on a column to zoom in on the corresponding ROI on the image.  Select the “All data layers” button to see how much segmentation is possible.",
                 "Arrows": [], 
                 "Overlays": [], 
                 "Group": "Nuclei", 
-                "Masks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
-                "ActiveMasks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
+                "Masks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - Iba1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - Iba1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - Iba1+", "Hippocampus CA1 - Neuropil"], 
+                "ActiveMasks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - Iba1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - Iba1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - Iba1+", "Hippocampus CA1 - Neuropil"], 
                 "Zoom": 0.9109274489586859, 
                 "Pan": [0.3785714285714286, 0.49583333333333335],
                 "MaskAndPan": {"config": {"axis": {"domain":false}, "view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null}, "width": "container",
@@ -314,7 +322,12 @@
                             "field": "Gene",
                             "type": "nominal",
                             "sort": null,
-                            "title": null
+                            "title": null,
+                            "axis": {
+                                "labelColor": {
+                                    "expr": "datum.value === 'CADM3' ? '#FF4545' : datum.value === 'UCHL1' ? '#FF4545' : datum.value === 'YWHAG' ? '#FF4545' : datum.value === 'SNAP25' ? '#FF4545' : datum.value === 'NDRG2' ? '#00c5c8' : datum.value === 'CST3' ? '#00c5c8' : 'white'"
+                                    }
+                            }
                         },
                         "color": {
                             "field": "Expression",
@@ -338,20 +351,20 @@
                         {"bar": "two", "order": "D", "segmentation": "NeuN+", "type": "Hippocampal hilus - NeuN+", "percentage": 0.077},
                         {"bar": "two", "order": "E", "segmentation": "NeuN+", "type": "Hippocampus CA1 - NeuN+", "percentage": 0.0512},
                         {"bar": "two", "order": "F", "segmentation": "GFAP+", "type": "Cortical layer II/III - GFAP+", "percentage": 0.0256},
-                        {"bar": "two", "order": "G", "segmentation": "IBA1+", "type": "Cortical layer V - IBA1+", "percentage": 0.0512},
+                        {"bar": "two", "order": "G", "segmentation": "Iba1+", "type": "Cortical layer V - Iba1+", "percentage": 0.0512},
                         {"bar": "two", "order": "H", "segmentation": "Neuropil", "type": "Cortical layer V - Neuropil", "percentage": 0.0256},
-                        {"bar": "two", "order": "I", "segmentation": "IBA1+", "type": "Hippocampus CA1 - IBA1+", "percentage": 0.0512},
-                        {"bar": "two", "order": "J", "segmentation": "IBA1+", "type": "Cortical layer II/III - IBA1+", "percentage": 0.0256},
-                        {"bar": "two", "order": "K", "segmentation": "IBA1+", "type": "Cortical layer V - IBA1+", "percentage": 0.0256},
+                        {"bar": "two", "order": "I", "segmentation": "Iba1+", "type": "Hippocampus CA1 - Iba1+", "percentage": 0.0512},
+                        {"bar": "two", "order": "J", "segmentation": "Iba1+", "type": "Cortical layer II/III - Iba1+", "percentage": 0.0256},
+                        {"bar": "two", "order": "K", "segmentation": "Iba1+", "type": "Cortical layer V - Iba1+", "percentage": 0.0256},
                         {"bar": "two", "order": "L", "segmentation": "Neuropil", "type": "Hippocampal hilus - Neuropil", "percentage": 0.0256},
                         {"bar": "two", "order": "M", "segmentation": "Neuropil", "type": "Cortical layer II/III - Neuropil", "percentage": 0.0256},
                         {"bar": "two", "order": "N", "segmentation": "Neuropil", "type": "Cortical layer V - Neuropil", "percentage": 0.0512},
                         {"bar": "two", "order": "O", "segmentation": "Neuropil", "type": "Hippocampus CA1 - Neuropil", "percentage": 0.0256},
                         {"bar": "two", "order": "P", "segmentation": "Neuropil", "type": "Cortical layer II/III - Neuropil", "percentage": 0.0512},
-                        {"bar": "two", "order": "Q", "segmentation": "IBA1+", "type": "Cortical layer II/III - IBA1+", "percentage": 0.0256},
+                        {"bar": "two", "order": "Q", "segmentation": "Iba1+", "type": "Cortical layer II/III - Iba1+", "percentage": 0.0256},
                         {"bar": "two", "order": "R", "segmentation": "Neuropil", "type": "Hippocampus CA1 - Neuropil", "percentage": 0.0512},
-                        {"bar": "two", "order": "S", "segmentation": "IBA1+", "type": "Cortical layer II/III - IBA1+", "percentage": 0.0256},
-                        {"bar": "two", "order": "T", "segmentation": "IBA1+", "type": "Hippocampus CA1 - IBA1+", "percentage": 0.0256},
+                        {"bar": "two", "order": "S", "segmentation": "Iba1+", "type": "Cortical layer II/III - Iba1+", "percentage": 0.0256},
+                        {"bar": "two", "order": "T", "segmentation": "Iba1+", "type": "Hippocampus CA1 - Iba1+", "percentage": 0.0256},
                         {"bar": "two", "order": "U", "segmentation": "Neuropil", "type": "Hippocampal hilus - Neuropil", "percentage": 0.0512},
                         {"bar": "two", "order": "V", "segmentation": "GFAP+", "type": "Cortical layer II/III - GFAP+", "percentage": 0.0256},
                         {"bar": "two", "order": "W", "segmentation": "GFAP+", "type": "Cortical layer V - GFAP+", "percentage": 0.0256},
@@ -395,7 +408,7 @@
                             "direction": "vertical"
                         },
                         "scale": {
-                            "domain": ["NeuN+", "GFAP+", "Neuropil", "IBA1+"],
+                            "domain": ["NeuN+", "GFAP+", "Neuropil", "Iba1+"],
                             "range": ["#F0E442", "#DECAC2", "#D55E00", "#CC79A7"]
                         }
                     },
@@ -405,13 +418,14 @@
                 "resolve": {"scale": {"y": "independent"}}
                 }
             }, 
-            {"Name": "Spatial Mapping of Gene Pathways 2", 
-                "Description": "(heatmap, \"w/o neurons\")", 
+            {"Name": "Spatial Mapping of Genes Excluding Neuron-Rich ROIs", 
+                "Description": "Differences between non-neuronal populations profiled can be further elucidated by removing NeuN+ segments from the analysis. By removing NeuN+ segments from the differential expression analysis, we can see that the top differentially expressed genes are well-established as expressed in microglia, astrocytes or the neuropil.\n\n*AQP4*, *GJA1*, *CPE*, *CLU*, *GLUL* are enriched in astrocytes, consistent with human and murine transcriptome-wide RNA expression datasets examining brain cell type-specific gene expression [**(McKenzie et al. 2018)**](https://doi.org/10.1038/s41598-018-27293-5). *AIF1* (Iba1), *TYROBP*, *CD68*, *P2RY12*, *C1QB*, *C1QC*, and *CD74* are also all enriched in microglia as expected [**(McKenzie et al. 2018)**](https://doi.org/10.1038/s41598-018-27293-5). Moreover, the neuropil exhibits enrichment of genes like voltage-gated calcium channel *CACNG2*, the expression of which has previously been shown in CA1 hippocampal dendrites [**(Cajigas et al. 2012).**](https://doi.org/10.1016/j.neuron.2012.02.036)",
+                "Footer": "Hints:\n* Hold mouse over the main body of heatmap to show the gene that a row corresponds to.\n* Hold mouse over the bottom key bar to identify a specific ROI.\n* Click on a column to zoom in on the corresponding ROI on the image.  Select the “All data layers” button to see how much segmentation is possible.", 
                 "Arrows": [], 
                 "Overlays": [], 
                 "Group": "Nuclei", 
-                "Masks": ["Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
-                "ActiveMasks": ["Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
+                "Masks": ["Cortical layer II/III - Iba1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - Iba1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - Iba1+", "Hippocampus CA1 - Neuropil"], 
+                "ActiveMasks": ["Cortical layer II/III - Iba1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - Iba1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - Iba1+", "Hippocampus CA1 - Neuropil"], 
                 "Zoom": 0.9353343941627955, 
                 "Pan": [0.3785714285714286, 0.49583333333333335],
                 "MaskAndPan": {"config": {"axis": {"domain":false}, "view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null}, "width": "container",
@@ -434,7 +448,12 @@
                             "field": "Gene",
                             "type": "nominal",
                             "sort": null,
-                            "title": null
+                            "title": null,
+                            "axis": {
+                                "labelColor": {
+                                    "expr": "datum.value === 'AQP4' ? '#FF4545' : datum.value === 'GJA1' ? '#FF4545' : datum.value === 'CPE' ? '#FF4545' : datum.value === 'CLU' ? '#FF4545' : datum.value === 'GLUL' ? '#FF4545' : datum.value === 'AIF1' ? '#00c5c8' : datum.value === 'TYROBP' ? '#00c5c8' : datum.value === 'CD68' ? '#00c5c8' : datum.value === 'P2RY12' ? '#00c5c8' : datum.value === 'C1QB' ? '#00c5c8' : datum.value === 'C1QC' ? '#00c5c8' : datum.value === 'CD74' ? '#00c5c8' : datum.value === 'CACNG2' ? '#40C000' : 'white'"
+                                    }
+                            }
                         },
                         "color": {
                             "field": "Expression",
@@ -452,14 +471,14 @@
             {
                 "data": {
                     "values":[
-                        {"bar": "two", "order": "A", "segmentation": "IBA1+", "type": "Hippocampus CA1 - IBA1+", "percentage": 0.037},
-                        {"bar": "two", "order": "B", "segmentation": "IBA1+", "type": "Cortical layer V - IBA1+", "percentage": 0.037},
-                        {"bar": "two", "order": "C", "segmentation": "IBA1+", "type": "Hippocampus CA1 - IBA1+", "percentage": 0.037},
-                        {"bar": "two", "order": "D", "segmentation": "IBA1+", "type": "Cortical layer V - IBA1+", "percentage": 0.037},
-                        {"bar": "two", "order": "E", "segmentation": "IBA1+", "type": "Cortical layer II/III - IBA1+", "percentage": 0.037}, 
-                        {"bar": "two", "order": "F", "segmentation": "IBA1+", "type": "Cortical layer V - IBA1+", "percentage": 0.037},
-                        {"bar": "two", "order": "G", "segmentation": "IBA1+", "type": "Hippocampus CA1 - IBA1+", "percentage": 0.037},
-                        {"bar": "two", "order": "H", "segmentation": "IBA1+", "type": "Cortical layer II/III - IBA1+", "percentage": 0.074}, 
+                        {"bar": "two", "order": "A", "segmentation": "Iba1+", "type": "Hippocampus CA1 - Iba1+", "percentage": 0.037},
+                        {"bar": "two", "order": "B", "segmentation": "Iba1+", "type": "Cortical layer V - Iba1+", "percentage": 0.037},
+                        {"bar": "two", "order": "C", "segmentation": "Iba1+", "type": "Hippocampus CA1 - Iba1+", "percentage": 0.037},
+                        {"bar": "two", "order": "D", "segmentation": "Iba1+", "type": "Cortical layer V - Iba1+", "percentage": 0.037},
+                        {"bar": "two", "order": "E", "segmentation": "Iba1+", "type": "Cortical layer II/III - Iba1+", "percentage": 0.037}, 
+                        {"bar": "two", "order": "F", "segmentation": "Iba1+", "type": "Cortical layer V - Iba1+", "percentage": 0.037},
+                        {"bar": "two", "order": "G", "segmentation": "Iba1+", "type": "Hippocampus CA1 - Iba1+", "percentage": 0.037},
+                        {"bar": "two", "order": "H", "segmentation": "Iba1+", "type": "Cortical layer II/III - Iba1+", "percentage": 0.074}, 
                         {"bar": "two", "order": "I", "segmentation": "Neuropil", "type": "Hippocampal hilus - Neuropil", "percentage": 0.111},
                         {"bar": "two", "order": "J", "segmentation": "Neuropil", "type": "Cortical layer V - Neuropil", "percentage": 0.037},
                         {"bar": "two", "order": "K", "segmentation": "Neuropil", "type": "Cortical layer II/III - Neuropil", "percentage": 0.037},
@@ -507,7 +526,7 @@
                             "direction": "vertical"
                         },
                         "scale": {
-                            "domain": ["GFAP+", "Neuropil", "IBA1+"],
+                            "domain": ["GFAP+", "Neuropil", "Iba1+"],
                             "range": ["#DECAC2", "#D55E00", "#CC79A7"]
                         }
                     },
@@ -518,7 +537,8 @@
     }
             }, 
             {"Name": "Differential Gene Expression", 
-                "Description": "(volcano plot)", 
+                "Description": "In this analysis, we compare gene expression between the neurons of the hippocampal CA1 region to the densely packed neurons of the dentate gyrus. We can see a number of genes that are differentially expressed, including *SEMA5A* and *MET*, both of which have been identified as risk factors for autism spectrum disorders [**(Weiss et al. 2009,**](https://doi.org/10.1038/nature08490) [**Geschwind and Levitt 2007,**](https://doi.org/10.1016/j.conb.2007.01.009) [**Campbell et al. 2007)**](https://doi.org/10.1002/ana.21180). *SEMA5A* has been shown to inhibit dentate granule cell synaptogenesis in early postnatal development and into adulthood [**(Duan et al. 2014)**](https://doi.org/10.7554/eLife.04390). Alternatively, the *MET* receptor tyrosine kinase is primarily expressed by CA1 neurons in the hippocampus [**(Judson et al., 2009,**](https://doi.org/10.1002/cne.21969) [**2011)**](https://doi.org/10.1093/cercor/bhq223) and facilitates developmental synaptic plasticity [**(Ma et al. 2019)**](https://doi.org/10.1002/dneu.22645).", 
+                "Footer": "Hints:\n* Select the regions on the graph with the genes that are differentially expressed to see all the ROIs where those genes are more highly expressed.\n* Turning on only a single channel may help you see smaller ROIs.",
                 "Arrows": [], 
                 "Overlays": [], 
                 "Group": "All markers", 
@@ -628,12 +648,13 @@
         }
     }, 
             {"Name": "Validating Gene Expression with Protein Expression 1", 
-                "Description": "(NECAB1 expression, NeuN+ showcase)\n\n![image](img/Necab1.jpg)\n\n[*Image credit: Human Protein Atlas.*](https://images.proteinatlas.org/23629/156229_B_8_5_medium.jpg)", 
+                "Description": "We explored the relationship between our data and the [**Human Protein Atlas**](https://www.proteinatlas.org/) to investigate whether the gene expression patterns we observed would correspond to existing protein data. Here we see expression of the *NECAB1* gene alongside the IHC for the corresponding protein. The protein is expressed in neural bodies, which correlates well to the observed gene expression in NeuN+ segments.\n\n*NECAB1* is part of the NECAB family [**(Sugita et al. 2002)**](https://doi.org/10.1016/S0306-4522(02)00063-5) of calcium binding proteins expressed in neurons, the expression of which is restricted to specific subsets of neurons.\n\n![image](img/Necab1.jpg)\n\n[*Image credit: Human Protein Atlas.*](https://images.proteinatlas.org/23629/156229_B_8_5_medium.jpg)", 
+                "Footer": "Hints:\n* Select a single data point to be taken to that ROI.\n* If you hover your mouse over the boxplot, a summary of the distribution metrics for that ROI type will be displayed.",
                 "Arrows": [], 
                 "Overlays": [], 
                 "Group": "Nuclei", 
-                "Masks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
-                "ActiveMasks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
+                "Masks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - Iba1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - Iba1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - Iba1+", "Hippocampus CA1 - Neuropil"], 
+                "ActiveMasks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - Iba1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - Iba1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - Iba1+", "Hippocampus CA1 - Neuropil"], 
                 "Zoom": 0.9229119842403208, 
                 "Pan": [0.3785714285714286, 0.49583333333333335],
                 "MaskAndPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null, "numberFormat": ".0f"}, "width": "container", "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
@@ -667,7 +688,7 @@
                                     "direction":"vertical"
                                 },
                                 "scale": {
-                                    "domain": ["NeuN+", "IBA1+", "GFAP+", "Neuropil"],
+                                    "domain": ["NeuN+", "Iba1+", "GFAP+", "Neuropil"],
                                     "range": ["#F0E442", "#CC79A7", "#DECAC2", "#D55E00"]
                                     }
                                 }, 
@@ -675,7 +696,7 @@
                                 "type": "nominal", 
                                 "field": "SegmentType", 
                                 "title": null,
-                                "sort": ["NeuN+", "IBA1+", "GFAP+", "Neuropil"]
+                                "sort": ["NeuN+", "Iba1+", "GFAP+", "Neuropil"]
                                 },
                             "y": {
                                 "type": "quantitative", 
@@ -729,12 +750,13 @@
                 } 
             }, 
             {"Name": "Validating Gene Expression with Protein Expression 2", 
-                "Description": "(Gja1, GFAP+ showcase)\n\n![image](img/Gja1.png)\n\n[*Image credit: Human Protein Atlas.*](https://www.proteinatlas.org/ENSG00000152661-GJA1/brain/basal+ganglia#img)", 
+                "Description": "In further validation of our data with the [**Human Protein Atlas**](https://www.proteinatlas.org/), we find increased expression of the *GJA1* gene in the GFAP+ segments, which matches the staining pattern of the corresponding protein (also known as connexin 43) in brain as seen in the IHC image from the HPA. This transmembrane protein is upregulated in astrocytes and helps to organize plastic networks by forming hemichannels and gap junctions [**(Droguerre et al. 2019)**](https://doi.org/10.1038/s41598-019-54858-9).\n\n![image](img/Gja1.png)\n\n[*Image credit: Human Protein Atlas.*](https://images.proteinatlas.org/35097/98855_B_7_7.jpg)", 
+                "Footer": "Hints:\n* Select a single data point to be taken to that ROI.\n* If you hover your mouse over the boxplot, a summary of the distribution metrics for that ROI type will be displayed.",
                 "Arrows": [], 
                 "Overlays": [], 
                 "Group": "Nuclei", 
-                "Masks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
-                "ActiveMasks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
+                "Masks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - Iba1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - Iba1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - Iba1+", "Hippocampus CA1 - Neuropil"], 
+                "ActiveMasks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - Iba1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - Iba1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - Iba1+", "Hippocampus CA1 - Neuropil"], 
                 "Zoom": 0.43921875000000005, 
                 "Pan": [0.5, 0.6344635312553157],
                 "MaskAndPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null, "numberFormat": ".0f"}, "width": "container", "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
@@ -768,7 +790,7 @@
                                 "direction":"vertical"
                             },
                             "scale": {
-                                "domain": ["NeuN+", "IBA1+", "GFAP+", "Neuropil"],
+                                "domain": ["NeuN+", "Iba1+", "GFAP+", "Neuropil"],
                                 "range": ["#F0E442", "#CC79A7", "#DECAC2", "#D55E00"]
                                 }
                             }, 
@@ -776,7 +798,7 @@
                             "type": "nominal", 
                             "field": "SegmentType", 
                             "title": null,
-                            "sort": ["NeuN+", "IBA1+", "GFAP+", "Neuropil"]
+                            "sort": ["NeuN+", "Iba1+", "GFAP+", "Neuropil"]
                             },
                         "y": {
                             "type": "quantitative", 
@@ -830,12 +852,13 @@
             }
             }, 
             {"Name": "Validating Gene Expression with Protein Expression 3", 
-                "Description": "(CD74, Iba1+ showcase)\n\n![image](img/CD74.jpg)\n\n[*Image credit: Human Protein Atlas.*](https://images.proteinatlas.org/10592/26064_B_9_5_medium.jpg)", 
+                "Description": "Continuing to validate our data with the [**Human Protein Atlas**](https://www.proteinatlas.org/), we studied the relationship between expression of the CD74 protein as localized by the HPA and the expression of *CD74* in our data. CD74 is a component of the MHC Class II complex, and consequently its expression should be restricted to antigen presenting cells. As expected, the CD74 protein is localized to microglia (Iba1+ segmented ROI) within the hippocampus, the cerebral cortex, and the cerebellum.  \n\n![image](img/CD74.jpg)\n\n[*Image credit: Human Protein Atlas.*](https://images.proteinatlas.org/10592/26064_B_9_5_medium.jpg)", 
+                "Footer": "Hints:\n* Select a single data point to be taken to that ROI.\n* If you hover your mouse over the boxplot, a summary of the distribution metrics for that ROI type will be displayed.",
                 "Arrows": [], 
                 "Overlays": [], 
                 "Group": "Nuclei", 
-                "Masks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
-                "ActiveMasks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - IBA1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - IBA1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - IBA1+", "Hippocampus CA1 - Neuropil"], 
+                "Masks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - Iba1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - Iba1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - Iba1+", "Hippocampus CA1 - Neuropil"], 
+                "ActiveMasks": ["Cortical layer II/III - NeuN+", "Cortical layer II/III - Iba1+", "Cortical layer II/III - GFAP+", "Cortical layer II/III - Neuropil", "Cortical layer V - NeuN+", "Cortical layer V - Iba1+", "Cortical layer V - GFAP+", "Cortical layer V - Neuropil", "Hippocampal hilus - NeuN+", "Hippocampal hilus - Neuropil", "Hippocampus CA1 - NeuN+", "Hippocampus CA1 - Iba1+", "Hippocampus CA1 - Neuropil"], 
                 "Zoom": 0.4221505055286025, 
                 "Pan": [0.5, 0.6344635312553157],
                 "MaskAndPan": {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}, "background": null, "numberFormat": ".0f"}, "width": "container", "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
@@ -869,7 +892,7 @@
                                     "direction":"vertical"
                                 },
                                 "scale": {
-                                    "domain": ["NeuN+", "IBA1+", "GFAP+", "Neuropil"],
+                                    "domain": ["NeuN+", "Iba1+", "GFAP+", "Neuropil"],
                                     "range": ["#F0E442", "#CC79A7", "#DECAC2", "#D55E00"]
                                     }
                                 }, 
@@ -877,7 +900,7 @@
                                 "type": "nominal", 
                                 "field": "SegmentType", 
                                 "title": null,
-                                "sort": ["NeuN+", "IBA1+", "GFAP+", "Neuropil"]
+                                "sort": ["NeuN+", "Iba1+", "GFAP+", "Neuropil"]
                                 },
                             "y": {
                                 "type": "quantitative", 
@@ -935,13 +958,13 @@
             {"Path": "Cortical-layer-I", "Name": "Cortical layer I", "Colors": ["90cef0"], "Channels": ["Cortical layer I"]}, 
             {"Path": "Cortical-layer-IIIII", "Name": "Cortical layer II/III", "Colors": ["37a7e5"], "Channels": ["Cortical layer II/III"]}, 
             {"Path": "Cortical-layer-IIIII-NeuN", "Name": "Cortical layer II/III - NeuN+", "Colors": ["f0e442"], "Channels": ["Cortical layer II/III - NeuN+"]}, 
-            {"Path": "Cortical-layer-IIIII-IBA1", "Name": "Cortical layer II/III - IBA1+", "Colors": ["cc79a7"], "Channels": ["Cortical layer II/III - IBA1+"]}, 
+            {"Path": "Cortical-layer-IIIII-IBA1", "Name": "Cortical layer II/III - Iba1+", "Colors": ["cc79a7"], "Channels": ["Cortical layer II/III - Iba1+"]}, 
             {"Path": "Cortical-layer-IIIII-GFAP", "Name": "Cortical layer II/III - GFAP+", "Colors": ["decac2"], "Channels": ["Cortical layer II/III - GFAP+"]}, 
             {"Path": "Cortical-layer-IIIII-Neuropil", "Name": "Cortical layer II/III - Neuropil", "Colors": ["d55e00"], "Channels": ["Cortical layer II/III - Neuropil"]}, 
             {"Path": "Coritcal-layer-IV", "Name": "Cortical layer IV", "Colors": ["005b8e"], "Channels": ["Cortical layer IV"]}, 
             {"Path": "Cortical-layer-V", "Name": "Cortical layer V", "Colors": ["002e48"], "Channels": ["Cortical layer V"]}, 
             {"Path": "Cortical-layer-V-NeuN", "Name": "Cortical layer V - NeuN+", "Colors": ["f0e442"], "Channels": ["Cortical layer V - NeuN+"]}, 
-            {"Path": "Cortical-layer-V-IBA1", "Name": "Cortical layer V - IBA1+", "Colors": ["cc79a7"], "Channels": ["Cortical layer V - IBA1+"]}, 
+            {"Path": "Cortical-layer-V-IBA1", "Name": "Cortical layer V - Iba1+", "Colors": ["cc79a7"], "Channels": ["Cortical layer V - Iba1+"]}, 
             {"Path": "Cortical-layer-V-GFAP", "Name": "Cortical layer V - GFAP+", "Colors": ["decac2"], "Channels": ["Cortical layer V - GFAP+"]}, 
             {"Path": "Cortical-layer-V-Neuropil", "Name": "Cortical layer V - Neuropil", "Colors": ["d55e00"], "Channels": ["Cortical layer V - Neuropil"]}, 
             {"Path": "Cortical-white-matter", "Name": "Cortical white matter", "Colors": ["e69f00"], "Channels": ["Cortical white matter"]}, 
@@ -949,15 +972,15 @@
             {"Path": "Hippocampal-hilus-Neuropil", "Name": "Hippocampal hilus - Neuropil", "Colors": ["d55e00"], "Channels": ["Hippocampal hilus - Neuropil"]}, 
             {"Path": "Hippocampus-CA1", "Name": "Hippocampus CA1", "Colors": ["484e4e"], "Channels": ["Hippocampus CA1"]}, 
             {"Path": "Hippocampus-CA1-NeuN", "Name": "Hippocampus CA1 - NeuN+", "Colors": ["f0e442"], "Channels": ["Hippocampus CA1 - NeuN+"]}, 
-            {"Path": "Hippocampus-CA1-IBA1", "Name": "Hippocampus CA1 - IBA1+", "Colors": ["cc79a7"], "Channels": ["Hippocampus CA1 - IBA1+"]}, 
+            {"Path": "Hippocampus-CA1-IBA1", "Name": "Hippocampus CA1 - Iba1+", "Colors": ["cc79a7"], "Channels": ["Hippocampus CA1 - Iba1+"]}, 
             {"Path": "Hippocampus-CA1-Neuropil", "Name": "Hippocampus CA1 - Neuropil", "Colors": ["d55e00"], "Channels": ["Hippocampus CA1 - Neuropil"]}, 
             {"Path": "Hippocampus-dentate-gyrus", "Name": "Hippocampus dentate gyrus", "Colors": ["009e73"], "Channels": ["Hippocampus dentate gyrus"]}
             ], 
         "Groups": [
-            {"Name": "All markers", "Path": "All-markers_3__NeuN--0__GFAP--1__Nuclei--2__IBA1", "Colors": ["ff0054", "00ff63", "0000ff", "ffff00"], "Channels": ["NeuN", "GFAP", "Nuclei", "IBA1"]}, 
+            {"Name": "All markers", "Path": "All-markers_3__NeuN--0__GFAP--1__Nuclei--2__IBA1", "Colors": ["ff0054", "00ff63", "0000ff", "ffff00"], "Channels": ["NeuN", "GFAP", "Nuclei", "Iba1"]}, 
             {"Name": "NeuN", "Path": "NeuN_3__NeuN", "Colors": ["ff0054"], "Channels": ["NeuN"]},
             {"Name": "GFAP", "Path": "GFAP_0__GFAP", "Colors": ["00ff63"], "Channels": ["GFAP"]}, 
             {"Name": "Nuclei", "Path": "Nuclei_1__Nuclei", "Colors": ["0000ff"], "Channels": ["Nuclei"]}, 
-            {"Name": "IBA1", "Path": "IBA1_2__IBA1", "Colors": ["ffff00"], "Channels": ["IBA1"]}
+            {"Name": "Iba1", "Path": "IBA1_2__IBA1", "Colors": ["ffff00"], "Channels": ["Iba1"]}
         ]
 }
