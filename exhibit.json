@@ -602,7 +602,7 @@
                             "y": {
                                 "type": "quantitative", 
                                 "field": "NECAB1", 
-                                "title": "NECAB1 Expression"
+                                "title": "NECAB1 Normalized Expression"
                             }
                             }
                         },
@@ -643,7 +643,7 @@
                                     "range": ["square", "cross", "diamond", "triangle-up"]
                                 }
                             },
-                            "tooltip": [{"field": "NECAB1", "type": "quantitative", "title": "NECAB1 Expression","format": ".0f" },
+                            "tooltip": [{"field": "NECAB1", "type": "quantitative", "title": "NECAB1 Normalized Expression","format": ".0f" },
                             {"field": "type", "type": "nominal", "title": "ROI Category"}]
                             }
                         }
@@ -704,7 +704,7 @@
                         "y": {
                             "type": "quantitative", 
                             "field": "GJA", 
-                            "title": "GJA Expression"
+                            "title": "GJA Normalized Expression"
                         }
                         }
                     },
@@ -745,7 +745,7 @@
                                 "range": ["square", "cross", "diamond", "triangle-up"]
                             }
                         },
-                        "tooltip": [{"field": "GJA", "type": "quantitative", "title": "GJA Expression","format": ".0f" },
+                        "tooltip": [{"field": "GJA", "type": "quantitative", "title": "GJA Normalized Expression","format": ".0f" },
                         {"field": "type", "type": "nominal", "title": "ROI Category"}]
                         }
                     }
@@ -806,7 +806,7 @@
                             "y": {
                                 "type": "quantitative", 
                                 "field": "CD74", 
-                                "title": "CD74 Expression"
+                                "title": "CD74 Normalized Expression"
                             }
                             }
                         },
@@ -847,7 +847,7 @@
                                     "range": ["square", "cross", "diamond", "triangle-up"]
                                 }
                             },
-                            "tooltip": [{"field": "CD74", "type": "quantitative", "title": "CD74 Expression","format": ".0f" },
+                            "tooltip": [{"field": "CD74", "type": "quantitative", "title": "CD74 Normalized Expression","format": ".0f" },
                             {"field": "type", "type": "nominal", "title": "ROI Category"}]
                             }
                         }
