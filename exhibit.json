@@ -244,35 +244,7 @@
                     }
                 },
                 {
-                "data": {
-                    "values":[
-                        {"bar": "two", "order": "A", "segmentation": "NeuN+", "type": "Cortical layer V - NeuN+", "percentage": 0.077},
-                        {"bar": "two", "order": "B", "segmentation": "NeuN+", "type": "Cortical layer II/III - NeuN+", "percentage": 0.077},
-                        {"bar": "two", "order": "C", "segmentation": "NeuN+", "type": "Hippocampus CA1 - NeuN+", "percentage": 0.0256},
-                        {"bar": "two", "order": "D", "segmentation": "NeuN+", "type": "Hippocampal hilus - NeuN+", "percentage": 0.077},
-                        {"bar": "two", "order": "E", "segmentation": "NeuN+", "type": "Hippocampus CA1 - NeuN+", "percentage": 0.0512},
-                        {"bar": "two", "order": "F", "segmentation": "GFAP+", "type": "Cortical layer II/III - GFAP+", "percentage": 0.0256},
-                        {"bar": "two", "order": "G", "segmentation": "Iba1+", "type": "Cortical layer V - Iba1+", "percentage": 0.0512},
-                        {"bar": "two", "order": "H", "segmentation": "Neuropil", "type": "Cortical layer V - Neuropil", "percentage": 0.0256},
-                        {"bar": "two", "order": "I", "segmentation": "Iba1+", "type": "Hippocampus CA1 - Iba1+", "percentage": 0.0512},
-                        {"bar": "two", "order": "J", "segmentation": "Iba1+", "type": "Cortical layer II/III - Iba1+", "percentage": 0.0256},
-                        {"bar": "two", "order": "K", "segmentation": "Iba1+", "type": "Cortical layer V - Iba1+", "percentage": 0.0256},
-                        {"bar": "two", "order": "L", "segmentation": "Neuropil", "type": "Hippocampal hilus - Neuropil", "percentage": 0.0256},
-                        {"bar": "two", "order": "M", "segmentation": "Neuropil", "type": "Cortical layer II/III - Neuropil", "percentage": 0.0256},
-                        {"bar": "two", "order": "N", "segmentation": "Neuropil", "type": "Cortical layer V - Neuropil", "percentage": 0.0512},
-                        {"bar": "two", "order": "O", "segmentation": "Neuropil", "type": "Hippocampus CA1 - Neuropil", "percentage": 0.0256},
-                        {"bar": "two", "order": "P", "segmentation": "Neuropil", "type": "Cortical layer II/III - Neuropil", "percentage": 0.0512},
-                        {"bar": "two", "order": "Q", "segmentation": "Iba1+", "type": "Cortical layer II/III - Iba1+", "percentage": 0.0256},
-                        {"bar": "two", "order": "R", "segmentation": "Neuropil", "type": "Hippocampus CA1 - Neuropil", "percentage": 0.0512},
-                        {"bar": "two", "order": "S", "segmentation": "Iba1+", "type": "Cortical layer II/III - Iba1+", "percentage": 0.0256},
-                        {"bar": "two", "order": "T", "segmentation": "Iba1+", "type": "Hippocampus CA1 - Iba1+", "percentage": 0.0256},
-                        {"bar": "two", "order": "U", "segmentation": "Neuropil", "type": "Hippocampal hilus - Neuropil", "percentage": 0.0512},
-                        {"bar": "two", "order": "V", "segmentation": "GFAP+", "type": "Cortical layer II/III - GFAP+", "percentage": 0.0256},
-                        {"bar": "two", "order": "W", "segmentation": "GFAP+", "type": "Cortical layer V - GFAP+", "percentage": 0.0256},
-                        {"bar": "two", "order": "X", "segmentation": "GFAP+", "type": "Cortical layer II/III - GFAP+", "percentage": 0.0256},
-                        {"bar": "two", "order": "Y", "segmentation": "GFAP+", "type": "Cortical layer V - GFAP+", "percentage": 0.0512}
-                    ]
-                },
+                "data": {"url": "data/WPT6_Neuronal_annotationBar.csv"},
                 "mark": {
                     "type": "bar",
                     "yOffset": 420
@@ -370,27 +342,7 @@
                     }
                 },
             {
-                "data": {
-                    "values":[
-                        {"bar": "two", "order": "A", "segmentation": "Iba1+", "type": "Hippocampus CA1 - Iba1+", "percentage": 0.037},
-                        {"bar": "two", "order": "B", "segmentation": "Iba1+", "type": "Cortical layer V - Iba1+", "percentage": 0.037},
-                        {"bar": "two", "order": "C", "segmentation": "Iba1+", "type": "Hippocampus CA1 - Iba1+", "percentage": 0.037},
-                        {"bar": "two", "order": "D", "segmentation": "Iba1+", "type": "Cortical layer V - Iba1+", "percentage": 0.037},
-                        {"bar": "two", "order": "E", "segmentation": "Iba1+", "type": "Cortical layer II/III - Iba1+", "percentage": 0.037}, 
-                        {"bar": "two", "order": "F", "segmentation": "Iba1+", "type": "Cortical layer V - Iba1+", "percentage": 0.037},
-                        {"bar": "two", "order": "G", "segmentation": "Iba1+", "type": "Hippocampus CA1 - Iba1+", "percentage": 0.037},
-                        {"bar": "two", "order": "H", "segmentation": "Iba1+", "type": "Cortical layer II/III - Iba1+", "percentage": 0.074}, 
-                        {"bar": "two", "order": "I", "segmentation": "Neuropil", "type": "Hippocampal hilus - Neuropil", "percentage": 0.111},
-                        {"bar": "two", "order": "J", "segmentation": "Neuropil", "type": "Cortical layer V - Neuropil", "percentage": 0.037},
-                        {"bar": "two", "order": "K", "segmentation": "Neuropil", "type": "Cortical layer II/III - Neuropil", "percentage": 0.037},
-                        {"bar": "two", "order": "L", "segmentation": "Neuropil", "type": "Cortical layer V - Neuropil", "percentage": 0.074},
-                        {"bar": "two", "order": "M", "segmentation": "Neuropil", "type": "Hippocampus CA1 - Neuropil", "percentage": 0.111},
-                        {"bar": "two", "order": "N", "segmentation": "Neuropil", "type": "Cortical layer II/III - Neuropil", "percentage": 0.074},
-                        {"bar": "two", "order": "O", "segmentation": "GFAP+", "type": "Cortical layer V - GFAP+", "percentage": 0.037},
-                        {"bar": "two", "order": "P", "segmentation": "GFAP+", "type": "Cortical layer II/III - GFAP+", "percentage": 0.111},
-                        {"bar": "two", "order": "Q", "segmentation": "GFAP+", "type": "Cortical layer V - GFAP+", "percentage": 0.074}                 
-                    ]
-                },
+                "data": {"url": "data/WPT7_NonNeuronal_annotation.csv"},
                 "mark": {
                     "type": "bar",
                     "yOffset": 380

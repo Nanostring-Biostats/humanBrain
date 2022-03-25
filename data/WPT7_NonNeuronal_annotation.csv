@@ -1,0 +1,28 @@
+bar,order,X_position,Y_position,type,segmentation,percentage
+one,1,16563,16483,Hippocampus CA1 - Iba1+,Iba1+,0.037037
+one,A,15150,24659,Cortical layer V - Iba1+,Iba1+,0.037037
+one,B,17683,20128,Hippocampus CA1 - Iba1+,Iba1+,0.037037
+one,C,19978,31299,Cortical layer V - Iba1+,Iba1+,0.037037
+one,D,17781,32538,Cortical layer II/III - Iba1+,Iba1+,0.037037
+one,E,14266,22500,Cortical layer V - Iba1+,Iba1+,0.037037
+one,F,19727,22092,Hippocampus CA1 - Iba1+,Iba1+,0.037037
+one,G,12988,25768,Cortical layer II/III - Iba1+,Iba1+,0.037037
+one,H,11922,23565,Cortical layer II/III - Iba1+,Iba1+,0.037037
+one,I,29808.29492,17616.25391,Hippocampal hilus - Neuropil,Neuropil,0.037037
+one,J,24204.93164,16611.0332,Hippocampal hilus - Neuropil,Neuropil,0.037037
+one,K,26931.96875,17934.74023,Hippocampal hilus - Neuropil,Neuropil,0.037037
+one,L,19978,31299,Cortical layer V - Neuropil,Neuropil,0.037037
+one,M,17781,32538,Cortical layer II/III - Neuropil,Neuropil,0.037037
+one,N,15150,24659,Cortical layer V - Neuropil,Neuropil,0.037037
+one,O,14266,22500,Cortical layer V - Neuropil,Neuropil,0.037037
+one,P,17683,20128,Hippocampus CA1 - Neuropil,Neuropil,0.037037
+one,Q,19727,22092,Hippocampus CA1 - Neuropil,Neuropil,0.037037
+one,R,16563,16483,Hippocampus CA1 - Neuropil,Neuropil,0.037037
+one,S,12988,25768,Cortical layer II/III - Neuropil,Neuropil,0.037037
+one,T,11922,23565,Cortical layer II/III - Neuropil,Neuropil,0.037037
+one,U,19978,31299,Cortical layer V - GFAP+,GFAP+,0.037037
+one,V,11922,23565,Cortical layer II/III - GFAP+,GFAP+,0.037037
+one,W,17781,32538,Cortical layer II/III - GFAP+,GFAP+,0.037037
+one,X,12988,25768,Cortical layer II/III - GFAP+,GFAP+,0.037037
+one,Y,15150,24659,Cortical layer V - GFAP+,GFAP+,0.037037
+one,Z,14266,22500,Cortical layer V - GFAP+,GFAP+,0.037037

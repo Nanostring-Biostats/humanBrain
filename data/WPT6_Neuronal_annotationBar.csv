@@ -1,0 +1,40 @@
+bar,order,segmentation,type,percentage,X_position,Y_position
+two,1,NeuN+,Cortical layer V - NeuN+,0.02564,15150,24659
+two,2,NeuN+,Cortical layer V - NeuN+,0.02564,19978,31299
+two,3,NeuN+,Cortical layer V - NeuN+,0.02564,14266,22500
+two,4,NeuN+,Cortical layer II/III - NeuN+,0.02564,17781,32538
+two,5,NeuN+,Cortical layer II/III - NeuN+,0.02564,12988,25768
+two,6,NeuN+,Cortical layer II/III - NeuN+,0.02564,11922,23565
+two,7,NeuN+,Hippocampus CA1 - NeuN+,0.02564,19727,22092
+two,8,NeuN+,Hippocampal hilus - NeuN+,0.02564,29808.29492,17616.25391
+two,9,NeuN+,Hippocampal hilus - NeuN+,0.02564,26931.96875,17934.74023
+two,A,NeuN+,Hippocampal hilus - NeuN+,0.02564,24204.93164,16611.0332
+two,B,NeuN+,Hippocampus CA1 - NeuN+,0.02564,17683,20128
+two,C,NeuN+,Hippocampus CA1 - NeuN+,0.02564,16563,16483
+two,D,GFAP+,Cortical layer II/III - GFAP+,0.02564,12988,25768
+two,E,Iba1+,Cortical layer V - Iba1+,0.02564,19978,31299
+two,F,Iba1+,Cortical layer V - Iba1+,0.02564,14266,22500
+two,G,Neuropil,Cortical layer V - Neuropil,0.02564,19978,31299
+two,H,Iba1+,Hippocampus CA1 - Iba1+,0.02564,17683,20128
+two,I,Iba1+,Hippocampus CA1 - Iba1+,0.02564,16563,16483
+two,J,Iba1+,Cortical layer II/III - Iba1+,0.02564,11922,23565
+two,K,Iba1+,Cortical layer V - Iba1+,0.02564,15150,24659
+two,L,Neuropil,Hippocampal hilus - Neuropil,0.02564,29808.29492,17616.25391
+two,M,Neuropil,Cortical layer II/III - Neuropil,0.02564,17781,32538
+two,N,Neuropil,Cortical layer V - Neuropil,0.02564,14266,22500
+two,O,Neuropil,Cortical layer V - Neuropil,0.02564,15150,24659
+two,P,Neuropil,Hippocampus CA1 - Neuropil,0.02564,19727,22092
+two,Q,Neuropil,Cortical layer II/III - Neuropil,0.02564,11922,23565
+two,R,Neuropil,Cortical layer II/III - Neuropil,0.02564,12988,25768
+two,S,Iba1+,Cortical layer II/III - Iba1+,0.02564,12988,25768
+two,T,Neuropil,Hippocampus CA1 - Neuropil,0.02564,17683,20128
+two,U,Neuropil,Hippocampus CA1 - Neuropil,0.02564,16563,16483
+two,V,Iba1+,Cortical layer II/III - Iba1+,0.02564,17781,32538
+two,W,Iba1+,Hippocampus CA1 - Iba1+,0.02564,19727,22092
+two,X,Neuropil,Hippocampal hilus - Neuropil,0.02564,24204.93164,16611.0332
+two,Y,Neuropil,Hippocampal hilus - Neuropil,0.02564,26931.96875,17934.74023
+two,Z,GFAP+,Cortical layer II/III - GFAP+,0.02564,17781,32538
+two,Za,GFAP+,Cortical layer V - GFAP+,0.02564,19978,31299
+two,Zb,GFAP+,Cortical layer II/III - GFAP+,0.02564,11922,23565
+two,Zc,GFAP+,Cortical layer V - GFAP+,0.02564,15150,24659
+two,Zd,GFAP+,Cortical layer V - GFAP+,0.02564,14266,22500
