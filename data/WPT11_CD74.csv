@@ -2,39 +2,39 @@ clust_id,X_position,Y_position,type,SegmentType,channel,Histological Structure,C
 1,15150,24659,Cortical layer V - NeuN+,NeuN+,NeuN,Cortical layer V,8.191146378,Cortical layer V,0.553784376
 2,15150,24659,Cortical layer V - Iba1+,Iba1+,Iba1,Cortical layer V,188.65234,Cortical layer V,1.269711624
 3,15150,24659,Cortical layer V - GFAP+,GFAP+,GFAP,Cortical layer V,15.01710169,Cortical layer V,2.319911755
-4,15150,24659,Cortical layer V - Neuropil,Neuropil,,Cortical layer V,16.89423941,Cortical layer V,3.4704798048
+4,15150,24659,Cortical layer V - Neuropil,Neuropil,All markers,Cortical layer V,16.89423941,Cortical layer V,3.4704798048
 1,17781,32538,Cortical layer II/III - NeuN+,NeuN+,NeuN,Cortical layer II/III,3.55668198,Cortical layer II/III,0.314726843
 2,17781,32538,Cortical layer II/III - Iba1+,Iba1+,Iba1,Cortical layer II/III,217.7479746,Cortical layer II/III,1.436917242
 3,17781,32538,Cortical layer II/III - GFAP+,GFAP+,GFAP,Cortical layer II/III,15.01710169,Cortical layer II/III,2.482482814
-4,17781,32538,Cortical layer II/III - Neuropil,Neuropil,,Cortical layer II/III,15.01710169,Cortical layer II/III,3.273304094
+4,17781,32538,Cortical layer II/III - Neuropil,Neuropil,All markers,Cortical layer II/III,15.01710169,Cortical layer II/III,3.273304094
 1,19978,31299,Cortical layer V - NeuN+,NeuN+,NeuN,Cortical layer V,9.653851089,Cortical layer V,0.7437581
 2,19978,31299,Cortical layer V - Iba1+,Iba1+,Iba1,Cortical layer V,184.7103508,Cortical layer V,1.704226165
 3,19978,31299,Cortical layer V - GFAP+,GFAP+,GFAP,Cortical layer V,9.010261016,Cortical layer V,2.739695073
-4,19978,31299,Cortical layer V - Neuropil,Neuropil,,Cortical layer V,11.26282627,Cortical layer V,3.335236107
+4,19978,31299,Cortical layer V - Neuropil,Neuropil,All markers,Cortical layer V,11.26282627,Cortical layer V,3.335236107
 1,29808.29492,17616.25391,Hippocampal hilus - NeuN+,NeuN+,NeuN,Hippocampal hilus,3.975115154,Hippocampal hilus,0.271367187
-4,29808.29492,17616.25391,Hippocampal hilus - Neuropil,Neuropil,,Hippocampal hilus,90.10261016,Hippocampal hilus,3.321416182
+4,29808.29492,17616.25391,Hippocampal hilus - Neuropil,Neuropil,All markers,Hippocampal hilus,90.10261016,Hippocampal hilus,3.321416182
 1,24204.93164,16611.0332,Hippocampal hilus - NeuN+,NeuN+,NeuN,Hippocampal hilus,16.89423941,Hippocampal hilus,0.430290421
-4,24204.93164,16611.0332,Hippocampal hilus - Neuropil,Neuropil,,Hippocampal hilus,99.98228233,Hippocampal hilus,3.522210275
+4,24204.93164,16611.0332,Hippocampal hilus - Neuropil,Neuropil,All markers,Hippocampal hilus,99.98228233,Hippocampal hilus,3.522210275
 1,26931.96875,17934.74023,Hippocampal hilus - NeuN+,NeuN+,NeuN,Hippocampal hilus,11.26282627,Hippocampal hilus,0.518698309
-4,26931.96875,17934.74023,Hippocampal hilus - Neuropil,Neuropil,,Hippocampal hilus,79.07941849,Hippocampal hilus,3.567774433
+4,26931.96875,17934.74023,Hippocampal hilus - Neuropil,Neuropil,All markers,Hippocampal hilus,79.07941849,Hippocampal hilus,3.567774433
 1,17683,20128,Hippocampus CA1 - NeuN+,NeuN+,NeuN,Hippocampus CA1,3.33713371,Hippocampus CA1,0.492373266
 2,17683,20128,Hippocampus CA1 - Iba1+,Iba1+,Iba1,Hippocampus CA1,152.0481546,Hippocampus CA1,1.292948114
-4,17683,20128,Hippocampus CA1 - Neuropil,Neuropil,,Hippocampus CA1,18.16584882,Hippocampus CA1,3.722456594
+4,17683,20128,Hippocampus CA1 - Neuropil,Neuropil,All markers,Hippocampus CA1,18.16584882,Hippocampus CA1,3.722456594
 1,16563,16483,Hippocampus CA1 - NeuN+,NeuN+,NeuN,Hippocampus CA1,6.257125706,Hippocampus CA1,0.423356886
 2,16563,16483,Hippocampus CA1 - Iba1+,Iba1+,Iba1,Hippocampus CA1,135.1539152,Hippocampus CA1,1.434673112
-4,16563,16483,Hippocampus CA1 - Neuropil,Neuropil,,Hippocampus CA1,11.96675291,Hippocampus CA1,3.562074371
+4,16563,16483,Hippocampus CA1 - Neuropil,Neuropil,All markers,Hippocampus CA1,11.96675291,Hippocampus CA1,3.562074371
 1,19727,22092,Hippocampus CA1 - NeuN+,NeuN+,NeuN,Hippocampus CA1,4.826925544,Hippocampus CA1,0.5813702913
 2,19727,22092,Hippocampus CA1 - Iba1+,Iba1+,Iba1,Hippocampus CA1,167.9185008,Hippocampus CA1,1.348964054
-4,19727,22092,Hippocampus CA1 - Neuropil,Neuropil,,Hippocampus CA1,15.53493279,Hippocampus CA1,3.5443576
+4,19727,22092,Hippocampus CA1 - Neuropil,Neuropil,All markers,Hippocampus CA1,15.53493279,Hippocampus CA1,3.5443576
 1,12988,25768,Cortical layer II/III - NeuN+,NeuN+,NeuN,Cortical layer II/III,7.743193061,Cortical layer II/III,0.671448583
 2,12988,25768,Cortical layer II/III - Iba1+,Iba1+,Iba1,Cortical layer II/III,211.1779926,Cortical layer II/III,1.749689516
 3,12988,25768,Cortical layer II/III - GFAP+,GFAP+,GFAP,Cortical layer II/III,45.05130508,Cortical layer II/III,2.255719125
-4,12988,25768,Cortical layer II/III - Neuropil,Neuropil,,Cortical layer II/III,13.04116726,Cortical layer II/III,3.660665925
+4,12988,25768,Cortical layer II/III - Neuropil,Neuropil,All markers,Cortical layer II/III,13.04116726,Cortical layer II/III,3.660665925
 1,14266,22500,Cortical layer V - NeuN+,NeuN+,NeuN,Cortical layer V,6.674267419,Cortical layer V,0.352811913
 2,14266,22500,Cortical layer V - Iba1+,Iba1+,Iba1,Cortical layer V,237.7707768,Cortical layer V,1.306902426
 3,14266,22500,Cortical layer V - GFAP+,GFAP+,GFAP,Cortical layer V,16.89423941,Cortical layer V,2.594042832
-4,14266,22500,Cortical layer V - Neuropil,Neuropil,,Cortical layer V,25.34135911,Cortical layer V,3.38648066
+4,14266,22500,Cortical layer V - Neuropil,Neuropil,All markers,Cortical layer V,25.34135911,Cortical layer V,3.38648066
 1,11922,23565,Cortical layer II/III - NeuN+,NeuN+,NeuN,Cortical layer II/III,2.145300242,Cortical layer II/III,0.7158494
 2,11922,23565,Cortical layer II/III - Iba1+,Iba1+,Iba1,Cortical layer II/III,259.0450042,Cortical layer II/III,1.572198201
 3,11922,23565,Cortical layer II/III - GFAP+,GFAP+,GFAP,Cortical layer II/III,22.52565254,Cortical layer II/III,2.51395114
-4,11922,23565,Cortical layer II/III - Neuropil,Neuropil,,Cortical layer II/III,15.82883692,Cortical layer II/III,3.364325484
+4,11922,23565,Cortical layer II/III - Neuropil,Neuropil,All markers,Cortical layer II/III,15.82883692,Cortical layer II/III,3.364325484
